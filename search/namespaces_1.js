@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['debughandler',['DebugHandler',['../a09982.html',1,'']]],
-  ['discord',['Discord',['../a10001.html',1,'']]],
-  ['discordpresence',['DiscordPresence',['../a09987.html',1,'']]]
+  ['debughandler',['DebugHandler',['../namespace_debug_handler.html',1,'']]],
+  ['discord',['Discord',['../namespace_discord.html',1,'']]],
+  ['discordpresence',['DiscordPresence',['../namespace_discord_presence.html',1,'']]]
 ];

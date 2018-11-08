@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['randomlootmanager',['RandomLootManager',['../a09990.html',1,'']]]
+  ['randomlootmanager',['RandomLootManager',['../namespace_random_loot_manager.html',1,'']]]
 ];

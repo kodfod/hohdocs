@@ -1,0 +1,25 @@
+var _armor_8as =
+[
+    [ "ArmorDef", "class_armor_def.html", "class_armor_def" ],
+    [ "ApplyArmor", "_armor_8as.html#aafc62d41461a90ddafac0eb42b4bc2eb", null ],
+    [ "ApplyArmor", "_armor_8as.html#aaf344f63d279285604bd1b39ba95fb5f", null ],
+    [ "ApplyArmorParts", "_armor_8as.html#a69cfe0589f354e4f8792e8468b4f880a", null ],
+    [ "armor_round", "_armor_8as.html#a91363c58451e62b22d0e0aef1a653e10", null ],
+    [ "ArmorDef", "_armor_8as.html#ab2f9fd51edf5c12963fa1b7ed21700ec", null ],
+    [ "BlockBuff", "_armor_8as.html#a987de403bc02fb48a3d11ecf97a3f6d1", null ],
+    [ "CalcArmor", "_armor_8as.html#aca5e8a2a732f55c01054a1c2040f9521", null ],
+    [ "damage_round", "_armor_8as.html#af0d515c90f2dd07c430467635e5b4cb7", null ],
+    [ "LoadArmorDef", "_armor_8as.html#aa4c7af6ed907458d39da01c380c81053", null ],
+    [ "LoadArmorDef", "_armor_8as.html#a7f77cbac4ecd6a235daed90764547c98", null ],
+    [ "g_armorDefs", "_armor_8as.html#a44b7a3c7ea34827ea2a91b48ab274877", null ],
+    [ "m_mulBio", "_armor_8as.html#ad4b66c0a3bd6e308214c5ead77977976", null ],
+    [ "m_mulBlunt", "_armor_8as.html#a1c239e666e1e25332e0a1bd74bfcb847", null ],
+    [ "m_mulEnergy", "_armor_8as.html#a37ad5b3cf76b9e07f2e7f5827945b67c", null ],
+    [ "m_mulExplosion", "_armor_8as.html#a971495e0b05e15e9630a31b769c3555a", null ],
+    [ "m_mulFire", "_armor_8as.html#adeb1669638683456385e2c9733194fcc", null ],
+    [ "m_mulFrost", "_armor_8as.html#adcba59d0fd8654e49abda3ed6f7b393c", null ],
+    [ "m_mulPierce", "_armor_8as.html#a839a547ae6e88a5ed7a5e46101eb8f71", null ],
+    [ "m_mulTrap", "_armor_8as.html#a9ef7a638cf86527747cc372e3cb371c1", null ],
+    [ "m_pathHash", "_armor_8as.html#ad022a42d647b0b4147a62bd8d289e3ba", null ],
+    [ "m_sound", "_armor_8as.html#a7034da751ee3c0891b3869b5b790d859", null ]
+];

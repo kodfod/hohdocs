@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['lootdef',['LootDef',['../a09973.html',1,'']]]
+  ['lootdef',['LootDef',['../namespace_loot_def.html',1,'']]]
 ];

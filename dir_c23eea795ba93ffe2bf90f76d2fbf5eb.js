@@ -1,14 +1,14 @@
 var dir_c23eea795ba93ffe2bf90f76d2fbf5eb =
 [
-    [ "Player.as", "a15560.html", "a15560" ],
-    [ "PlayerBase.as", "a08366.html", [
-      [ "PlayerBase", "a10493.html", "a10493" ]
+    [ "Player.as", "_behaviors_2_actors_2_player_2_player_8as.html", "_behaviors_2_actors_2_player_2_player_8as" ],
+    [ "PlayerBase.as", "_player_base_8as.html", [
+      [ "PlayerBase", "class_player_base.html", "class_player_base" ]
     ] ],
-    [ "PlayerCorpse.as", "a08369.html", [
-      [ "PlayerCorpse", "a10497.html", "a10497" ]
+    [ "PlayerCorpse.as", "_player_corpse_8as.html", [
+      [ "PlayerCorpse", "class_player_corpse.html", "class_player_corpse" ]
     ] ],
-    [ "PlayerHusk.as", "a08372.html", [
-      [ "PlayerHusk", "a10501.html", "a10501" ]
+    [ "PlayerHusk.as", "_player_husk_8as.html", [
+      [ "PlayerHusk", "class_player_husk.html", "class_player_husk" ]
     ] ],
-    [ "PlayerRecord.as", "a08375.html", "a08375" ]
+    [ "PlayerRecord.as", "_player_record_8as.html", "_player_record_8as" ]
 ];

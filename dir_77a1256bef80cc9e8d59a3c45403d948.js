@@ -1,24 +1,24 @@
 var dir_77a1256bef80cc9e8d59a3c45403d948 =
 [
-    [ "BuildingUpgrade.as", "a09398.html", [
-      [ "BuildingUpgrade", "a11849.html", "a11849" ]
+    [ "BuildingUpgrade.as", "_building_upgrade_8as.html", [
+      [ "BuildingUpgrade", "class_upgrades_1_1_building_upgrade.html", "class_upgrades_1_1_building_upgrade" ]
     ] ],
-    [ "ItemUpgrade.as", "a09401.html", [
-      [ "ItemUpgrade", "a11853.html", "a11853" ]
+    [ "ItemUpgrade.as", "_item_upgrade_8as.html", [
+      [ "ItemUpgrade", "class_upgrades_1_1_item_upgrade.html", "class_upgrades_1_1_item_upgrade" ]
     ] ],
-    [ "KeyUpgrade.as", "a09404.html", [
-      [ "KeyUpgrade", "a11857.html", "a11857" ]
+    [ "KeyUpgrade.as", "_key_upgrade_8as.html", [
+      [ "KeyUpgrade", "class_upgrades_1_1_key_upgrade.html", "class_upgrades_1_1_key_upgrade" ]
     ] ],
-    [ "ModifierUpgrade.as", "a09407.html", [
-      [ "ModifierUpgrade", "a11861.html", "a11861" ]
+    [ "ModifierUpgrade.as", "_modifier_upgrade_8as.html", [
+      [ "ModifierUpgrade", "class_upgrades_1_1_modifier_upgrade.html", "class_upgrades_1_1_modifier_upgrade" ]
     ] ],
-    [ "OreTraderUpgrade.as", "a09410.html", [
-      [ "OreTraderUpgrade", "a11865.html", "a11865" ]
+    [ "OreTraderUpgrade.as", "_ore_trader_upgrade_8as.html", [
+      [ "OreTraderUpgrade", "class_upgrades_1_1_ore_trader_upgrade.html", "class_upgrades_1_1_ore_trader_upgrade" ]
     ] ],
-    [ "RecordUpgrade.as", "a09413.html", [
-      [ "RecordUpgrade", "a11869.html", "a11869" ]
+    [ "RecordUpgrade.as", "_record_upgrade_8as.html", [
+      [ "RecordUpgrade", "class_upgrades_1_1_record_upgrade.html", "class_upgrades_1_1_record_upgrade" ]
     ] ],
-    [ "SingleStepUpgrade.as", "a09416.html", [
-      [ "SingleStepUpgrade", "a11873.html", "a11873" ]
+    [ "SingleStepUpgrade.as", "_single_step_upgrade_8as.html", [
+      [ "SingleStepUpgrade", "class_upgrades_1_1_single_step_upgrade.html", "class_upgrades_1_1_single_step_upgrade" ]
     ] ]
 ];

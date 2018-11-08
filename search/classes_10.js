@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['queuedtask',['QueuedTask',['../a11729.html',1,'QueuedTasks']]]
+  ['queuedtask',['QueuedTask',['../class_queued_tasks_1_1_queued_task.html',1,'QueuedTasks']]]
 ];

@@ -1,0 +1,25 @@
+var class_actor_footsteps =
+[
+    [ "ActorFootsteps", "class_actor_footsteps.html#a14764becaaa4ec4e9f083e9fda81718e", null ],
+    [ "GetFootPosition", "class_actor_footsteps.html#a6753656396a3bdf683df001ede640de4", null ],
+    [ "NextFoot", "class_actor_footsteps.html#ad248f3e94d6e97e55d50b1dca3946821", null ],
+    [ "StepEffect", "class_actor_footsteps.html#ac8b334f9fc123f41deff70f0b93e0da5", null ],
+    [ "StepSound", "class_actor_footsteps.html#a3c04e14f23cecd904a7468c6dcbbe59a", null ],
+    [ "Update", "class_actor_footsteps.html#af7891f4565a0deddce4b2b45d043c2cf", null ],
+    [ "m_currentFoot", "class_actor_footsteps.html#a520d3724c0df338a21af9fd6e1a6bcc3", null ],
+    [ "m_currWalkSound", "class_actor_footsteps.html#a0ab24b04dfb736e222a5d40590ba5a36", null ],
+    [ "m_delayEffect", "class_actor_footsteps.html#ad3302b68a0b94c93eba853b25f967529", null ],
+    [ "m_delayEffectC", "class_actor_footsteps.html#a961234f7fe9dbb3508e283fb46076995", null ],
+    [ "m_delaySound", "class_actor_footsteps.html#ab1af5e1cacc856d40aa1686c7ea8b8f7", null ],
+    [ "m_delaySoundC", "class_actor_footsteps.html#af19c02eec4ca1a2209b7af713bee56cf", null ],
+    [ "m_facingDirection", "class_actor_footsteps.html#ac0446cc28f0d5fc146d7a0516a43ac02", null ],
+    [ "m_feetCount", "class_actor_footsteps.html#a0eef4b1511ac2806712e2e7befad4aaf", null ],
+    [ "m_feetDistance", "class_actor_footsteps.html#aa481a6e00c8645c60187130b97c10b6f", null ],
+    [ "m_feetDistanceFar", "class_actor_footsteps.html#a0569d9ad13588bb315e63fcc1980a25b", null ],
+    [ "m_nextFootWait", "class_actor_footsteps.html#ac853ffe4f3f1d4ab2aa9fcc7be97cc62", null ],
+    [ "m_nextFootWaitC", "class_actor_footsteps.html#af6ea76f83c7ae41195a1f939df2ef70f", null ],
+    [ "m_paused", "class_actor_footsteps.html#a7c781d66844072e9cc86754d28434805", null ],
+    [ "m_tileEffects", "class_actor_footsteps.html#aa79e71f2065889b9eac2c48df64e73c1", null ],
+    [ "m_unit", "class_actor_footsteps.html#a2ae6e5afe880ee62f0237f9317489651", null ],
+    [ "m_walkSounds", "class_actor_footsteps.html#a07cb97cc7a992226a9f80f3aded8b890", null ]
+];

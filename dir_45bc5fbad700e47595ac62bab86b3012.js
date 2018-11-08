@@ -1,33 +1,33 @@
 var dir_45bc5fbad700e47595ac62bab86b3012 =
 [
-    [ "ActorMovement.as", "a08126.html", [
-      [ "ActorMovement", "a10145.html", "a10145" ]
+    [ "ActorMovement.as", "_actor_movement_8as.html", [
+      [ "ActorMovement", "class_actor_movement.html", "class_actor_movement" ]
     ] ],
-    [ "BossLichMovement.as", "a08129.html", "a08129" ],
-    [ "BossVampireMovement.as", "a08132.html", "a08132" ],
-    [ "ChargeMovement.as", "a08135.html", [
-      [ "ChargeMovement", "a10157.html", "a10157" ]
+    [ "BossLichMovement.as", "_boss_lich_movement_8as.html", "_boss_lich_movement_8as" ],
+    [ "BossVampireMovement.as", "_boss_vampire_movement_8as.html", "_boss_vampire_movement_8as" ],
+    [ "ChargeMovement.as", "_charge_movement_8as.html", [
+      [ "ChargeMovement", "class_charge_movement.html", "class_charge_movement" ]
     ] ],
-    [ "CirclingMovement.as", "a08138.html", [
-      [ "CirclingMovement", "a10161.html", "a10161" ]
+    [ "CirclingMovement.as", "_circling_movement_8as.html", [
+      [ "CirclingMovement", "class_circling_movement.html", "class_circling_movement" ]
     ] ],
-    [ "EmptyMovement.as", "a08141.html", [
-      [ "EmptyMovement", "a10165.html", "a10165" ]
+    [ "EmptyMovement.as", "_empty_movement_8as.html", [
+      [ "EmptyMovement", "class_empty_movement.html", "class_empty_movement" ]
     ] ],
-    [ "FleeMovement.as", "a08144.html", "a08144" ],
-    [ "MeleeMovement.as", "a08147.html", [
-      [ "MeleeMovement", "a10173.html", "a10173" ]
+    [ "FleeMovement.as", "_flee_movement_8as.html", "_flee_movement_8as" ],
+    [ "MeleeMovement.as", "_melee_movement_8as.html", [
+      [ "MeleeMovement", "class_melee_movement.html", "class_melee_movement" ]
     ] ],
-    [ "PassiveMovement.as", "a08150.html", [
-      [ "PassiveMovement", "a10177.html", "a10177" ]
+    [ "PassiveMovement.as", "_passive_movement_8as.html", [
+      [ "PassiveMovement", "class_passive_movement.html", "class_passive_movement" ]
     ] ],
-    [ "PathFollower.as", "a08153.html", [
-      [ "PathFollower", "a10181.html", "a10181" ]
+    [ "PathFollower.as", "_path_follower_8as.html", [
+      [ "PathFollower", "class_path_follower.html", "class_path_follower" ]
     ] ],
-    [ "RangedMovement.as", "a08156.html", [
-      [ "RangedMovement", "a10185.html", "a10185" ]
+    [ "RangedMovement.as", "_ranged_movement_8as.html", [
+      [ "RangedMovement", "class_ranged_movement.html", "class_ranged_movement" ]
     ] ],
-    [ "TargetMovement.as", "a08159.html", [
-      [ "TargetMovement", "a10189.html", "a10189" ]
+    [ "TargetMovement.as", "_target_movement_8as.html", [
+      [ "TargetMovement", "class_target_movement.html", "class_target_movement" ]
     ] ]
 ];

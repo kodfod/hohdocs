@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['charactercolors',['CharacterColors',['../a09979.html',1,'']]],
-  ['crowd',['Crowd',['../a09975.html',1,'']]],
-  ['cvars',['CVars',['../a09977.html',1,'']]]
+  ['charactercolors',['CharacterColors',['../namespace_character_colors.html',1,'']]],
+  ['crowd',['Crowd',['../namespace_crowd.html',1,'']]],
+  ['cvars',['CVars',['../namespace_c_vars.html',1,'']]]
 ];

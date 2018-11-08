@@ -1,416 +1,416 @@
 var dir_74f84b745666f6e542b8031d7925b1c0 =
 [
-    [ "ActorHealthTrigger.as", "a09440.html", [
-      [ "ActorHealthTrigger", "a11897.html", "a11897" ]
+    [ "ActorHealthTrigger.as", "_actor_health_trigger_8as.html", [
+      [ "ActorHealthTrigger", "class_world_script_1_1_actor_health_trigger.html", "class_world_script_1_1_actor_health_trigger" ]
     ] ],
-    [ "AddNotification.as", "a09443.html", [
-      [ "AddNotification", "a11901.html", "a11901" ]
+    [ "AddNotification.as", "_add_notification_8as.html", [
+      [ "AddNotification", "class_world_script_1_1_add_notification.html", "class_world_script_1_1_add_notification" ]
     ] ],
-    [ "AddScreenShake.as", "a09446.html", [
-      [ "AddScreenShake", "a11905.html", "a11905" ]
+    [ "AddScreenShake.as", "_add_screen_shake_8as.html", [
+      [ "AddScreenShake", "class_world_script_1_1_add_screen_shake.html", "class_world_script_1_1_add_screen_shake" ]
     ] ],
-    [ "AllPlayersAreaTrigger.as", "a09449.html", [
-      [ "AllPlayersAreaTrigger", "a11909.html", "a11909" ]
+    [ "AllPlayersAreaTrigger.as", "_all_players_area_trigger_8as.html", [
+      [ "AllPlayersAreaTrigger", "class_world_script_1_1_all_players_area_trigger.html", "class_world_script_1_1_all_players_area_trigger" ]
     ] ],
-    [ "AnnounceText.as", "a09452.html", [
-      [ "AnnounceText", "a11913.html", "a11913" ]
+    [ "AnnounceText.as", "_announce_text_8as.html", [
+      [ "AnnounceText", "class_world_script_1_1_announce_text.html", "class_world_script_1_1_announce_text" ]
     ] ],
-    [ "AreaTrigger.as", "a09455.html", "a09455" ],
-    [ "AttachNewUnit.as", "a09458.html", [
-      [ "AttachNewUnit", "a11921.html", "a11921" ]
+    [ "AreaTrigger.as", "_area_trigger_8as.html", "_area_trigger_8as" ],
+    [ "AttachNewUnit.as", "_attach_new_unit_8as.html", [
+      [ "AttachNewUnit", "class_world_script_1_1_attach_new_unit.html", "class_world_script_1_1_attach_new_unit" ]
     ] ],
-    [ "BossBarCheckpoint.as", "a09461.html", [
-      [ "BossBarCheckpoint", "a11925.html", "a11925" ]
+    [ "BossBarCheckpoint.as", "_boss_bar_checkpoint_8as.html", [
+      [ "BossBarCheckpoint", "class_world_script_1_1_boss_bar_checkpoint.html", "class_world_script_1_1_boss_bar_checkpoint" ]
     ] ],
-    [ "BossEyeSuspend.as", "a09464.html", [
-      [ "BossEyeSuspend", "a11929.html", "a11929" ]
+    [ "BossEyeSuspend.as", "_boss_eye_suspend_8as.html", [
+      [ "BossEyeSuspend", "class_world_script_1_1_boss_eye_suspend.html", "class_world_script_1_1_boss_eye_suspend" ]
     ] ],
-    [ "BossEyeWispsAdd.as", "a09467.html", [
-      [ "BossEyeWispsAdd", "a11933.html", "a11933" ]
+    [ "BossEyeWispsAdd.as", "_boss_eye_wisps_add_8as.html", [
+      [ "BossEyeWispsAdd", "class_world_script_1_1_boss_eye_wisps_add.html", "class_world_script_1_1_boss_eye_wisps_add" ]
     ] ],
-    [ "BossEyeWispsClear.as", "a09470.html", [
-      [ "BossEyeWispsClear", "a11937.html", "a11937" ]
+    [ "BossEyeWispsClear.as", "_boss_eye_wisps_clear_8as.html", [
+      [ "BossEyeWispsClear", "class_world_script_1_1_boss_eye_wisps_clear.html", "class_world_script_1_1_boss_eye_wisps_clear" ]
     ] ],
-    [ "BossEyeWispsSpeed.as", "a09473.html", [
-      [ "BossEyeWispsSpeed", "a11941.html", "a11941" ]
+    [ "BossEyeWispsSpeed.as", "_boss_eye_wisps_speed_8as.html", [
+      [ "BossEyeWispsSpeed", "class_world_script_1_1_boss_eye_wisps_speed.html", "class_world_script_1_1_boss_eye_wisps_speed" ]
     ] ],
-    [ "BossLichNode.as", "a09476.html", [
-      [ "BossLichNode", "a11945.html", "a11945" ]
+    [ "BossLichNode.as", "_boss_lich_node_8as.html", [
+      [ "BossLichNode", "class_world_script_1_1_boss_lich_node.html", "class_world_script_1_1_boss_lich_node" ]
     ] ],
-    [ "BossLichRoom.as", "a09479.html", [
-      [ "BossLichRoom", "a11949.html", "a11949" ]
+    [ "BossLichRoom.as", "_boss_lich_room_8as.html", [
+      [ "BossLichRoom", "class_world_script_1_1_boss_lich_room.html", "class_world_script_1_1_boss_lich_room" ]
     ] ],
-    [ "ChangeVariables.as", "a09482.html", "a09482" ],
-    [ "CheckActorHealth.as", "a09485.html", "a09485" ],
-    [ "CheckCrowdValue.as", "a09488.html", [
-      [ "CheckCrowdValue", "a11953.html", "a11953" ]
+    [ "ChangeVariables.as", "_change_variables_8as.html", "_change_variables_8as" ],
+    [ "CheckActorHealth.as", "_check_actor_health_8as.html", "_check_actor_health_8as" ],
+    [ "CheckCrowdValue.as", "_check_crowd_value_8as.html", [
+      [ "CheckCrowdValue", "class_world_script_1_1_check_crowd_value.html", "class_world_script_1_1_check_crowd_value" ]
     ] ],
-    [ "CheckFlag.as", "a09491.html", [
-      [ "CheckFlag", "a11957.html", "a11957" ]
+    [ "CheckFlag.as", "_check_flag_8as.html", [
+      [ "CheckFlag", "class_world_script_1_1_check_flag.html", "class_world_script_1_1_check_flag" ]
     ] ],
-    [ "CheckMods.as", "a09494.html", [
-      [ "CheckMods", "a11961.html", "a11961" ]
+    [ "CheckMods.as", "_check_mods_8as.html", [
+      [ "CheckMods", "class_world_script_1_1_check_mods.html", "class_world_script_1_1_check_mods" ]
     ] ],
-    [ "CheckNewGamePlus.as", "a09497.html", [
-      [ "CheckNewGamePlus", "a11965.html", "a11965" ]
+    [ "CheckNewGamePlus.as", "_check_new_game_plus_8as.html", [
+      [ "CheckNewGamePlus", "class_world_script_1_1_check_new_game_plus.html", "class_world_script_1_1_check_new_game_plus" ]
     ] ],
-    [ "CheckPlayerCount.as", "a09500.html", [
-      [ "CheckPlayerCount", "a11969.html", "a11969" ]
+    [ "CheckPlayerCount.as", "_check_player_count_8as.html", [
+      [ "CheckPlayerCount", "class_world_script_1_1_check_player_count.html", "class_world_script_1_1_check_player_count" ]
     ] ],
-    [ "CheckSpawnDistance.as", "a09503.html", [
-      [ "CheckSpawnDistance", "a11973.html", "a11973" ]
+    [ "CheckSpawnDistance.as", "_check_spawn_distance_8as.html", [
+      [ "CheckSpawnDistance", "class_world_script_1_1_check_spawn_distance.html", "class_world_script_1_1_check_spawn_distance" ]
     ] ],
-    [ "CheckSwitch.as", "a09506.html", [
-      [ "CheckSwitch", "a11977.html", "a11977" ]
+    [ "CheckSwitch.as", "_check_switch_8as.html", [
+      [ "CheckSwitch", "class_world_script_1_1_check_switch.html", "class_world_script_1_1_check_switch" ]
     ] ],
-    [ "CheckTimeOfDay.as", "a09509.html", [
-      [ "CheckTimeOfDay", "a11981.html", "a11981" ]
+    [ "CheckTimeOfDay.as", "_check_time_of_day_8as.html", [
+      [ "CheckTimeOfDay", "class_world_script_1_1_check_time_of_day.html", "class_world_script_1_1_check_time_of_day" ]
     ] ],
-    [ "CheckUnitActorTeam.as", "a09512.html", [
-      [ "CheckUnitActorTeam", "a11985.html", "a11985" ]
+    [ "CheckUnitActorTeam.as", "_check_unit_actor_team_8as.html", [
+      [ "CheckUnitActorTeam", "class_world_script_1_1_check_unit_actor_team.html", "class_world_script_1_1_check_unit_actor_team" ]
     ] ],
-    [ "CheckUnitSlot.as", "a09515.html", [
-      [ "CheckUnitSlot", "a11989.html", "a11989" ]
+    [ "CheckUnitSlot.as", "_check_unit_slot_8as.html", [
+      [ "CheckUnitSlot", "class_world_script_1_1_check_unit_slot.html", "class_world_script_1_1_check_unit_slot" ]
     ] ],
-    [ "CheckUnitType.as", "a09518.html", "a09518" ],
-    [ "CheckVariable.as", "a09521.html", "a09521" ],
-    [ "ClearDelayedTriggers.as", "a09524.html", [
-      [ "ClearDelayedTriggers", "a11993.html", "a11993" ]
+    [ "CheckUnitType.as", "_check_unit_type_8as.html", "_check_unit_type_8as" ],
+    [ "CheckVariable.as", "_check_variable_8as.html", "_check_variable_8as" ],
+    [ "ClearDelayedTriggers.as", "_clear_delayed_triggers_8as.html", [
+      [ "ClearDelayedTriggers", "class_world_script_1_1_clear_delayed_triggers.html", "class_world_script_1_1_clear_delayed_triggers" ]
     ] ],
-    [ "ClearTopNumbers.as", "a09527.html", [
-      [ "ClearTopNumbers", "a11997.html", "a11997" ]
+    [ "ClearTopNumbers.as", "_clear_top_numbers_8as.html", [
+      [ "ClearTopNumbers", "class_world_script_1_1_clear_top_numbers.html", "class_world_script_1_1_clear_top_numbers" ]
     ] ],
-    [ "CloseInterface.as", "a09530.html", [
-      [ "CloseInterface", "a12001.html", "a12001" ]
+    [ "CloseInterface.as", "_close_interface_8as.html", [
+      [ "CloseInterface", "class_world_script_1_1_close_interface.html", "class_world_script_1_1_close_interface" ]
     ] ],
-    [ "CountdownText.as", "a09533.html", [
-      [ "CountdownText", "a12005.html", "a12005" ]
+    [ "CountdownText.as", "_countdown_text_8as.html", [
+      [ "CountdownText", "class_world_script_1_1_countdown_text.html", "class_world_script_1_1_countdown_text" ]
     ] ],
-    [ "Counter.as", "a09536.html", [
-      [ "Counter", "a12009.html", "a12009" ]
+    [ "Counter.as", "_counter_8as.html", [
+      [ "Counter", "class_world_script_1_1_counter.html", "class_world_script_1_1_counter" ]
     ] ],
-    [ "CreateBossBar.as", "a09539.html", [
-      [ "CreateBossBar", "a12013.html", "a12013" ]
+    [ "CreateBossBar.as", "_create_boss_bar_8as.html", [
+      [ "CreateBossBar", "class_world_script_1_1_create_boss_bar.html", "class_world_script_1_1_create_boss_bar" ]
     ] ],
-    [ "CrowdPause.as", "a09542.html", [
-      [ "CrowdPause", "a12017.html", "a12017" ]
+    [ "CrowdPause.as", "_crowd_pause_8as.html", [
+      [ "CrowdPause", "class_world_script_1_1_crowd_pause.html", "class_world_script_1_1_crowd_pause" ]
     ] ],
-    [ "CrowdTimeReset.as", "a09545.html", [
-      [ "CrowdTimeReset", "a12021.html", "a12021" ]
+    [ "CrowdTimeReset.as", "_crowd_time_reset_8as.html", [
+      [ "CrowdTimeReset", "class_world_script_1_1_crowd_time_reset.html", "class_world_script_1_1_crowd_time_reset" ]
     ] ],
-    [ "CrowdTrigger.as", "a09548.html", [
-      [ "CrowdTrigger", "a12025.html", "a12025" ]
+    [ "CrowdTrigger.as", "_crowd_trigger_8as.html", [
+      [ "CrowdTrigger", "class_world_script_1_1_crowd_trigger.html", "class_world_script_1_1_crowd_trigger" ]
     ] ],
-    [ "DamageUnits.as", "a09551.html", [
-      [ "DamageUnits", "a12029.html", "a12029" ]
+    [ "DamageUnits.as", "_damage_units_8as.html", [
+      [ "DamageUnits", "class_world_script_1_1_damage_units.html", "class_world_script_1_1_damage_units" ]
     ] ],
-    [ "DangerArea.as", "a09554.html", "a09554" ],
-    [ "DestroyScripts.as", "a09557.html", [
-      [ "DestroyScripts", "a12037.html", "a12037" ]
+    [ "DangerArea.as", "_danger_area_8as.html", "_danger_area_8as" ],
+    [ "DestroyScripts.as", "_destroy_scripts_8as.html", [
+      [ "DestroyScripts", "class_world_script_1_1_destroy_scripts.html", "class_world_script_1_1_destroy_scripts" ]
     ] ],
-    [ "DestroyUnitChance.as", "a09560.html", [
-      [ "DestroyUnitChance", "a12041.html", "a12041" ]
+    [ "DestroyUnitChance.as", "_destroy_unit_chance_8as.html", [
+      [ "DestroyUnitChance", "class_world_script_1_1_destroy_unit_chance.html", "class_world_script_1_1_destroy_unit_chance" ]
     ] ],
-    [ "DestroyUnitCount.as", "a09563.html", [
-      [ "DestroyUnitCount", "a12045.html", "a12045" ]
+    [ "DestroyUnitCount.as", "_destroy_unit_count_8as.html", [
+      [ "DestroyUnitCount", "class_world_script_1_1_destroy_unit_count.html", "class_world_script_1_1_destroy_unit_count" ]
     ] ],
-    [ "DestroyUnits.as", "a09566.html", [
-      [ "DestroyUnits", "a12049.html", "a12049" ]
+    [ "DestroyUnits.as", "_destroy_units_8as.html", [
+      [ "DestroyUnits", "class_world_script_1_1_destroy_units.html", "class_world_script_1_1_destroy_units" ]
     ] ],
-    [ "Door.as", "a15599.html", [
-      [ "Door", "a12053.html", "a12053" ]
+    [ "Door.as", "_world_script_2_door_8as.html", [
+      [ "Door", "class_world_script_1_1_door.html", "class_world_script_1_1_door" ]
     ] ],
-    [ "DropPod.as", "a09569.html", [
-      [ "DropPod", "a12057.html", "a12057" ]
+    [ "DropPod.as", "_drop_pod_8as.html", [
+      [ "DropPod", "class_world_script_1_1_drop_pod.html", "class_world_script_1_1_drop_pod" ]
     ] ],
-    [ "ExploreMinimap.as", "a09572.html", [
-      [ "ExploreMinimap", "a12061.html", "a12061" ]
+    [ "ExploreMinimap.as", "_explore_minimap_8as.html", [
+      [ "ExploreMinimap", "class_world_script_1_1_explore_minimap.html", "class_world_script_1_1_explore_minimap" ]
     ] ],
-    [ "FreezeActors.as", "a09575.html", "a09575" ],
-    [ "GiveCharacterTitle.as", "a09578.html", [
-      [ "GiveCharacterTitle", "a12065.html", "a12065" ]
+    [ "FreezeActors.as", "_freeze_actors_8as.html", "_freeze_actors_8as" ],
+    [ "GiveCharacterTitle.as", "_give_character_title_8as.html", [
+      [ "GiveCharacterTitle", "class_world_script_1_1_give_character_title.html", "class_world_script_1_1_give_character_title" ]
     ] ],
-    [ "GiveExperience.as", "a15569.html", [
-      [ "GiveExperience", "a12069.html", "a12069" ]
+    [ "GiveExperience.as", "_world_script_2_give_experience_8as.html", [
+      [ "GiveExperience", "class_world_script_1_1_give_experience.html", "class_world_script_1_1_give_experience" ]
     ] ],
-    [ "GlobalEvent.as", "a09581.html", "a09581" ],
-    [ "GlobalEventTrigger.as", "a09584.html", [
-      [ "GlobalEventTrigger", "a12077.html", "a12077" ]
+    [ "GlobalEvent.as", "_global_event_8as.html", "_global_event_8as" ],
+    [ "GlobalEventTrigger.as", "_global_event_trigger_8as.html", [
+      [ "GlobalEventTrigger", "class_world_script_1_1_global_event_trigger.html", "class_world_script_1_1_global_event_trigger" ]
     ] ],
-    [ "GlobalVariable.as", "a09587.html", "a09587" ],
-    [ "HealUnits.as", "a09590.html", [
-      [ "HealUnits", "a12085.html", "a12085" ]
+    [ "GlobalVariable.as", "_global_variable_8as.html", "_global_variable_8as" ],
+    [ "HealUnits.as", "_heal_units_8as.html", [
+      [ "HealUnits", "class_world_script_1_1_heal_units.html", "class_world_script_1_1_heal_units" ]
     ] ],
-    [ "HideAllSpeechBubbles.as", "a09593.html", [
-      [ "HideAllSpeechBubbles", "a12089.html", "a12089" ]
+    [ "HideAllSpeechBubbles.as", "_hide_all_speech_bubbles_8as.html", [
+      [ "HideAllSpeechBubbles", "class_world_script_1_1_hide_all_speech_bubbles.html", "class_world_script_1_1_hide_all_speech_bubbles" ]
     ] ],
-    [ "HideSpeechBubble.as", "a09596.html", [
-      [ "HideSpeechBubble", "a12093.html", "a12093" ]
+    [ "HideSpeechBubble.as", "_hide_speech_bubble_8as.html", [
+      [ "HideSpeechBubble", "class_world_script_1_1_hide_speech_bubble.html", "class_world_script_1_1_hide_speech_bubble" ]
     ] ],
-    [ "HideTopNumber.as", "a09599.html", [
-      [ "HideTopNumber", "a12097.html", "a12097" ]
+    [ "HideTopNumber.as", "_hide_top_number_8as.html", [
+      [ "HideTopNumber", "class_world_script_1_1_hide_top_number.html", "class_world_script_1_1_hide_top_number" ]
     ] ],
-    [ "HideUnit.as", "a09602.html", "a09602" ],
-    [ "IncrementCounter.as", "a09605.html", [
-      [ "IncrementCounter", "a12101.html", "a12101" ]
+    [ "HideUnit.as", "_hide_unit_8as.html", "_hide_unit_8as" ],
+    [ "IncrementCounter.as", "_increment_counter_8as.html", [
+      [ "IncrementCounter", "class_world_script_1_1_increment_counter.html", "class_world_script_1_1_increment_counter" ]
     ] ],
-    [ "IsWIPBuild.as", "a09608.html", [
-      [ "IsWIPBuild", "a12105.html", "a12105" ]
+    [ "IsWIPBuild.as", "_is_w_i_p_build_8as.html", [
+      [ "IsWIPBuild", "class_world_script_1_1_is_w_i_p_build.html", "class_world_script_1_1_is_w_i_p_build" ]
     ] ],
-    [ "JamTrigger.as", "a09611.html", "a09611" ],
-    [ "LevelExit.as", "a09614.html", "a09614" ],
-    [ "LevelExitNext.as", "a09617.html", [
-      [ "LevelExitNext", "a12109.html", "a12109" ]
+    [ "JamTrigger.as", "_jam_trigger_8as.html", "_jam_trigger_8as" ],
+    [ "LevelExit.as", "_level_exit_8as.html", "_level_exit_8as" ],
+    [ "LevelExitNext.as", "_level_exit_next_8as.html", [
+      [ "LevelExitNext", "class_world_script_1_1_level_exit_next.html", "class_world_script_1_1_level_exit_next" ]
     ] ],
-    [ "LevelExitNextAct.as", "a09620.html", [
-      [ "LevelExitNextAct", "a12113.html", "a12113" ]
+    [ "LevelExitNextAct.as", "_level_exit_next_act_8as.html", [
+      [ "LevelExitNextAct", "class_world_script_1_1_level_exit_next_act.html", "class_world_script_1_1_level_exit_next_act" ]
     ] ],
-    [ "LevelStart.as", "a09623.html", [
-      [ "LevelStart", "a12117.html", "a12117" ]
+    [ "LevelStart.as", "_level_start_8as.html", [
+      [ "LevelStart", "class_world_script_1_1_level_start.html", "class_world_script_1_1_level_start" ]
     ] ],
-    [ "LogText.as", "a09626.html", [
-      [ "LogText", "a12121.html", "a12121" ]
+    [ "LogText.as", "_log_text_8as.html", [
+      [ "LogText", "class_world_script_1_1_log_text.html", "class_world_script_1_1_log_text" ]
     ] ],
-    [ "MenuAnchorPoint.as", "a09629.html", [
-      [ "MenuAnchorPoint", "a12125.html", "a12125" ]
+    [ "MenuAnchorPoint.as", "_menu_anchor_point_8as.html", [
+      [ "MenuAnchorPoint", "class_world_script_1_1_menu_anchor_point.html", "class_world_script_1_1_menu_anchor_point" ]
     ] ],
-    [ "OpenInterface.as", "a09632.html", [
-      [ "OpenInterface", "a12129.html", "a12129" ]
+    [ "OpenInterface.as", "_open_interface_8as.html", [
+      [ "OpenInterface", "class_world_script_1_1_open_interface.html", "class_world_script_1_1_open_interface" ]
     ] ],
-    [ "PathNode.as", "a09635.html", "a09635" ],
-    [ "PathPause.as", "a09638.html", [
-      [ "PathPause", "a12137.html", "a12137" ]
+    [ "PathNode.as", "_path_node_8as.html", "_path_node_8as" ],
+    [ "PathPause.as", "_path_pause_8as.html", [
+      [ "PathPause", "class_world_script_1_1_path_pause.html", "class_world_script_1_1_path_pause" ]
     ] ],
-    [ "PathSpeed.as", "a09641.html", [
-      [ "PathSpeed", "a12141.html", "a12141" ]
+    [ "PathSpeed.as", "_path_speed_8as.html", [
+      [ "PathSpeed", "class_world_script_1_1_path_speed.html", "class_world_script_1_1_path_speed" ]
     ] ],
-    [ "PickedPrefab.as", "a09644.html", [
-      [ "PickedPrefab", "a12145.html", "a12145" ]
+    [ "PickedPrefab.as", "_picked_prefab_8as.html", [
+      [ "PickedPrefab", "class_world_script_1_1_picked_prefab.html", "class_world_script_1_1_picked_prefab" ]
     ] ],
-    [ "PickedRandom.as", "a09647.html", [
-      [ "PickedRandom", "a12149.html", "a12149" ]
+    [ "PickedRandom.as", "_picked_random_8as.html", [
+      [ "PickedRandom", "class_world_script_1_1_picked_random.html", "class_world_script_1_1_picked_random" ]
     ] ],
-    [ "PlatformStat.as", "a09650.html", "a09650" ],
-    [ "PlayAttachedEffect.as", "a09653.html", [
-      [ "PlayAttachedEffect", "a12153.html", "a12153" ]
+    [ "PlatformStat.as", "_platform_stat_8as.html", "_platform_stat_8as" ],
+    [ "PlayAttachedEffect.as", "_play_attached_effect_8as.html", [
+      [ "PlayAttachedEffect", "class_world_script_1_1_play_attached_effect.html", "class_world_script_1_1_play_attached_effect" ]
     ] ],
-    [ "PlayMusic.as", "a09656.html", [
-      [ "PlayMusic", "a12157.html", "a12157" ]
+    [ "PlayMusic.as", "_play_music_8as.html", [
+      [ "PlayMusic", "class_world_script_1_1_play_music.html", "class_world_script_1_1_play_music" ]
     ] ],
-    [ "PlaySound.as", "a15575.html", [
-      [ "PlaySound", "a12161.html", "a12161" ]
+    [ "PlaySound.as", "_world_script_2_play_sound_8as.html", [
+      [ "PlaySound", "class_world_script_1_1_play_sound.html", "class_world_script_1_1_play_sound" ]
     ] ],
-    [ "PotionRefill.as", "a09659.html", [
-      [ "PotionRefill", "a12165.html", "a12165" ]
+    [ "PotionRefill.as", "_potion_refill_8as.html", [
+      [ "PotionRefill", "class_world_script_1_1_potion_refill.html", "class_world_script_1_1_potion_refill" ]
     ] ],
-    [ "PrefabPicker.as", "a09662.html", [
-      [ "PrefabPicker", "a12169.html", "a12169" ]
+    [ "PrefabPicker.as", "_prefab_picker_8as.html", [
+      [ "PrefabPicker", "class_world_script_1_1_prefab_picker.html", "class_world_script_1_1_prefab_picker" ]
     ] ],
-    [ "PrepareCamera.as", "a09665.html", [
-      [ "PrepareCamera", "a12173.html", "a12173" ]
+    [ "PrepareCamera.as", "_prepare_camera_8as.html", [
+      [ "PrepareCamera", "class_world_script_1_1_prepare_camera.html", "class_world_script_1_1_prepare_camera" ]
     ] ],
-    [ "ProjectileShooter.as", "a09668.html", [
-      [ "ProjectileShooter", "a12177.html", "a12177" ]
+    [ "ProjectileShooter.as", "_projectile_shooter_8as.html", [
+      [ "ProjectileShooter", "class_world_script_1_1_projectile_shooter.html", "class_world_script_1_1_projectile_shooter" ]
     ] ],
-    [ "ProjectileSpewer.as", "a09671.html", [
-      [ "ProjectileSpewer", "a12181.html", "a12181" ]
+    [ "ProjectileSpewer.as", "_projectile_spewer_8as.html", [
+      [ "ProjectileSpewer", "class_world_script_1_1_projectile_spewer.html", "class_world_script_1_1_projectile_spewer" ]
     ] ],
-    [ "RandomBuff.as", "a15545.html", [
-      [ "RandomBuff", "a12185.html", "a12185" ]
+    [ "RandomBuff.as", "_world_script_2_random_buff_8as.html", [
+      [ "RandomBuff", "class_world_script_1_1_random_buff.html", "class_world_script_1_1_random_buff" ]
     ] ],
-    [ "RandomChance.as", "a09674.html", [
-      [ "RandomChance", "a12189.html", "a12189" ]
+    [ "RandomChance.as", "_random_chance_8as.html", [
+      [ "RandomChance", "class_world_script_1_1_random_chance.html", "class_world_script_1_1_random_chance" ]
     ] ],
-    [ "RandomCount.as", "a09677.html", [
-      [ "RandomCount", "a12193.html", "a12193" ]
+    [ "RandomCount.as", "_random_count_8as.html", [
+      [ "RandomCount", "class_world_script_1_1_random_count.html", "class_world_script_1_1_random_count" ]
     ] ],
-    [ "RandomLoot.as", "a09680.html", [
-      [ "RandomLoot", "a12197.html", "a12197" ]
+    [ "RandomLoot.as", "_random_loot_8as.html", [
+      [ "RandomLoot", "class_world_script_1_1_random_loot.html", "class_world_script_1_1_random_loot" ]
     ] ],
-    [ "RandomPicker.as", "a09683.html", [
-      [ "RandomPicker", "a12201.html", "a12201" ]
+    [ "RandomPicker.as", "_random_picker_8as.html", [
+      [ "RandomPicker", "class_world_script_1_1_random_picker.html", "class_world_script_1_1_random_picker" ]
     ] ],
-    [ "RandomStuff.as", "a09686.html", "a09686" ],
-    [ "RandomTemporaryBuff.as", "a09689.html", [
-      [ "RandomPossibleBuff", "a12205.html", "a12205" ]
+    [ "RandomStuff.as", "_random_stuff_8as.html", "_random_stuff_8as" ],
+    [ "RandomTemporaryBuff.as", "_random_temporary_buff_8as.html", [
+      [ "RandomPossibleBuff", "class_world_script_1_1_random_possible_buff.html", "class_world_script_1_1_random_possible_buff" ]
     ] ],
-    [ "RefreshSpawnPickup.as", "a09692.html", [
-      [ "RefreshSpawnPickup", "a12209.html", "a12209" ]
+    [ "RefreshSpawnPickup.as", "_refresh_spawn_pickup_8as.html", [
+      [ "RefreshSpawnPickup", "class_world_script_1_1_refresh_spawn_pickup.html", "class_world_script_1_1_refresh_spawn_pickup" ]
     ] ],
-    [ "ScratchTest.as", "a09695.html", [
-      [ "ScratchTest", "a12213.html", "a12213" ]
+    [ "ScratchTest.as", "_scratch_test_8as.html", [
+      [ "ScratchTest", "class_world_script_1_1_scratch_test.html", "class_world_script_1_1_scratch_test" ]
     ] ],
-    [ "ScriptLink.as", "a09698.html", [
-      [ "ScriptLink", "a12217.html", "a12217" ]
+    [ "ScriptLink.as", "_script_link_8as.html", [
+      [ "ScriptLink", "class_world_script_1_1_script_link.html", "class_world_script_1_1_script_link" ]
     ] ],
-    [ "SecretFound.as", "a09701.html", [
-      [ "SecretFound", "a12221.html", "a12221" ]
+    [ "SecretFound.as", "_secret_found_8as.html", [
+      [ "SecretFound", "class_world_script_1_1_secret_found.html", "class_world_script_1_1_secret_found" ]
     ] ],
-    [ "SetBossKilled.as", "a09704.html", [
-      [ "SetBossKilled", "a12225.html", "a12225" ]
+    [ "SetBossKilled.as", "_set_boss_killed_8as.html", [
+      [ "SetBossKilled", "class_world_script_1_1_set_boss_killed.html", "class_world_script_1_1_set_boss_killed" ]
     ] ],
-    [ "SetCollider.as", "a09707.html", [
-      [ "SetCollider", "a12229.html", "a12229" ]
+    [ "SetCollider.as", "_set_collider_8as.html", [
+      [ "SetCollider", "class_world_script_1_1_set_collider.html", "class_world_script_1_1_set_collider" ]
     ] ],
-    [ "SetDamageTransfer.as", "a09710.html", [
-      [ "SetDamageTransfer", "a12233.html", "a12233" ]
+    [ "SetDamageTransfer.as", "_set_damage_transfer_8as.html", [
+      [ "SetDamageTransfer", "class_world_script_1_1_set_damage_transfer.html", "class_world_script_1_1_set_damage_transfer" ]
     ] ],
-    [ "SetEnvironment.as", "a09713.html", [
-      [ "SetEnvironment", "a12237.html", "a12237" ]
+    [ "SetEnvironment.as", "_set_environment_8as.html", [
+      [ "SetEnvironment", "class_world_script_1_1_set_environment.html", "class_world_script_1_1_set_environment" ]
     ] ],
-    [ "SetFlag.as", "a15581.html", [
-      [ "SetFlag", "a12241.html", "a12241" ]
+    [ "SetFlag.as", "_world_script_2_set_flag_8as.html", [
+      [ "SetFlag", "class_world_script_1_1_set_flag.html", "class_world_script_1_1_set_flag" ]
     ] ],
-    [ "SetLight.as", "a09716.html", [
-      [ "SetLight", "a12245.html", "a12245" ]
+    [ "SetLight.as", "_set_light_8as.html", [
+      [ "SetLight", "class_world_script_1_1_set_light.html", "class_world_script_1_1_set_light" ]
     ] ],
-    [ "SetStat.as", "a09719.html", "a09719" ],
-    [ "SetTimerTrigger.as", "a09722.html", "a09722" ],
-    [ "SetTopNumber.as", "a09725.html", [
-      [ "SetTopNumber", "a12249.html", "a12249" ]
+    [ "SetStat.as", "_set_stat_8as.html", "_set_stat_8as" ],
+    [ "SetTimerTrigger.as", "_set_timer_trigger_8as.html", "_set_timer_trigger_8as" ],
+    [ "SetTopNumber.as", "_set_top_number_8as.html", [
+      [ "SetTopNumber", "class_world_script_1_1_set_top_number.html", "class_world_script_1_1_set_top_number" ]
     ] ],
-    [ "SetTriggerTimes.as", "a09728.html", [
-      [ "SetTriggerTimes", "a12253.html", "a12253" ]
+    [ "SetTriggerTimes.as", "_set_trigger_times_8as.html", [
+      [ "SetTriggerTimes", "class_world_script_1_1_set_trigger_times.html", "class_world_script_1_1_set_trigger_times" ]
     ] ],
-    [ "SetUnitLayer.as", "a09731.html", [
-      [ "SetUnitLayer", "a12257.html", "a12257" ]
+    [ "SetUnitLayer.as", "_set_unit_layer_8as.html", [
+      [ "SetUnitLayer", "class_world_script_1_1_set_unit_layer.html", "class_world_script_1_1_set_unit_layer" ]
     ] ],
-    [ "SetUnitScene.as", "a09734.html", [
-      [ "SetUnitScene", "a12261.html", "a12261" ]
+    [ "SetUnitScene.as", "_set_unit_scene_8as.html", [
+      [ "SetUnitScene", "class_world_script_1_1_set_unit_scene.html", "class_world_script_1_1_set_unit_scene" ]
     ] ],
-    [ "ShopArea.as", "a09737.html", "a09737" ],
-    [ "ShowFloatingText.as", "a15587.html", [
-      [ "ShowFloatingText", "a12265.html", "a12265" ]
+    [ "ShopArea.as", "_shop_area_8as.html", "_shop_area_8as" ],
+    [ "ShowFloatingText.as", "_world_script_2_show_floating_text_8as.html", [
+      [ "ShowFloatingText", "class_world_script_1_1_show_floating_text.html", "class_world_script_1_1_show_floating_text" ]
     ] ],
-    [ "ShowSpeechBubble.as", "a09740.html", [
-      [ "ShowSpeechBubble", "a12269.html", "a12269" ]
+    [ "ShowSpeechBubble.as", "_show_speech_bubble_8as.html", [
+      [ "ShowSpeechBubble", "class_world_script_1_1_show_speech_bubble.html", "class_world_script_1_1_show_speech_bubble" ]
     ] ],
-    [ "SoundEnvironmentArea.as", "a09743.html", [
-      [ "SoundEnvironmentArea", "a12273.html", "a12273" ]
+    [ "SoundEnvironmentArea.as", "_sound_environment_area_8as.html", [
+      [ "SoundEnvironmentArea", "class_world_script_1_1_sound_environment_area.html", "class_world_script_1_1_sound_environment_area" ]
     ] ],
-    [ "SpawnDropUnit.as", "a09746.html", [
-      [ "SpawnDropUnit", "a12277.html", "a12277" ]
+    [ "SpawnDropUnit.as", "_spawn_drop_unit_8as.html", [
+      [ "SpawnDropUnit", "class_world_script_1_1_spawn_drop_unit.html", "class_world_script_1_1_spawn_drop_unit" ]
     ] ],
-    [ "SpawnEffect.as", "a15593.html", [
-      [ "SpawnEffect", "a12281.html", "a12281" ]
+    [ "SpawnEffect.as", "_world_script_2_spawn_effect_8as.html", [
+      [ "SpawnEffect", "class_world_script_1_1_spawn_effect.html", "class_world_script_1_1_spawn_effect" ]
     ] ],
-    [ "SpawnEnemyGroup.as", "a09749.html", [
-      [ "SpawnEnemyGroup", "a12285.html", "a12285" ]
+    [ "SpawnEnemyGroup.as", "_spawn_enemy_group_8as.html", [
+      [ "SpawnEnemyGroup", "class_world_script_1_1_spawn_enemy_group.html", "class_world_script_1_1_spawn_enemy_group" ]
     ] ],
-    [ "SpawnGore.as", "a09752.html", [
-      [ "SpawnGore", "a12289.html", "a12289" ]
+    [ "SpawnGore.as", "_spawn_gore_8as.html", [
+      [ "SpawnGore", "class_world_script_1_1_spawn_gore.html", "class_world_script_1_1_spawn_gore" ]
     ] ],
-    [ "SpawnItem.as", "a09755.html", [
-      [ "SpawnItem", "a12293.html", "a12293" ]
+    [ "SpawnItem.as", "_spawn_item_8as.html", [
+      [ "SpawnItem", "class_world_script_1_1_spawn_item.html", "class_world_script_1_1_spawn_item" ]
     ] ],
-    [ "SpawnPrefab.as", "a15521.html", [
-      [ "SpawnPrefab", "a12297.html", "a12297" ]
+    [ "SpawnPrefab.as", "_world_script_2_spawn_prefab_8as.html", [
+      [ "SpawnPrefab", "class_world_script_1_1_spawn_prefab.html", "class_world_script_1_1_spawn_prefab" ]
     ] ],
-    [ "SpawnTownBuilding.as", "a09758.html", [
-      [ "SpawnTownBuilding", "a12301.html", "a12301" ]
+    [ "SpawnTownBuilding.as", "_spawn_town_building_8as.html", [
+      [ "SpawnTownBuilding", "class_world_script_1_1_spawn_town_building.html", "class_world_script_1_1_spawn_town_building" ]
     ] ],
-    [ "SpawnTownStatue.as", "a09761.html", [
-      [ "SpawnTownStatue", "a12305.html", null ]
+    [ "SpawnTownStatue.as", "_spawn_town_statue_8as.html", [
+      [ "SpawnTownStatue", "class_world_script_1_1_spawn_town_statue.html", null ]
     ] ],
-    [ "SpawnUnit.as", "a15530.html", [
-      [ "SpawnUnit", "a12309.html", "a12309" ]
+    [ "SpawnUnit.as", "_world_script_2_spawn_unit_8as.html", [
+      [ "SpawnUnit", "class_world_script_1_1_spawn_unit.html", "class_world_script_1_1_spawn_unit" ]
     ] ],
-    [ "SpawnUnitAsLoot.as", "a09764.html", [
-      [ "SpawnUnitAsLoot", "a12313.html", "a12313" ]
+    [ "SpawnUnitAsLoot.as", "_spawn_unit_as_loot_8as.html", [
+      [ "SpawnUnitAsLoot", "class_world_script_1_1_spawn_unit_as_loot.html", "class_world_script_1_1_spawn_unit_as_loot" ]
     ] ],
-    [ "SpawnUnitWithEffect.as", "a09767.html", [
-      [ "SpawnUnitWithEffect", "a12317.html", "a12317" ]
+    [ "SpawnUnitWithEffect.as", "_spawn_unit_with_effect_8as.html", [
+      [ "SpawnUnitWithEffect", "class_world_script_1_1_spawn_unit_with_effect.html", "class_world_script_1_1_spawn_unit_with_effect" ]
     ] ],
-    [ "StartDungeon.as", "a09770.html", [
-      [ "StartDungeon", "a12321.html", "a12321" ]
+    [ "StartDungeon.as", "_start_dungeon_8as.html", [
+      [ "StartDungeon", "class_world_script_1_1_start_dungeon.html", "class_world_script_1_1_start_dungeon" ]
     ] ],
-    [ "StopAnnounceText.as", "a09773.html", [
-      [ "StopAnnounceText", "a12325.html", "a12325" ]
+    [ "StopAnnounceText.as", "_stop_announce_text_8as.html", [
+      [ "StopAnnounceText", "class_world_script_1_1_stop_announce_text.html", "class_world_script_1_1_stop_announce_text" ]
     ] ],
-    [ "StopSound.as", "a09776.html", [
-      [ "StopSound", "a12329.html", "a12329" ]
+    [ "StopSound.as", "_stop_sound_8as.html", [
+      [ "StopSound", "class_world_script_1_1_stop_sound.html", "class_world_script_1_1_stop_sound" ]
     ] ],
-    [ "StoreOre.as", "a09779.html", "a09779" ],
-    [ "SurivalWave.as", "a09782.html", [
-      [ "SurvivalWave", "a12337.html", "a12337" ]
+    [ "StoreOre.as", "_store_ore_8as.html", "_store_ore_8as" ],
+    [ "SurivalWave.as", "_surival_wave_8as.html", [
+      [ "SurvivalWave", "class_world_script_1_1_survival_wave.html", "class_world_script_1_1_survival_wave" ]
     ] ],
-    [ "SurvivalEnemyDropSpawn.as", "a09785.html", [
-      [ "SurvivalEnemyDropSpawn", "a12341.html", "a12341" ]
+    [ "SurvivalEnemyDropSpawn.as", "_survival_enemy_drop_spawn_8as.html", [
+      [ "SurvivalEnemyDropSpawn", "class_world_script_1_1_survival_enemy_drop_spawn.html", "class_world_script_1_1_survival_enemy_drop_spawn" ]
     ] ],
-    [ "SurvivalEnemySpawn.as", "a09788.html", [
-      [ "SurvivalEnemySpawn", "a12345.html", "a12345" ]
+    [ "SurvivalEnemySpawn.as", "_survival_enemy_spawn_8as.html", [
+      [ "SurvivalEnemySpawn", "class_world_script_1_1_survival_enemy_spawn.html", "class_world_script_1_1_survival_enemy_spawn" ]
     ] ],
-    [ "SurvivalEnemySpawnPoint.as", "a09791.html", [
-      [ "SurvivalEnemySpawnPoint", "a12349.html", "a12349" ]
+    [ "SurvivalEnemySpawnPoint.as", "_survival_enemy_spawn_point_8as.html", [
+      [ "SurvivalEnemySpawnPoint", "class_survival_enemy_spawn_point.html", "class_survival_enemy_spawn_point" ]
     ] ],
-    [ "TeamLevelStart.as", "a09794.html", [
-      [ "TeamLevelStart", "a12353.html", "a12353" ]
+    [ "TeamLevelStart.as", "_team_level_start_8as.html", [
+      [ "TeamLevelStart", "class_world_script_1_1_team_level_start.html", "class_world_script_1_1_team_level_start" ]
     ] ],
-    [ "Teleport.as", "a09797.html", [
-      [ "Teleport", "a12357.html", "a12357" ]
+    [ "Teleport.as", "_teleport_8as.html", [
+      [ "Teleport", "class_world_script_1_1_teleport.html", "class_world_script_1_1_teleport" ]
     ] ],
-    [ "TimedScriptLink.as", "a09800.html", [
-      [ "TimedScriptLinkItem", "a12361.html", "a12361" ]
+    [ "TimedScriptLink.as", "_timed_script_link_8as.html", [
+      [ "TimedScriptLinkItem", "class_world_script_1_1_timed_script_link_item.html", "class_world_script_1_1_timed_script_link_item" ]
     ] ],
-    [ "TimerTrigger.as", "a09803.html", [
-      [ "TimerTrigger", "a12365.html", "a12365" ]
+    [ "TimerTrigger.as", "_timer_trigger_8as.html", [
+      [ "TimerTrigger", "class_world_script_1_1_timer_trigger.html", "class_world_script_1_1_timer_trigger" ]
     ] ],
-    [ "ToggleCollision.as", "a09806.html", "a09806" ],
-    [ "ToggleImmortality.as", "a09809.html", [
-      [ "ToggleImmortality", "a12369.html", "a12369" ]
+    [ "ToggleCollision.as", "_toggle_collision_8as.html", "_toggle_collision_8as" ],
+    [ "ToggleImmortality.as", "_toggle_immortality_8as.html", [
+      [ "ToggleImmortality", "class_world_script_1_1_toggle_immortality.html", "class_world_script_1_1_toggle_immortality" ]
     ] ],
-    [ "ToggleJammable.as", "a09812.html", [
-      [ "ToggleJammable", "a12373.html", "a12373" ]
+    [ "ToggleJammable.as", "_toggle_jammable_8as.html", [
+      [ "ToggleJammable", "class_world_script_1_1_toggle_jammable.html", "class_world_script_1_1_toggle_jammable" ]
     ] ],
-    [ "ToggleScripts.as", "a09815.html", "a09815" ],
-    [ "TownBuildingLevel.as", "a09818.html", [
-      [ "TownBuildingLevel", "a12377.html", "a12377" ]
+    [ "ToggleScripts.as", "_toggle_scripts_8as.html", "_toggle_scripts_8as" ],
+    [ "TownBuildingLevel.as", "_town_building_level_8as.html", [
+      [ "TownBuildingLevel", "class_world_script_1_1_town_building_level.html", "class_world_script_1_1_town_building_level" ]
     ] ],
-    [ "UnitCallbackList.as", "a09821.html", [
-      [ "UnitCallbackList", "a12381.html", "a12381" ]
+    [ "UnitCallbackList.as", "_unit_callback_list_8as.html", [
+      [ "UnitCallbackList", "class_world_script_1_1_unit_callback_list.html", "class_world_script_1_1_unit_callback_list" ]
     ] ],
-    [ "UnitDamagedTrigger.as", "a09824.html", [
-      [ "UnitDamagedTrigger", "a12385.html", "a12385" ]
+    [ "UnitDamagedTrigger.as", "_unit_damaged_trigger_8as.html", [
+      [ "UnitDamagedTrigger", "class_world_script_1_1_unit_damaged_trigger.html", "class_world_script_1_1_unit_damaged_trigger" ]
     ] ],
-    [ "UnitDestroyedTrigger.as", "a09827.html", [
-      [ "UnitDestroyedTrigger", "a12389.html", "a12389" ]
+    [ "UnitDestroyedTrigger.as", "_unit_destroyed_trigger_8as.html", [
+      [ "UnitDestroyedTrigger", "class_world_script_1_1_unit_destroyed_trigger.html", "class_world_script_1_1_unit_destroyed_trigger" ]
     ] ],
-    [ "UnitEventTrigger.as", "a09830.html", [
-      [ "UnitEventTrigger", "a12393.html", "a12393" ]
+    [ "UnitEventTrigger.as", "_unit_event_trigger_8as.html", [
+      [ "UnitEventTrigger", "class_world_script_1_1_unit_event_trigger.html", "class_world_script_1_1_unit_event_trigger" ]
     ] ],
-    [ "UnitHiddenTrigger.as", "a09833.html", "a09833" ],
-    [ "UnitPickedUpTrigger.as", "a09836.html", [
-      [ "UnitPickedUpTrigger", "a12397.html", "a12397" ]
+    [ "UnitHiddenTrigger.as", "_unit_hidden_trigger_8as.html", "_unit_hidden_trigger_8as" ],
+    [ "UnitPickedUpTrigger.as", "_unit_picked_up_trigger_8as.html", [
+      [ "UnitPickedUpTrigger", "class_world_script_1_1_unit_picked_up_trigger.html", "class_world_script_1_1_unit_picked_up_trigger" ]
     ] ],
-    [ "UnitSceneChangedTrigger.as", "a09839.html", "a09839" ],
-    [ "UnknownScriptLink.as", "a09842.html", [
-      [ "UnknownScriptLink", "a12401.html", "a12401" ]
+    [ "UnitSceneChangedTrigger.as", "_unit_scene_changed_trigger_8as.html", "_unit_scene_changed_trigger_8as" ],
+    [ "UnknownScriptLink.as", "_unknown_script_link_8as.html", [
+      [ "UnknownScriptLink", "class_world_script_1_1_unknown_script_link.html", "class_world_script_1_1_unknown_script_link" ]
     ] ],
-    [ "UnlinkSouls.as", "a09845.html", [
-      [ "UnlinkSouls", "a12405.html", "a12405" ]
+    [ "UnlinkSouls.as", "_unlink_souls_8as.html", [
+      [ "UnlinkSouls", "class_world_script_1_1_unlink_souls.html", "class_world_script_1_1_unlink_souls" ]
     ] ],
-    [ "UnlockShortcut.as", "a09848.html", [
-      [ "UnlockShortcut", "a12409.html", "a12409" ]
+    [ "UnlockShortcut.as", "_unlock_shortcut_8as.html", [
+      [ "UnlockShortcut", "class_world_script_1_1_unlock_shortcut.html", "class_world_script_1_1_unlock_shortcut" ]
     ] ],
-    [ "UseTrigger.as", "a09851.html", [
-      [ "UseTrigger", "a12413.html", "a12413" ]
+    [ "UseTrigger.as", "_use_trigger_8as.html", [
+      [ "UseTrigger", "class_world_script_1_1_use_trigger.html", "class_world_script_1_1_use_trigger" ]
     ] ],
-    [ "VampireCenterNode.as", "a09854.html", [
-      [ "VampireCenterNode", "a12417.html", "a12417" ]
+    [ "VampireCenterNode.as", "_vampire_center_node_8as.html", [
+      [ "VampireCenterNode", "class_world_script_1_1_vampire_center_node.html", "class_world_script_1_1_vampire_center_node" ]
     ] ],
-    [ "Variable.as", "a09857.html", [
-      [ "Variable", "a12421.html", "a12421" ]
+    [ "Variable.as", "_variable_8as.html", [
+      [ "Variable", "class_world_script_1_1_variable.html", "class_world_script_1_1_variable" ]
     ] ],
-    [ "WaypointAdd.as", "a09860.html", [
-      [ "WaypointAdd", "a12425.html", "a12425" ]
+    [ "WaypointAdd.as", "_waypoint_add_8as.html", [
+      [ "WaypointAdd", "class_world_script_1_1_waypoint_add.html", "class_world_script_1_1_waypoint_add" ]
     ] ],
-    [ "WaypointRemove.as", "a09863.html", [
-      [ "WaypointRemove", "a12429.html", "a12429" ]
+    [ "WaypointRemove.as", "_waypoint_remove_8as.html", [
+      [ "WaypointRemove", "class_world_script_1_1_waypoint_remove.html", "class_world_script_1_1_waypoint_remove" ]
     ] ],
-    [ "Well.as", "a09866.html", [
-      [ "Well", "a12433.html", "a12433" ]
+    [ "Well.as", "_well_8as.html", [
+      [ "Well", "class_world_script_1_1_well.html", "class_world_script_1_1_well" ]
     ] ],
-    [ "Wind.as", "a09869.html", [
-      [ "Wind", "a12437.html", "a12437" ]
+    [ "Wind.as", "_wind_8as.html", [
+      [ "Wind", "class_world_script_1_1_wind.html", "class_world_script_1_1_wind" ]
     ] ]
 ];

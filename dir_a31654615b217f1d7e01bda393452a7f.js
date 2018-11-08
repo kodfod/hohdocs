@@ -1,5 +1,5 @@
 var dir_a31654615b217f1d7e01bda393452a7f =
 [
-    [ "Discord.as", "a09299.html", "a09299" ],
-    [ "Service.as", "a09302.html", "a09302" ]
+    [ "Discord.as", "_discord_8as.html", "_discord_8as" ],
+    [ "Service.as", "_service_8as.html", "_service_8as" ]
 ];

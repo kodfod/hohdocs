@@ -5,67 +5,67 @@ var dir_1623b74594f34a675307743e2b9c1148 =
     [ "Effects", "dir_78fb8990650b7ea61284e172608d3a6c.html", "dir_78fb8990650b7ea61284e172608d3a6c" ],
     [ "Items", "dir_639b78b914254f5210eda6813f180a97.html", "dir_639b78b914254f5210eda6813f180a97" ],
     [ "Projectiles", "dir_e46b1b0901d11a0f313547276d6724f0.html", "dir_e46b1b0901d11a0f313547276d6724f0" ],
-    [ "AnimString.as", "a08489.html", [
-      [ "AnimString", "a10681.html", "a10681" ]
+    [ "AnimString.as", "_anim_string_8as.html", [
+      [ "AnimString", "class_anim_string.html", "class_anim_string" ]
     ] ],
-    [ "Armor.as", "a08225.html", "a08225" ],
-    [ "AttachedUnit.as", "a08492.html", "a08492" ],
-    [ "BoltShooter.as", "a08495.html", "a08495" ],
-    [ "BombBehavior.as", "a08498.html", [
-      [ "BombBehavior", "a10697.html", "a10697" ]
+    [ "Armor.as", "_armor_8as.html", "_armor_8as" ],
+    [ "AttachedUnit.as", "_attached_unit_8as.html", "_attached_unit_8as" ],
+    [ "BoltShooter.as", "_bolt_shooter_8as.html", "_bolt_shooter_8as" ],
+    [ "BombBehavior.as", "_bomb_behavior_8as.html", [
+      [ "BombBehavior", "class_bomb_behavior.html", "class_bomb_behavior" ]
     ] ],
-    [ "Bush.as", "a08501.html", [
-      [ "Bush", "a10701.html", "a10701" ]
+    [ "Bush.as", "_bush_8as.html", [
+      [ "Bush", "class_bush.html", "class_bush" ]
     ] ],
-    [ "DangerAreaBehavior.as", "a08504.html", [
-      [ "DangerAreaBehavior", "a10705.html", "a10705" ]
+    [ "DangerAreaBehavior.as", "_danger_area_behavior_8as.html", [
+      [ "DangerAreaBehavior", "class_danger_area_behavior.html", "class_danger_area_behavior" ]
     ] ],
-    [ "DoodadEffect.as", "a08507.html", [
-      [ "DoodadEffect", "a10709.html", "a10709" ]
+    [ "DoodadEffect.as", "_doodad_effect_8as.html", [
+      [ "DoodadEffect", "class_doodad_effect.html", "class_doodad_effect" ]
     ] ],
-    [ "DropSpawn.as", "a08510.html", [
-      [ "DropSpawnBehavior", "a10713.html", "a10713" ]
+    [ "DropSpawn.as", "_drop_spawn_8as.html", [
+      [ "DropSpawnBehavior", "class_drop_spawn_behavior.html", "class_drop_spawn_behavior" ]
     ] ],
-    [ "EffectBehavior.as", "a08513.html", [
-      [ "EffectBehavior", "a10717.html", "a10717" ]
+    [ "EffectBehavior.as", "_effect_behavior_8as.html", [
+      [ "EffectBehavior", "class_effect_behavior.html", "class_effect_behavior" ]
     ] ],
-    [ "EffectSpawner.as", "a08591.html", [
-      [ "EffectSpawner", "a10821.html", "a10821" ]
+    [ "EffectSpawner.as", "_effect_spawner_8as.html", [
+      [ "EffectSpawner", "class_effect_spawner.html", "class_effect_spawner" ]
     ] ],
-    [ "FixedPathFollower.as", "a08594.html", [
-      [ "FixedPathFollower", "a10825.html", "a10825" ]
+    [ "FixedPathFollower.as", "_fixed_path_follower_8as.html", [
+      [ "FixedPathFollower", "class_fixed_path_follower.html", "class_fixed_path_follower" ]
     ] ],
-    [ "GargoyleSpawner.as", "a08597.html", [
-      [ "GargoyleSpawner", "a10829.html", "a10829" ]
+    [ "GargoyleSpawner.as", "_gargoyle_spawner_8as.html", [
+      [ "GargoyleSpawner", "class_gargoyle_spawner.html", "class_gargoyle_spawner" ]
     ] ],
-    [ "GoreSpawner.as", "a08600.html", "a08600" ],
-    [ "IDamageTaker.as", "a08603.html", "a08603" ],
-    [ "IJammable.as", "a08606.html", "a08606" ],
-    [ "IOwnedUnit.as", "a08609.html", null ],
-    [ "IPreRenderable.as", "a08612.html", null ],
-    [ "IUsable.as", "a08645.html", "a08645" ],
-    [ "JammableBehavior.as", "a08648.html", [
-      [ "JammableBehavior", "a10905.html", "a10905" ]
+    [ "GoreSpawner.as", "_gore_spawner_8as.html", "_gore_spawner_8as" ],
+    [ "IDamageTaker.as", "_i_damage_taker_8as.html", "_i_damage_taker_8as" ],
+    [ "IJammable.as", "_i_jammable_8as.html", "_i_jammable_8as" ],
+    [ "IOwnedUnit.as", "_i_owned_unit_8as.html", null ],
+    [ "IPreRenderable.as", "_i_pre_renderable_8as.html", null ],
+    [ "IUsable.as", "_i_usable_8as.html", "_i_usable_8as" ],
+    [ "JammableBehavior.as", "_jammable_behavior_8as.html", [
+      [ "JammableBehavior", "class_jammable_behavior.html", "class_jammable_behavior" ]
     ] ],
-    [ "Loot.as", "a08651.html", "a08651" ],
-    [ "MagicTile.as", "a08654.html", [
-      [ "MagicTile", "a10913.html", "a10913" ]
+    [ "Loot.as", "_loot_8as.html", "_loot_8as" ],
+    [ "MagicTile.as", "_magic_tile_8as.html", [
+      [ "MagicTile", "class_magic_tile.html", "class_magic_tile" ]
     ] ],
-    [ "PingBehavior.as", "a08657.html", [
-      [ "PingBehavior", "a10917.html", "a10917" ]
+    [ "PingBehavior.as", "_ping_behavior_8as.html", [
+      [ "PingBehavior", "class_ping_behavior.html", "class_ping_behavior" ]
     ] ],
-    [ "PlayerMaterial.as", "a08660.html", "a08660" ],
-    [ "ProximityTrap.as", "a08693.html", [
-      [ "ProximityTrap", "a10965.html", "a10965" ]
+    [ "PlayerMaterial.as", "_player_material_8as.html", "_player_material_8as" ],
+    [ "ProximityTrap.as", "_proximity_trap_8as.html", [
+      [ "ProximityTrap", "class_proximity_trap.html", "class_proximity_trap" ]
     ] ],
-    [ "SafetyAreaBehavior.as", "a08696.html", [
-      [ "SafetyAreaBehavior", "a10969.html", "a10969" ]
+    [ "SafetyAreaBehavior.as", "_safety_area_behavior_8as.html", [
+      [ "SafetyAreaBehavior", "class_safety_area_behavior.html", "class_safety_area_behavior" ]
     ] ],
-    [ "StateAnimations.as", "a08699.html", "a08699" ],
-    [ "StatueBehavior.as", "a08702.html", [
-      [ "StatueBehavior", "a10977.html", "a10977" ]
+    [ "StateAnimations.as", "_state_animations_8as.html", "_state_animations_8as" ],
+    [ "StatueBehavior.as", "_statue_behavior_8as.html", [
+      [ "StatueBehavior", "class_statue_behavior.html", "class_statue_behavior" ]
     ] ],
-    [ "Tree.as", "a08705.html", [
-      [ "Tree", "a10981.html", "a10981" ]
+    [ "Tree.as", "_tree_8as.html", [
+      [ "Tree", "class_tree.html", "class_tree" ]
     ] ]
 ];

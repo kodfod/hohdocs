@@ -5,8 +5,8 @@ var dir_2ac8b8c009ef2c974b564916b69f8025 =
     [ "special", "dir_7118861aab5438bb49954e4e77553512.html", "dir_7118861aab5438bb49954e4e77553512" ],
     [ "terrain", "dir_3a155e77a9e43bc56499a9a86b4620d0.html", "dir_3a155e77a9e43bc56499a9a86b4620d0" ],
     [ "walls", "dir_6792945da196af246ca24527bb02c939.html", "dir_6792945da196af246ca24527bb02c939" ],
-    [ "chests.sval", "a01550.html", null ],
-    [ "loot.sval", "a12647.html", null ],
-    [ "ping.unit", "a02405.html", null ],
-    [ "statue.unit", "a02921.html", null ]
+    [ "chests.sval", "chests_8sval.html", null ],
+    [ "loot.sval", "doodads_2loot_8sval.html", null ],
+    [ "ping.unit", "ping_8unit.html", null ],
+    [ "statue.unit", "statue_8unit.html", null ]
 ];
