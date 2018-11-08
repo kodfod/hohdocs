@@ -1,0 +1,25 @@
+var dir_4727f766ece07279544a015520e2aafa =
+[
+    [ "bomb.unit", "a12620.html", null ],
+    [ "delta_dukes_signet_ring.effect", "a05312.html", null ],
+    [ "dukes_signet_ring.effect", "a05315.html", null ],
+    [ "dukes_signet_ring.unit", "a05318.html", null ],
+    [ "dukes_signet_ring_particles.effect", "a05321.html", null ],
+    [ "earthsplitter.unit", "a05324.html", null ],
+    [ "fire_area.effect", "a12599.html", null ],
+    [ "fire_area.unit", "a12605.html", null ],
+    [ "magic_missile.effect", "a05327.html", null ],
+    [ "magic_missile.unit", "a05330.html", null ],
+    [ "magic_missile_big.unit", "a05333.html", null ],
+    [ "magic_missile_hit.effect", "a05336.html", null ],
+    [ "meteor.effect", "a05339.html", null ],
+    [ "meteor.unit", "a05342.html", null ],
+    [ "meteor_hit.effect", "a14066.html", null ],
+    [ "poison_dart.unit", "a05348.html", null ],
+    [ "projectile_magic_missile_big.effect", "a05351.html", null ],
+    [ "projectile_magic_missile_fade.effect", "a05354.html", null ],
+    [ "sphere_of_heroes.unit", "a05357.html", null ],
+    [ "sphere_of_heroes_attack.effect", "a05360.html", null ],
+    [ "sphere_of_heroes_trail.effect", "a05363.html", null ],
+    [ "stormcaller.unit", "a05366.html", null ]
+];

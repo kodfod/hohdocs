@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['back',['Back',['../a12453.html#abe81e0865527ee36afa403f6966cad42',1,'MenuInput']]],
+  ['barcount',['BarCount',['../a12013.html#a5230c46aebf32d04c061446818a6fa0b',1,'WorldScript::CreateBossBar']]],
+  ['baroffset',['BarOffset',['../a12013.html#ad1aa0ab1cd9cafb0a03e2497c2168e4b',1,'WorldScript::CreateBossBar']]],
+  ['base_5farmor',['base_armor',['../a10505.html#a75a987dc14148b6dbc8766f0ae1bf46d',1,'ClassStats']]],
+  ['base_5fhealth',['base_health',['../a10505.html#a606a79eb4020fcae16f1b05c963cf824',1,'ClassStats']]],
+  ['base_5fhealth_5fregen',['base_health_regen',['../a10505.html#a22f7c3f4fccf3074b1c1933aae59c601',1,'ClassStats']]],
+  ['base_5fmana',['base_mana',['../a10505.html#a83e6025cc36c62880654d2b2bc7029ec',1,'ClassStats']]],
+  ['base_5fmana_5fregen',['base_mana_regen',['../a10505.html#afc677d0b36ae6a7832dd586bf130414a',1,'ClassStats']]],
+  ['base_5fresistance',['base_resistance',['../a10505.html#a403bfac49f5b4028b4703fc84563465e',1,'ClassStats']]],
+  ['basearmor',['BaseArmor',['../a09976.html#a09047b3058e1531f7aca9d01e16e15c2',1,'Tweak']]],
+  ['basehealth',['BaseHealth',['../a09976.html#adb1173f81723eb0eb62caae429801a20',1,'Tweak']]],
+  ['begincount',['BeginCount',['../a12005.html#afa04ed7158e383152f6da238cf32ad1d',1,'WorldScript::CountdownText']]],
+  ['bonuses',['bonuses',['../a10105.html#aac4fd76003081eb7664591c337672b17',1,'ActorSet']]],
+  ['boss',['Boss',['../a11929.html#ac34bff38b13d38d5253d2c8f7cf562a2',1,'WorldScript::BossEyeSuspend::Boss()'],['../a11933.html#a3968e711a10e626130636e39b1d7ae07',1,'WorldScript::BossEyeWispsAdd::Boss()'],['../a11937.html#a9fa71075e6ae6f908a426dcee291b6bc',1,'WorldScript::BossEyeWispsClear::Boss()'],['../a11941.html#ab2e1ae24377df7933d694f4d918b7c81',1,'WorldScript::BossEyeWispsSpeed::Boss()']]],
+  ['bossnumber',['BossNumber',['../a12225.html#abb17e6bbeb0544617da4a313b17661c2',1,'WorldScript::SetBossKilled']]],
+  ['bottom',['bottom',['../a11889.html#a108ba5874a20b1e9336d4b696d8c2fe7',1,'Rect']]],
+  ['breakable',['Breakable',['../a08825.html#af883e1be3dd20bc0e6fb29dea9114243',1,'PatternMatcher.as']]],
+  ['breakables',['Breakables',['../a11081.html#a771babcddf011a42a040deb0017b3c39',1,'CaveGenerator']]],
+  ['bubble',['Bubble',['../a12093.html#aef12edf7a9ef5983a7771754b357ba08',1,'WorldScript::HideSpeechBubble']]],
+  ['buff',['buff',['../a10677.html#a2529a29fbe38c87d80275564191379f5',1,'TavernDrink::buff()'],['../a12029.html#acfaad3918b1bf7ad4944f43cd9c7f2a5',1,'WorldScript::DamageUnits::Buff()'],['../a12033.html#af45ccb9be5d982a1808f45b386d3b50b',1,'DangerArea::Buff()'],['../a08486.html#aa792545005d7455af390d788e124b8c5',1,'buff():&#160;TavernDrink.as']]],
+  ['buyindungeon',['buyInDungeon',['../a08102.html#aa82d7de9694a9524418d754621d9d57b',1,'ActorItem.as']]],
+  ['buyintown',['buyInTown',['../a08102.html#af4169fd78b5d4ad033c9f7b637d9645c',1,'ActorItem.as']]]
+];

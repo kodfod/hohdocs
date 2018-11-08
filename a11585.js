@@ -1,0 +1,25 @@
+var a11585 =
+[
+    [ "TownhallMenuContent", "a11585.html#a2a748b1ca15325c0ae4d3268fbc1de3d", null ],
+    [ "AddButton", "a11585.html#a6456703781baaa21d24ba27c336cb32e", null ],
+    [ "BuyItem", "a11585.html#a8a8058723315a0047b96a4ffe1dd9351", null ],
+    [ "GetGuiFilename", "a11585.html#a63b465a177da61782415eda88ca17261", null ],
+    [ "GetTitle", "a11585.html#a2659e9eada9633e72b95ff00a679b74d", null ],
+    [ "OnShow", "a11585.html#a373aa4d8ef462cb3d023e5a5b00e6abb", null ],
+    [ "ReloadList", "a11585.html#aa7438d1558d8231342d1d383ad5f9885", null ],
+    [ "m_numTiers", "a11585.html#a00f317ed76c34afe6309f64ceef727eb", null ],
+    [ "m_numUpgrades", "a11585.html#a3d85bcfbd305e84c571631d6d95c2c3b", null ],
+    [ "m_shop", "a11585.html#a80891f142731200f5cc5d13419a6a4db", null ],
+    [ "m_spriteOre", "a11585.html#a648024cc0c7bc933377546957f9e5fd4", null ],
+    [ "m_tiers", "a11585.html#a199bf2c8a263a74afff957392b0f16ae", null ],
+    [ "m_tiersTownhall", "a11585.html#a31865e214e804fa5f0e3f288d26402fd", null ],
+    [ "m_wRowList", "a11585.html#ac5084c28e1619f7692115771590d2ac3", null ],
+    [ "m_wSpecialSeparator", "a11585.html#af6a9489d3299316212d2f271d37ad3ac", null ],
+    [ "m_wTemplateBuilding", "a11585.html#a7e129958ddc69d73f7e8160c8dafc290", null ],
+    [ "m_wTemplateBuildingEmpty", "a11585.html#a9f216092b0535a5295cd62e6d95e551b", null ],
+    [ "m_wTemplateBuildingOwned", "a11585.html#a06211b68e962537e64ba8c7cf42eb703", null ],
+    [ "m_wTemplateBuildingUnavailable", "a11585.html#a83040988456e97ec8f88fc21e45b3c5c", null ],
+    [ "m_wTemplateBuildingUnknown", "a11585.html#aae7fceee9a3ecbaa89442ea48c7e2626", null ],
+    [ "m_wTemplateRow", "a11585.html#aa4fdcaba50acb45f4c0f589edb2bb3fd", null ],
+    [ "m_wTemplateRowUnavailable", "a11585.html#a62a70a888d1cecadab61ea16032f7e96", null ]
+];

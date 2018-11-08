@@ -1,0 +1,27 @@
+var a08732 =
+[
+    [ "DarknessFadeTime", "a08732.html#af3d1adf9bf3d405d393d0e1eae93a321", null ],
+    [ "FloatingTextColor_EnemyHeal", "a08732.html#ad79cebedf03e39306253a9b8e94c9d17", null ],
+    [ "FloatingTextColor_EnemyHurt", "a08732.html#ab4fa7d9d96f2e95737d92cd8887b596f", null ],
+    [ "FloatingTextColor_EnemyHurtHusk", "a08732.html#af4ffd690a16a1fc5eceec0c53ac982be", null ],
+    [ "FloatingTextColor_EnemyHurtLocal", "a08732.html#a9b03aca242a744826594f5d8ecd4a769", null ],
+    [ "FloatingTextColor_EnemyImmortal", "a08732.html#a27d9d88211c80cd2ca35f4a84d468aaa", null ],
+    [ "FloatingTextColor_Pickup", "a08732.html#afb433c58ea95175fbd3ffea4c8c56f60", null ],
+    [ "FloatingTextColor_PlayerAmmo", "a08732.html#a6ce30cc6a7a3e69174336f5f7e6103d0", null ],
+    [ "FloatingTextColor_PlayerAmmoMax", "a08732.html#ac39a92c6b1b809480dc86136c5557289", null ],
+    [ "FloatingTextColor_PlayerArmor", "a08732.html#ac843509e302d093998586e5ed03550e3", null ],
+    [ "FloatingTextColor_PlayerHeal", "a08732.html#ae08e659804c5fc3e80d32391ffb5735b", null ],
+    [ "FloatingTextColor_PlayerHurt", "a08732.html#a1ee00d5c3106f700864ac9e8be054b9c", null ],
+    [ "FloatingTextColor_PlayerHurtMagical", "a08732.html#a324ae761c83d9efae61db8d02a62d565", null ],
+    [ "NotificationColors_Accomplishment", "a08732.html#ae5b85a2a1f4d6efe22c8b7029cea775a", null ],
+    [ "NotificationColors_NewTitle", "a08732.html#a9eed1d8a277972149d8fed3221fd147c", null ],
+    [ "PlayerMenuMapColor", "a08732.html#a44552b2af9d2008b1eca9650910c011b", null ],
+    [ "ScaleButtonTextColor", "a08732.html#a0cc8c1c0d55a37a7a24e828d94cb4ddf", null ],
+    [ "ScaleButtonTextDownColor", "a08732.html#a5d950bc6e589ad6d95807ed97b3b517c", null ],
+    [ "ScaleButtonTextHoverColor", "a08732.html#ad2da05bb943e13ac3dbe159cc3cbb5a5", null ],
+    [ "ScenarioLogoBig", "a08732.html#ade865cfade81e0c23a604b7fa7d74758", null ],
+    [ "ScenarioLogoSmall", "a08732.html#ae84e0c2cb448e3584d9a29f7804f9175", null ],
+    [ "TextTimeCalc_PerCharacter", "a08732.html#af2445a2418ccfe82827a5a3b72e60d43", null ],
+    [ "TextTimeCalc_Start", "a08732.html#a48e70d25c6abaab47ff9e44612133057", null ],
+    [ "WaypointShape", "a08732.html#aaad8ca69306134538ea584642693267a", null ]
+];

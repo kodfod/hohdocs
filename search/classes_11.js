@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['raisemagictiles',['RaiseMagicTiles',['../a10049.html',1,'']]],
+  ['raiseunitevent',['RaiseUnitEvent',['../a10053.html',1,'']]],
+  ['randombuff',['RandomBuff',['../a12185.html',1,'WorldScript::RandomBuff'],['../a10433.html',1,'Modifiers::RandomBuff']]],
+  ['randomchance',['RandomChance',['../a12189.html',1,'WorldScript']]],
+  ['randomcount',['RandomCount',['../a12193.html',1,'WorldScript']]],
+  ['randomlevel',['RandomLevel',['../a11041.html',1,'']]],
+  ['randomloot',['RandomLoot',['../a12197.html',1,'WorldScript']]],
+  ['randompicker',['RandomPicker',['../a12201.html',1,'WorldScript']]],
+  ['randompossiblebuff',['RandomPossibleBuff',['../a12205.html',1,'WorldScript']]],
+  ['rangedmovement',['RangedMovement',['../a10185.html',1,'']]],
+  ['rangerprojectile',['RangerProjectile',['../a10945.html',1,'']]],
+  ['rayprojectile',['RayProjectile',['../a10949.html',1,'']]],
+  ['recordupgrade',['RecordUpgrade',['../a11869.html',1,'Upgrades']]],
+  ['recordupgradestep',['RecordUpgradeStep',['../a11841.html',1,'Upgrades']]],
+  ['rect',['Rect',['../a11889.html',1,'']]],
+  ['rectwidget',['RectWidget',['../a11513.html',1,'']]],
+  ['refillpotion',['RefillPotion',['../a10789.html',1,'']]],
+  ['refreshspawnpickup',['RefreshSpawnPickup',['../a12209.html',1,'WorldScript']]],
+  ['regen',['Regen',['../a10437.html',1,'Modifiers']]],
+  ['resolutionsmenu',['ResolutionsMenu',['../a11429.html',1,'Menu']]],
+  ['ripostetrigger',['RiposteTrigger',['../a10597.html',1,'Skills']]]
+];
