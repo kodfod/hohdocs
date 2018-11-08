@@ -2,27 +2,27 @@ var dir_ce1cc7709a4d24d59bace67cddd1efe5 =
 [
     [ "Movements", "dir_45bc5fbad700e47595ac62bab86b3012.html", "dir_45bc5fbad700e47595ac62bab86b3012" ],
     [ "Skills", "dir_0c37e861ce72d78206f26d71459d2867.html", "dir_0c37e861ce72d78206f26d71459d2867" ],
-    [ "BossEye.as", "a08105.html", [
-      [ "BossEye", "a10113.html", "a10113" ]
+    [ "BossEye.as", "_boss_eye_8as.html", [
+      [ "BossEye", "class_boss_eye.html", "class_boss_eye" ]
     ] ],
-    [ "BossEyeWisp.as", "a08108.html", [
-      [ "BossEyeWisp", "a10117.html", "a10117" ]
+    [ "BossEyeWisp.as", "_boss_eye_wisp_8as.html", [
+      [ "BossEyeWisp", "class_boss_eye_wisp.html", "class_boss_eye_wisp" ]
     ] ],
-    [ "BossLich.as", "a08111.html", "a08111" ],
-    [ "BossVampire.as", "a08114.html", [
-      [ "BossVampire", "a10125.html", "a10125" ]
+    [ "BossLich.as", "_boss_lich_8as.html", "_boss_lich_8as" ],
+    [ "BossVampire.as", "_boss_vampire_8as.html", [
+      [ "BossVampire", "class_boss_vampire.html", "class_boss_vampire" ]
     ] ],
-    [ "CompositeActorBehavior.as", "a08117.html", "a08117" ],
-    [ "CompositeJammableActorBehavior.as", "a08120.html", [
-      [ "CompositeJammableActorBehavior", "a10137.html", "a10137" ]
+    [ "CompositeActorBehavior.as", "_composite_actor_behavior_8as.html", "_composite_actor_behavior_8as" ],
+    [ "CompositeJammableActorBehavior.as", "_composite_jammable_actor_behavior_8as.html", [
+      [ "CompositeJammableActorBehavior", "class_composite_jammable_actor_behavior.html", "class_composite_jammable_actor_behavior" ]
     ] ],
-    [ "Miniboss.as", "a08123.html", [
-      [ "Miniboss", "a10141.html", "a10141" ]
+    [ "Miniboss.as", "_miniboss_8as.html", [
+      [ "Miniboss", "class_miniboss.html", "class_miniboss" ]
     ] ],
-    [ "TransferDamageActor.as", "a08219.html", [
-      [ "TransferDamageActor", "a10301.html", "a10301" ]
+    [ "TransferDamageActor.as", "_transfer_damage_actor_8as.html", [
+      [ "TransferDamageActor", "class_transfer_damage_actor.html", "class_transfer_damage_actor" ]
     ] ],
-    [ "TripMine.as", "a08222.html", [
-      [ "TripMine", "a10305.html", "a10305" ]
+    [ "TripMine.as", "_trip_mine_8as.html", [
+      [ "TripMine", "class_trip_mine.html", "class_trip_mine" ]
     ] ]
 ];

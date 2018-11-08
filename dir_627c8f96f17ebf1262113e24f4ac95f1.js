@@ -1,11 +1,11 @@
 var dir_627c8f96f17ebf1262113e24f4ac95f1 =
 [
-    [ "ChapelShop.as", "a09365.html", [
-      [ "ChapelShop", "a11805.html", "a11805" ]
+    [ "ChapelShop.as", "_chapel_shop_8as.html", [
+      [ "ChapelShop", "class_upgrades_1_1_chapel_shop.html", "class_upgrades_1_1_chapel_shop" ]
     ] ],
-    [ "DungeonShop.as", "a09368.html", [
-      [ "DungeonShop", "a11809.html", "a11809" ]
+    [ "DungeonShop.as", "_dungeon_shop_8as.html", [
+      [ "DungeonShop", "class_upgrades_1_1_dungeon_shop.html", "class_upgrades_1_1_dungeon_shop" ]
     ] ],
-    [ "ItemShop.as", "a09371.html", "a09371" ],
-    [ "UpgradeShop.as", "a09374.html", "a09374" ]
+    [ "ItemShop.as", "_item_shop_8as.html", "_item_shop_8as" ],
+    [ "UpgradeShop.as", "_upgrade_shop_8as.html", "_upgrade_shop_8as" ]
 ];

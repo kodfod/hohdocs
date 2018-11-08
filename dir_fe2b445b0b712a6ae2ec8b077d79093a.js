@@ -1,11 +1,11 @@
 var dir_fe2b445b0b712a6ae2ec8b077d79093a =
 [
-    [ "Accomplishment.as", "a09320.html", [
-      [ "Accomplishment", "a11753.html", "a11753" ]
+    [ "Accomplishment.as", "_accomplishment_8as.html", [
+      [ "Accomplishment", "class_stats_1_1_accomplishment.html", "class_stats_1_1_accomplishment" ]
     ] ],
-    [ "Stat.as", "a09323.html", "a09323" ],
-    [ "StatList.as", "a09326.html", [
-      [ "StatList", "a11757.html", "a11757" ]
+    [ "Stat.as", "_stat_8as.html", "_stat_8as" ],
+    [ "StatList.as", "_stat_list_8as.html", [
+      [ "StatList", "class_stats_1_1_stat_list.html", "class_stats_1_1_stat_list" ]
     ] ],
-    [ "Stats.as", "a15557.html", "a15557" ]
+    [ "Stats.as", "_stats_2_stats_8as.html", "_stats_2_stats_8as" ]
 ];

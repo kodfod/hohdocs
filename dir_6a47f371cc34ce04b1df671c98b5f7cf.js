@@ -1,16 +1,16 @@
 var dir_6a47f371cc34ce04b1df671c98b5f7cf =
 [
-    [ "aura.sval", "a05459.html", null ],
-    [ "celestial_orb.sval", "a05462.html", null ],
-    [ "char.sval", "a14075.html", null ],
-    [ "consecrated_ground.sval", "a05465.html", null ],
-    [ "consecrated_ground_1.unit", "a05468.html", null ],
-    [ "consecrated_ground_2.unit", "a05471.html", null ],
-    [ "consecrated_ground_3.unit", "a05474.html", null ],
-    [ "consecrated_ground_4.unit", "a05477.html", null ],
-    [ "consecrated_grounds.effect", "a05480.html", null ],
-    [ "divine_protection.sval", "a05483.html", null ],
-    [ "holy_light.sval", "a05486.html", null ],
-    [ "remedy.sval", "a05489.html", null ],
-    [ "smite.sval", "a05492.html", null ]
+    [ "aura.sval", "aura_8sval.html", null ],
+    [ "celestial_orb.sval", "celestial__orb_8sval.html", null ],
+    [ "char.sval", "priest_2char_8sval.html", null ],
+    [ "consecrated_ground.sval", "consecrated__ground_8sval.html", null ],
+    [ "consecrated_ground_1.unit", "consecrated__ground__1_8unit.html", null ],
+    [ "consecrated_ground_2.unit", "consecrated__ground__2_8unit.html", null ],
+    [ "consecrated_ground_3.unit", "consecrated__ground__3_8unit.html", null ],
+    [ "consecrated_ground_4.unit", "consecrated__ground__4_8unit.html", null ],
+    [ "consecrated_grounds.effect", "consecrated__grounds_8effect.html", null ],
+    [ "divine_protection.sval", "divine__protection_8sval.html", null ],
+    [ "holy_light.sval", "holy__light_8sval.html", null ],
+    [ "remedy.sval", "remedy_8sval.html", null ],
+    [ "smite.sval", "smite_8sval.html", null ]
 ];

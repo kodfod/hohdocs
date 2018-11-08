@@ -1,0 +1,27 @@
+var _sprite_widget_8as =
+[
+    [ "SpriteWidget", "class_sprite_widget.html", "class_sprite_widget" ],
+    [ "AnimateSet", "_sprite_widget_8as.html#a756316a82e1c8001e9daa83c0f4754d0", null ],
+    [ "AnimateSet", "_sprite_widget_8as.html#a864ea49b3c5a9cd528fef11e4f901ca5", null ],
+    [ "Clone", "_sprite_widget_8as.html#a29eb268bd537f959c70ef1c6414504a9", null ],
+    [ "DoDraw", "_sprite_widget_8as.html#a6445950f2183666e0cbb5fb875d48c03", null ],
+    [ "Load", "_sprite_widget_8as.html#a2a6a9da2726bfd8519e37afdb1075dbe", null ],
+    [ "LoadSpriteWidget", "_sprite_widget_8as.html#a0d9f2f2b508670e77981e65f800658ea", null ],
+    [ "SetSprite", "_sprite_widget_8as.html#a06fb78b76d9c4370ea9e25c02252cef4", null ],
+    [ "SetSprite", "_sprite_widget_8as.html#aea1fb859b4f57827358db680c321125a", null ],
+    [ "SetSprite", "_sprite_widget_8as.html#a62b1563711b1628d8b80fe1e45f3bfea", null ],
+    [ "SetTexture", "_sprite_widget_8as.html#a222c9a7a0c6cbe4e179355e4635d43b9", null ],
+    [ "SpriteWidget", "_sprite_widget_8as.html#a591aa5080bcfbb6cba3fb1fa47ada12d", null ],
+    [ "m_autoSize", "_sprite_widget_8as.html#aa854feb2e3cde6f9cb3c4a5acbc9339b", null ],
+    [ "m_color", "_sprite_widget_8as.html#a2ef89ebcde9bcfefd72060ede9f17b33", null ],
+    [ "m_colorize", "_sprite_widget_8as.html#af64969eeb2b3baa7187fa40055d61aed", null ],
+    [ "m_colorizeColors", "_sprite_widget_8as.html#ab938414904bff5ac1e9820f205657987", null ],
+    [ "m_def", "_sprite_widget_8as.html#a61bcce5617a688215696d0c6eeea3158", null ],
+    [ "m_multiColors", "_sprite_widget_8as.html#a63fd33103f1d8399e393738a720d6ffc", null ],
+    [ "m_sprite", "_sprite_widget_8as.html#a0283aa1f720c5ec2543817315526a9c2", null ],
+    [ "m_spriteOrig", "_sprite_widget_8as.html#ab24d9b84f930d91ace475c74fa858583", null ],
+    [ "m_spriteSrc", "_sprite_widget_8as.html#a912943b5fedfe5f13b07e1b20a4cd98e", null ],
+    [ "m_spriteTexture", "_sprite_widget_8as.html#a9b7f8c678bc67928b8650a445cf4df20", null ],
+    [ "m_ssprite", "_sprite_widget_8as.html#adb45cec76281267f13112854c51f14f4", null ],
+    [ "m_timeOffset", "_sprite_widget_8as.html#a05590a1c8d1a6aab44dbc261b386f98b", null ]
+];

@@ -1,767 +1,767 @@
 var hierarchy =
 [
-    [ "Stats::Accomplishment", "a11753.html", null ],
-    [ "ActorBuffIcon", "a10093.html", null ],
-    [ "ActorBuffList", "a10097.html", null ],
-    [ "ActorColor", "a10085.html", null ],
-    [ "ActorFootsteps", "a10101.html", null ],
-    [ "WorldScript::ActorHealthTrigger", "a11897.html", null ],
-    [ "ActorItems", "a10109.html", null ],
-    [ "ActorMovement", "a10145.html", [
-      [ "BossLichMovement", "a10149.html", null ],
-      [ "BossVampireMovement", "a10153.html", null ],
-      [ "ChargeMovement", "a10157.html", null ],
-      [ "EmptyMovement", "a10165.html", null ],
-      [ "MeleeMovement", "a10173.html", [
-        [ "CirclingMovement", "a10161.html", null ],
-        [ "RangedMovement", "a10185.html", null ],
-        [ "TargetMovement", "a10189.html", null ]
+    [ "Stats::Accomplishment", "class_stats_1_1_accomplishment.html", null ],
+    [ "ActorBuffIcon", "class_actor_buff_icon.html", null ],
+    [ "ActorBuffList", "class_actor_buff_list.html", null ],
+    [ "ActorColor", "class_actor_color.html", null ],
+    [ "ActorFootsteps", "class_actor_footsteps.html", null ],
+    [ "WorldScript::ActorHealthTrigger", "class_world_script_1_1_actor_health_trigger.html", null ],
+    [ "ActorItems", "class_actor_items.html", null ],
+    [ "ActorMovement", "class_actor_movement.html", [
+      [ "BossLichMovement", "class_boss_lich_movement.html", null ],
+      [ "BossVampireMovement", "class_boss_vampire_movement.html", null ],
+      [ "ChargeMovement", "class_charge_movement.html", null ],
+      [ "EmptyMovement", "class_empty_movement.html", null ],
+      [ "MeleeMovement", "class_melee_movement.html", [
+        [ "CirclingMovement", "class_circling_movement.html", null ],
+        [ "RangedMovement", "class_ranged_movement.html", null ],
+        [ "TargetMovement", "class_target_movement.html", null ]
       ] ],
-      [ "PassiveMovement", "a10177.html", null ]
+      [ "PassiveMovement", "class_passive_movement.html", null ]
     ] ],
-    [ "ActorSet", "a10105.html", null ],
-    [ "WorldScript::AddNotification", "a11901.html", null ],
-    [ "WorldScript::AddScreenShake", "a11905.html", null ],
-    [ "AGameMode", "a11013.html", [
-      [ "BaseGameMode", "a11017.html", [
-        [ "Campaign", "a11025.html", [
-          [ "BossLevel", "a11021.html", null ],
-          [ "RandomLevel", "a11041.html", null ],
-          [ "ShortcutLevel", "a11045.html", null ],
-          [ "StaticLevel", "a11049.html", null ],
-          [ "Survival", "a11053.html", null ],
-          [ "TestLevel", "a11057.html", null ],
-          [ "Town", "a11061.html", null ]
+    [ "ActorSet", "class_actor_set.html", null ],
+    [ "WorldScript::AddNotification", "class_world_script_1_1_add_notification.html", null ],
+    [ "WorldScript::AddScreenShake", "class_world_script_1_1_add_screen_shake.html", null ],
+    [ "AGameMode", "class_a_game_mode.html", [
+      [ "BaseGameMode", "class_base_game_mode.html", [
+        [ "Campaign", "class_campaign.html", [
+          [ "BossLevel", "class_boss_level.html", null ],
+          [ "RandomLevel", "class_random_level.html", null ],
+          [ "ShortcutLevel", "class_shortcut_level.html", null ],
+          [ "StaticLevel", "class_static_level.html", null ],
+          [ "Survival", "class_survival.html", null ],
+          [ "TestLevel", "class_test_level.html", null ],
+          [ "Town", "class_town.html", null ]
         ] ],
-        [ "MainMenu", "a11037.html", null ]
+        [ "MainMenu", "class_main_menu.html", null ]
       ] ]
     ] ],
-    [ "WorldScript::AllPlayersAreaTrigger", "a11909.html", null ],
-    [ "AnimString", "a10681.html", null ],
-    [ "AnnounceParams", "a11229.html", null ],
-    [ "WorldScript::AnnounceText", "a11913.html", null ],
-    [ "AreaTrigger", "a11917.html", null ],
-    [ "ArmorDef", "a10685.html", null ],
-    [ "AttachedSound", "a11713.html", null ],
-    [ "WorldScript::AttachNewUnit", "a11921.html", null ],
-    [ "Menu::BackdropLayer", "a11413.html", null ],
+    [ "WorldScript::AllPlayersAreaTrigger", "class_world_script_1_1_all_players_area_trigger.html", null ],
+    [ "AnimString", "class_anim_string.html", null ],
+    [ "AnnounceParams", "class_announce_params.html", null ],
+    [ "WorldScript::AnnounceText", "class_world_script_1_1_announce_text.html", null ],
+    [ "AreaTrigger", "class_area_trigger.html", null ],
+    [ "ArmorDef", "class_armor_def.html", null ],
+    [ "AttachedSound", "class_attached_sound.html", null ],
+    [ "WorldScript::AttachNewUnit", "class_world_script_1_1_attach_new_unit.html", null ],
+    [ "Menu::BackdropLayer", "class_menu_1_1_backdrop_layer.html", null ],
     [ "BarWidget", null, [
-      [ "BossBarWidget", "a11233.html", null ]
+      [ "BossBarWidget", "class_boss_bar_widget.html", null ]
     ] ],
-    [ "BaseBrushTiles", "a11093.html", null ],
-    [ "Skills::BeamRayResult", "a10609.html", null ],
-    [ "BestiaryEntry", "a11789.html", null ],
-    [ "WorldScript::BossBarCheckpoint", "a11925.html", null ],
-    [ "WorldScript::BossEyeSuspend", "a11929.html", null ],
-    [ "WorldScript::BossEyeWispsAdd", "a11933.html", null ],
-    [ "WorldScript::BossEyeWispsClear", "a11937.html", null ],
-    [ "WorldScript::BossEyeWispsSpeed", "a11941.html", null ],
-    [ "WorldScript::BossLichNode", "a11945.html", [
-      [ "WorldScript::VampireCenterNode", "a12417.html", null ]
+    [ "BaseBrushTiles", "class_base_brush_tiles.html", null ],
+    [ "Skills::BeamRayResult", "class_skills_1_1_beam_ray_result.html", null ],
+    [ "BestiaryEntry", "class_bestiary_entry.html", null ],
+    [ "WorldScript::BossBarCheckpoint", "class_world_script_1_1_boss_bar_checkpoint.html", null ],
+    [ "WorldScript::BossEyeSuspend", "class_world_script_1_1_boss_eye_suspend.html", null ],
+    [ "WorldScript::BossEyeWispsAdd", "class_world_script_1_1_boss_eye_wisps_add.html", null ],
+    [ "WorldScript::BossEyeWispsClear", "class_world_script_1_1_boss_eye_wisps_clear.html", null ],
+    [ "WorldScript::BossEyeWispsSpeed", "class_world_script_1_1_boss_eye_wisps_speed.html", null ],
+    [ "WorldScript::BossLichNode", "class_world_script_1_1_boss_lich_node.html", [
+      [ "WorldScript::VampireCenterNode", "class_world_script_1_1_vampire_center_node.html", null ]
     ] ],
-    [ "WorldScript::BossLichRoom", "a11949.html", null ],
-    [ "Bush", "a10701.html", null ],
-    [ "ButtonState", "a12449.html", null ],
-    [ "CardGameSound", "a11625.html", null ],
-    [ "Skills::CelestialOrb", "a10525.html", null ],
-    [ "ChambersRoom", "a11089.html", null ],
-    [ "CharacterCustomizationBase", "a11629.html", null ],
-    [ "WorldScript::CheckCrowdValue", "a11953.html", null ],
-    [ "WorldScript::CheckFlag", "a11957.html", null ],
-    [ "WorldScript::CheckMods", "a11961.html", null ],
-    [ "WorldScript::CheckNewGamePlus", "a11965.html", null ],
-    [ "WorldScript::CheckPlayerCount", "a11969.html", null ],
-    [ "WorldScript::CheckSpawnDistance", "a11973.html", null ],
-    [ "WorldScript::CheckSwitch", "a11977.html", null ],
-    [ "WorldScript::CheckTimeOfDay", "a11981.html", null ],
-    [ "WorldScript::CheckUnitActorTeam", "a11985.html", null ],
-    [ "WorldScript::CheckUnitSlot", "a11989.html", null ],
-    [ "CharacterColors::ClassColors", "a11329.html", null ],
-    [ "ClassStats", "a10505.html", null ],
-    [ "Titles::ClassTitles", "a11765.html", null ],
-    [ "WorldScript::ClearDelayedTriggers", "a11993.html", null ],
-    [ "WorldScript::ClearTopNumbers", "a11997.html", null ],
-    [ "WorldScript::CloseInterface", "a12001.html", null ],
-    [ "ColorHSV", "a11881.html", null ],
+    [ "WorldScript::BossLichRoom", "class_world_script_1_1_boss_lich_room.html", null ],
+    [ "Bush", "class_bush.html", null ],
+    [ "ButtonState", "class_button_state.html", null ],
+    [ "CardGameSound", "class_card_game_sound.html", null ],
+    [ "Skills::CelestialOrb", "class_skills_1_1_celestial_orb.html", null ],
+    [ "ChambersRoom", "class_chambers_room.html", null ],
+    [ "CharacterCustomizationBase", "class_character_customization_base.html", null ],
+    [ "WorldScript::CheckCrowdValue", "class_world_script_1_1_check_crowd_value.html", null ],
+    [ "WorldScript::CheckFlag", "class_world_script_1_1_check_flag.html", null ],
+    [ "WorldScript::CheckMods", "class_world_script_1_1_check_mods.html", null ],
+    [ "WorldScript::CheckNewGamePlus", "class_world_script_1_1_check_new_game_plus.html", null ],
+    [ "WorldScript::CheckPlayerCount", "class_world_script_1_1_check_player_count.html", null ],
+    [ "WorldScript::CheckSpawnDistance", "class_world_script_1_1_check_spawn_distance.html", null ],
+    [ "WorldScript::CheckSwitch", "class_world_script_1_1_check_switch.html", null ],
+    [ "WorldScript::CheckTimeOfDay", "class_world_script_1_1_check_time_of_day.html", null ],
+    [ "WorldScript::CheckUnitActorTeam", "class_world_script_1_1_check_unit_actor_team.html", null ],
+    [ "WorldScript::CheckUnitSlot", "class_world_script_1_1_check_unit_slot.html", null ],
+    [ "CharacterColors::ClassColors", "class_character_colors_1_1_class_colors.html", null ],
+    [ "ClassStats", "class_class_stats.html", null ],
+    [ "Titles::ClassTitles", "class_titles_1_1_class_titles.html", null ],
+    [ "WorldScript::ClearDelayedTriggers", "class_world_script_1_1_clear_delayed_triggers.html", null ],
+    [ "WorldScript::ClearTopNumbers", "class_world_script_1_1_clear_top_numbers.html", null ],
+    [ "WorldScript::CloseInterface", "class_world_script_1_1_close_interface.html", null ],
+    [ "ColorHSV", "class_color_h_s_v.html", null ],
     [ "CompositeActorBehavior", null, [
-      [ "BossEye", "a10113.html", null ],
-      [ "BossLich", "a10121.html", null ],
-      [ "BossVampire", "a10125.html", null ],
-      [ "CompositeActorBehaviorEvading", "a10129.html", null ],
-      [ "CompositeActorBehaviorNoNGPScale", "a10133.html", null ],
-      [ "CompositeJammableActorBehavior", "a10137.html", null ],
-      [ "Miniboss", "a10141.html", null ],
-      [ "TransferDamageActor", "a10301.html", null ],
-      [ "TripMine", "a10305.html", null ]
+      [ "BossEye", "class_boss_eye.html", null ],
+      [ "BossLich", "class_boss_lich.html", null ],
+      [ "BossVampire", "class_boss_vampire.html", null ],
+      [ "CompositeActorBehaviorEvading", "class_composite_actor_behavior_evading.html", null ],
+      [ "CompositeActorBehaviorNoNGPScale", "class_composite_actor_behavior_no_n_g_p_scale.html", null ],
+      [ "CompositeJammableActorBehavior", "class_composite_jammable_actor_behavior.html", null ],
+      [ "Miniboss", "class_miniboss.html", null ],
+      [ "TransferDamageActor", "class_transfer_damage_actor.html", null ],
+      [ "TripMine", "class_trip_mine.html", null ]
     ] ],
     [ "CompositeActorTriggeredSkill", null, [
-      [ "CompositeActorPeriodicTriggeredSkill", "a10213.html", [
-        [ "BossLichRandomSkill", "a10197.html", null ]
+      [ "CompositeActorPeriodicTriggeredSkill", "class_composite_actor_periodic_triggered_skill.html", [
+        [ "BossLichRandomSkill", "class_boss_lich_random_skill.html", null ]
       ] ]
     ] ],
-    [ "ControlMap", "a12457.html", null ],
-    [ "WorldScript::CountdownText", "a12005.html", null ],
-    [ "WorldScript::Counter", "a12009.html", null ],
-    [ "WorldScript::CreateBossBar", "a12013.html", null ],
-    [ "CrowdAction", "a10985.html", [
-      [ "Crowd::TimeAction", "a10993.html", null ],
-      [ "Crowd::ValueAction", "a11001.html", [
-        [ "Crowd::FloatValueAction", "a11005.html", [
-          [ "Crowd::HealthAction", "a10989.html", null ]
+    [ "ControlMap", "class_control_map.html", null ],
+    [ "WorldScript::CountdownText", "class_world_script_1_1_countdown_text.html", null ],
+    [ "WorldScript::Counter", "class_world_script_1_1_counter.html", null ],
+    [ "WorldScript::CreateBossBar", "class_world_script_1_1_create_boss_bar.html", null ],
+    [ "CrowdAction", "class_crowd_action.html", [
+      [ "Crowd::TimeAction", "class_crowd_1_1_time_action.html", null ],
+      [ "Crowd::ValueAction", "class_crowd_1_1_value_action.html", [
+        [ "Crowd::FloatValueAction", "class_crowd_1_1_float_value_action.html", [
+          [ "Crowd::HealthAction", "class_crowd_1_1_health_action.html", null ]
         ] ]
       ] ]
     ] ],
-    [ "WorldScript::CrowdPause", "a12017.html", null ],
-    [ "WorldScript::CrowdTimeReset", "a12021.html", null ],
-    [ "WorldScript::CrowdTrigger", "a12025.html", null ],
-    [ "Platform::CursorInfo", "a11721.html", null ],
-    [ "DamageInfo", "a10849.html", null ],
-    [ "WorldScript::DamageUnits", "a12029.html", null ],
-    [ "DangerArea", "a12033.html", null ],
-    [ "DecalSet", "a10833.html", null ],
-    [ "DecimateInfo", "a10853.html", null ],
-    [ "WorldScript::DestroyScripts", "a12037.html", null ],
-    [ "WorldScript::DestroyUnitChance", "a12041.html", null ],
-    [ "WorldScript::DestroyUnitCount", "a12045.html", null ],
-    [ "WorldScript::DestroyUnits", "a12049.html", null ],
-    [ "DoodadEffect", "a10709.html", null ],
-    [ "DropSpawnBehavior", "a10713.html", null ],
+    [ "WorldScript::CrowdPause", "class_world_script_1_1_crowd_pause.html", null ],
+    [ "WorldScript::CrowdTimeReset", "class_world_script_1_1_crowd_time_reset.html", null ],
+    [ "WorldScript::CrowdTrigger", "class_world_script_1_1_crowd_trigger.html", null ],
+    [ "Platform::CursorInfo", "class_platform_1_1_cursor_info.html", null ],
+    [ "DamageInfo", "class_damage_info.html", null ],
+    [ "WorldScript::DamageUnits", "class_world_script_1_1_damage_units.html", null ],
+    [ "DangerArea", "class_danger_area.html", null ],
+    [ "DecalSet", "class_decal_set.html", null ],
+    [ "DecimateInfo", "class_decimate_info.html", null ],
+    [ "WorldScript::DestroyScripts", "class_world_script_1_1_destroy_scripts.html", null ],
+    [ "WorldScript::DestroyUnitChance", "class_world_script_1_1_destroy_unit_chance.html", null ],
+    [ "WorldScript::DestroyUnitCount", "class_world_script_1_1_destroy_unit_count.html", null ],
+    [ "WorldScript::DestroyUnits", "class_world_script_1_1_destroy_units.html", null ],
+    [ "DoodadEffect", "class_doodad_effect.html", null ],
+    [ "DropSpawnBehavior", "class_drop_spawn_behavior.html", null ],
     [ "DungeonBrush", null, [
-      [ "ArchivesBrush", "a11065.html", null ],
-      [ "ArmoryBrush", "a11073.html", null ],
-      [ "ChambersBrush", "a11085.html", null ],
-      [ "GraniteMineBrush", "a11105.html", null ],
-      [ "PrisonBrush", "a11117.html", null ],
-      [ "PyramidFancyBrush", "a11125.html", null ],
-      [ "PyramidSlumBrush", "a11133.html", null ],
-      [ "SandCaveBrush", "a11137.html", null ]
+      [ "ArchivesBrush", "class_archives_brush.html", null ],
+      [ "ArmoryBrush", "class_armory_brush.html", null ],
+      [ "ChambersBrush", "class_chambers_brush.html", null ],
+      [ "GraniteMineBrush", "class_granite_mine_brush.html", null ],
+      [ "PrisonBrush", "class_prison_brush.html", null ],
+      [ "PyramidFancyBrush", "class_pyramid_fancy_brush.html", null ],
+      [ "PyramidSlumBrush", "class_pyramid_slum_brush.html", null ],
+      [ "SandCaveBrush", "class_sand_cave_brush.html", null ]
     ] ],
     [ "DungeonGenerator", null, [
-      [ "ArmoryGenerator", "a11077.html", null ],
-      [ "CaveGenerator", "a11081.html", null ],
-      [ "MinesGenerator", "a11109.html", [
-        [ "PrisonGenerator", "a11121.html", null ],
-        [ "PyramidGenerator", "a11129.html", null ]
+      [ "ArmoryGenerator", "class_armory_generator.html", null ],
+      [ "CaveGenerator", "class_cave_generator.html", null ],
+      [ "MinesGenerator", "class_mines_generator.html", [
+        [ "PrisonGenerator", "class_prison_generator.html", null ],
+        [ "PyramidGenerator", "class_pyramid_generator.html", null ]
       ] ]
     ] ],
-    [ "DungeonRotationLevel", "a11009.html", null ],
-    [ "Materials::DyeMapping", "a10921.html", null ],
-    [ "Fountain::Effect", "a11777.html", null ],
-    [ "EffectBehavior", "a10717.html", null ],
-    [ "EffectSet", "a10837.html", null ],
-    [ "EffectSpawner", "a10821.html", null ],
-    [ "EnemyGroupSetting", "a11097.html", null ],
-    [ "EnemyPlacement", "a11101.html", null ],
-    [ "WorldScript::ExploreMinimap", "a12061.html", null ],
+    [ "DungeonRotationLevel", "class_dungeon_rotation_level.html", null ],
+    [ "Materials::DyeMapping", "class_materials_1_1_dye_mapping.html", null ],
+    [ "Fountain::Effect", "class_fountain_1_1_effect.html", null ],
+    [ "EffectBehavior", "class_effect_behavior.html", null ],
+    [ "EffectSet", "class_effect_set.html", null ],
+    [ "EffectSpawner", "class_effect_spawner.html", null ],
+    [ "EnemyGroupSetting", "class_enemy_group_setting.html", null ],
+    [ "EnemyPlacement", "class_enemy_placement.html", null ],
+    [ "WorldScript::ExploreMinimap", "class_world_script_1_1_explore_minimap.html", null ],
     [ "FilterModifier", null, [
-      [ "Modifiers::Combo", "a10349.html", null ],
-      [ "Modifiers::EnemyTypeFilter", "a10369.html", null ],
-      [ "Modifiers::HealthFilter", "a10389.html", null ],
-      [ "Modifiers::MoveFilter", "a10417.html", null ]
+      [ "Modifiers::Combo", "class_modifiers_1_1_combo.html", null ],
+      [ "Modifiers::EnemyTypeFilter", "class_modifiers_1_1_enemy_type_filter.html", null ],
+      [ "Modifiers::HealthFilter", "class_modifiers_1_1_health_filter.html", null ],
+      [ "Modifiers::MoveFilter", "class_modifiers_1_1_move_filter.html", null ]
     ] ],
-    [ "FixedPathFollower", "a10825.html", [
-      [ "SafetyAreaBehavior", "a10969.html", null ]
+    [ "FixedPathFollower", "class_fixed_path_follower.html", [
+      [ "SafetyAreaBehavior", "class_safety_area_behavior.html", null ]
     ] ],
-    [ "FleeTestResult", "a10169.html", null ],
-    [ "GameSaveInfo", "a12441.html", null ],
-    [ "Gib", "a10845.html", null ],
-    [ "GibSet", "a10841.html", null ],
-    [ "WorldScript::GiveCharacterTitle", "a12065.html", null ],
-    [ "WorldScript::GiveExperience", "a12069.html", null ],
-    [ "WorldScript::GlobalEvent", "a12073.html", null ],
-    [ "WorldScript::GlobalEventTrigger", "a12077.html", null ],
-    [ "WorldScript::HealUnits", "a12085.html", null ],
-    [ "WorldScript::HideAllSpeechBubbles", "a12089.html", null ],
-    [ "WorldScript::HideSpeechBubble", "a12093.html", null ],
-    [ "WorldScript::HideTopNumber", "a12097.html", null ],
-    [ "HitscanSpreadDamage", "a10021.html", null ],
-    [ "HwSpawnUnitEntry", "a10029.html", null ],
+    [ "FleeTestResult", "class_flee_test_result.html", null ],
+    [ "GameSaveInfo", "class_game_save_info.html", null ],
+    [ "Gib", "class_gib.html", null ],
+    [ "GibSet", "class_gib_set.html", null ],
+    [ "WorldScript::GiveCharacterTitle", "class_world_script_1_1_give_character_title.html", null ],
+    [ "WorldScript::GiveExperience", "class_world_script_1_1_give_experience.html", null ],
+    [ "WorldScript::GlobalEvent", "class_world_script_1_1_global_event.html", null ],
+    [ "WorldScript::GlobalEventTrigger", "class_world_script_1_1_global_event_trigger.html", null ],
+    [ "WorldScript::HealUnits", "class_world_script_1_1_heal_units.html", null ],
+    [ "WorldScript::HideAllSpeechBubbles", "class_world_script_1_1_hide_all_speech_bubbles.html", null ],
+    [ "WorldScript::HideSpeechBubble", "class_world_script_1_1_hide_speech_bubble.html", null ],
+    [ "WorldScript::HideTopNumber", "class_world_script_1_1_hide_top_number.html", null ],
+    [ "HitscanSpreadDamage", "class_hitscan_spread_damage.html", null ],
+    [ "HwSpawnUnitEntry", "class_hw_spawn_unit_entry.html", null ],
     [ "IAction", null, [
-      [ "ActionEffectWrapper", "a10033.html", null ],
-      [ "Dummy", "a10005.html", null ],
-      [ "Explode", "a10009.html", [
-        [ "ExplodeChainLimit", "a10013.html", null ]
+      [ "ActionEffectWrapper", "class_action_effect_wrapper.html", null ],
+      [ "Dummy", "class_dummy.html", null ],
+      [ "Explode", "class_explode.html", [
+        [ "ExplodeChainLimit", "class_explode_chain_limit.html", null ]
       ] ],
-      [ "Hitscan", "a10017.html", null ],
-      [ "MeleeHit", "a10037.html", null ],
-      [ "MeleeSwing", "a10041.html", null ],
-      [ "Nova", "a10045.html", null ],
-      [ "PlaySound", "a10785.html", null ],
-      [ "RaiseMagicTiles", "a10049.html", null ],
-      [ "RaiseUnitEvent", "a10053.html", null ],
-      [ "ScreenShaker", "a10057.html", null ],
-      [ "SetFlag", "a10793.html", null ],
-      [ "ShootProjectile", "a10061.html", [
-        [ "HwShootProjectile", "a10025.html", null ],
-        [ "ShootProjectileFan", "a10065.html", null ]
+      [ "Hitscan", "class_hitscan.html", null ],
+      [ "MeleeHit", "class_melee_hit.html", null ],
+      [ "MeleeSwing", "class_melee_swing.html", null ],
+      [ "Nova", "class_nova.html", null ],
+      [ "PlaySound", "class_play_sound.html", null ],
+      [ "RaiseMagicTiles", "class_raise_magic_tiles.html", null ],
+      [ "RaiseUnitEvent", "class_raise_unit_event.html", null ],
+      [ "ScreenShaker", "class_screen_shaker.html", null ],
+      [ "SetFlag", "class_set_flag.html", null ],
+      [ "ShootProjectile", "class_shoot_projectile.html", [
+        [ "HwShootProjectile", "class_hw_shoot_projectile.html", null ],
+        [ "ShootProjectileFan", "class_shoot_projectile_fan.html", null ]
       ] ],
-      [ "SpawnEffect", "a10809.html", null ],
-      [ "SpawnPrefab", "a10069.html", null ],
-      [ "SpawnTilesetEffect", "a10813.html", null ],
-      [ "Suicide", "a10077.html", null ]
+      [ "SpawnEffect", "class_spawn_effect.html", null ],
+      [ "SpawnPrefab", "class_spawn_prefab.html", null ],
+      [ "SpawnTilesetEffect", "class_spawn_tileset_effect.html", null ],
+      [ "Suicide", "class_suicide.html", null ]
     ] ],
     [ "IBuffWidgetInfo", null, [
-      [ "ActorBuff", "a10089.html", null ],
-      [ "Modifiers::FlameShield", "a10381.html", null ],
-      [ "Skills::StackSkill", "a10649.html", null ]
+      [ "ActorBuff", "class_actor_buff.html", null ],
+      [ "Modifiers::FlameShield", "class_modifiers_1_1_flame_shield.html", null ],
+      [ "Skills::StackSkill", "class_skills_1_1_stack_skill.html", null ]
     ] ],
     [ "ICheckableWidget", null, [
-      [ "CheckBoxWidget", "a11145.html", [
-        [ "ColorCheckBoxWidget", "a11161.html", null ]
+      [ "CheckBoxWidget", "class_check_box_widget.html", [
+        [ "ColorCheckBoxWidget", "class_color_check_box_widget.html", null ]
       ] ],
-      [ "ScalableSpriteButtonWidget", "a11517.html", [
-        [ "FavorButtonWidget", "a11689.html", null ],
-        [ "MenuServerListItem", "a11473.html", null ],
-        [ "ScalableSpriteIconButtonWidget", "a11701.html", null ],
-        [ "ShopButtonWidget", "a11705.html", [
-          [ "UpgradeShopButtonWidget", "a11709.html", null ]
+      [ "ScalableSpriteButtonWidget", "class_scalable_sprite_button_widget.html", [
+        [ "FavorButtonWidget", "class_favor_button_widget.html", null ],
+        [ "MenuServerListItem", "class_menu_server_list_item.html", null ],
+        [ "ScalableSpriteIconButtonWidget", "class_scalable_sprite_icon_button_widget.html", null ],
+        [ "ShopButtonWidget", "class_shop_button_widget.html", [
+          [ "UpgradeShopButtonWidget", "class_upgrade_shop_button_widget.html", null ]
         ] ]
       ] ]
     ] ],
     [ "ICompositeActorSkill", null, [
-      [ "BlinkSkill", "a10193.html", null ],
-      [ "CompositeActorAuraSkill", "a10205.html", null ],
-      [ "CompositeActorSkill", "a10217.html", [
-        [ "CompositeActorBurstSkill", "a10209.html", [
-          [ "BossScatterBurstSkill", "a10201.html", null ]
+      [ "BlinkSkill", "class_blink_skill.html", null ],
+      [ "CompositeActorAuraSkill", "class_composite_actor_aura_skill.html", null ],
+      [ "CompositeActorSkill", "class_composite_actor_skill.html", [
+        [ "CompositeActorBurstSkill", "class_composite_actor_burst_skill.html", [
+          [ "BossScatterBurstSkill", "class_boss_scatter_burst_skill.html", null ]
         ] ]
       ] ],
-      [ "ConstantSoundSkill", "a10221.html", null ],
-      [ "EnemyMeleeStrike", "a10225.html", null ],
-      [ "JumpStrike", "a10229.html", null ],
-      [ "NovaSkill", "a10233.html", null ],
-      [ "SpewSkill", "a10277.html", null ],
-      [ "TowerFlowerSkill", "a10281.html", null ],
-      [ "WerebullChargeHitSkill", "a10289.html", null ],
-      [ "WhirlNovaSkill", "a10293.html", null ],
-      [ "WhirlwindSkill", "a10297.html", null ]
+      [ "ConstantSoundSkill", "class_constant_sound_skill.html", null ],
+      [ "EnemyMeleeStrike", "class_enemy_melee_strike.html", null ],
+      [ "JumpStrike", "class_jump_strike.html", null ],
+      [ "NovaSkill", "class_nova_skill.html", null ],
+      [ "SpewSkill", "class_spew_skill.html", null ],
+      [ "TowerFlowerSkill", "class_tower_flower_skill.html", null ],
+      [ "WerebullChargeHitSkill", "class_werebull_charge_hit_skill.html", null ],
+      [ "WhirlNovaSkill", "class_whirl_nova_skill.html", null ],
+      [ "WhirlwindSkill", "class_whirlwind_skill.html", null ]
     ] ],
     [ "IDamageTaker", null, [
-      [ "Actor", "a10081.html", [
-        [ "BombBehavior", "a10697.html", null ],
-        [ "GargoyleSpawner", "a10829.html", null ],
-        [ "PlayerBase", "a10493.html", [
-          [ "Player", "a10489.html", null ],
-          [ "PlayerHusk", "a10501.html", null ]
+      [ "Actor", "class_actor.html", [
+        [ "BombBehavior", "class_bomb_behavior.html", null ],
+        [ "GargoyleSpawner", "class_gargoyle_spawner.html", null ],
+        [ "PlayerBase", "class_player_base.html", [
+          [ "Player", "class_player.html", null ],
+          [ "PlayerHusk", "class_player_husk.html", null ]
         ] ]
       ] ],
-      [ "ADamageTaker", "a10857.html", [
-        [ "DelayedBreakable", "a10869.html", null ],
-        [ "SimpleBreakable", "a10893.html", null ]
+      [ "ADamageTaker", "class_a_damage_taker.html", [
+        [ "DelayedBreakable", "class_delayed_breakable.html", null ],
+        [ "SimpleBreakable", "class_simple_breakable.html", null ]
       ] ],
-      [ "Breakable", "a10861.html", null ]
+      [ "Breakable", "class_breakable.html", null ]
     ] ],
     [ "IEffect", null, [
-      [ "ApplyBuff", "a10721.html", null ],
-      [ "Damage", "a10725.html", [
-        [ "LifestealDamage", "a10781.html", null ]
+      [ "ApplyBuff", "class_apply_buff.html", null ],
+      [ "Damage", "class_damage.html", [
+        [ "LifestealDamage", "class_lifesteal_damage.html", null ]
       ] ],
-      [ "Decimate", "a10729.html", null ],
-      [ "EffectFilter", "a10733.html", null ],
-      [ "Explode", "a10009.html", null ],
-      [ "GiveArmor", "a10737.html", null ],
-      [ "GiveCombo", "a10741.html", null ],
-      [ "GiveExperience", "a10745.html", null ],
-      [ "GiveGold", "a10749.html", null ],
-      [ "GiveKey", "a10753.html", null ],
-      [ "GiveLives", "a10757.html", null ],
-      [ "GiveMana", "a10761.html", null ],
-      [ "GiveOre", "a10765.html", null ],
-      [ "GivePlatformStat", "a10769.html", null ],
-      [ "Heal", "a10773.html", null ],
-      [ "KillSameType", "a10777.html", null ],
-      [ "Nova", "a10045.html", null ],
-      [ "PlaySound", "a10785.html", null ],
-      [ "RefillPotion", "a10789.html", null ],
-      [ "SetFlag", "a10793.html", null ],
-      [ "ShootBolt", "a10797.html", null ],
-      [ "ShootProjectile", "a10061.html", null ],
-      [ "ShootRandomEnemy", "a10801.html", null ],
-      [ "ShowFloatingText", "a10805.html", null ],
-      [ "SpawnEffect", "a10809.html", null ],
-      [ "SpawnPrefab", "a10069.html", null ],
-      [ "SpawnTilesetEffect", "a10813.html", null ],
-      [ "Suicide", "a10077.html", null ],
-      [ "ToggleCombustion", "a10817.html", null ]
+      [ "Decimate", "class_decimate.html", null ],
+      [ "EffectFilter", "class_effect_filter.html", null ],
+      [ "Explode", "class_explode.html", null ],
+      [ "GiveArmor", "class_give_armor.html", null ],
+      [ "GiveCombo", "class_give_combo.html", null ],
+      [ "GiveExperience", "class_give_experience.html", null ],
+      [ "GiveGold", "class_give_gold.html", null ],
+      [ "GiveKey", "class_give_key.html", null ],
+      [ "GiveLives", "class_give_lives.html", null ],
+      [ "GiveMana", "class_give_mana.html", null ],
+      [ "GiveOre", "class_give_ore.html", null ],
+      [ "GivePlatformStat", "class_give_platform_stat.html", null ],
+      [ "Heal", "class_heal.html", null ],
+      [ "KillSameType", "class_kill_same_type.html", null ],
+      [ "Nova", "class_nova.html", null ],
+      [ "PlaySound", "class_play_sound.html", null ],
+      [ "RefillPotion", "class_refill_potion.html", null ],
+      [ "SetFlag", "class_set_flag.html", null ],
+      [ "ShootBolt", "class_shoot_bolt.html", null ],
+      [ "ShootProjectile", "class_shoot_projectile.html", null ],
+      [ "ShootRandomEnemy", "class_shoot_random_enemy.html", null ],
+      [ "ShowFloatingText", "class_show_floating_text.html", null ],
+      [ "SpawnEffect", "class_spawn_effect.html", null ],
+      [ "SpawnPrefab", "class_spawn_prefab.html", null ],
+      [ "SpawnTilesetEffect", "class_spawn_tileset_effect.html", null ],
+      [ "Suicide", "class_suicide.html", null ],
+      [ "ToggleCombustion", "class_toggle_combustion.html", null ]
     ] ],
     [ "IJammable", null, [
-      [ "CompositeJammableActorBehavior", "a10137.html", null ],
-      [ "JammableBehavior", "a10905.html", null ]
+      [ "CompositeJammableActorBehavior", "class_composite_jammable_actor_behavior.html", null ],
+      [ "JammableBehavior", "class_jammable_behavior.html", null ]
     ] ],
-    [ "WorldScript::IncrementCounter", "a12101.html", null ],
+    [ "WorldScript::IncrementCounter", "class_world_script_1_1_increment_counter.html", null ],
     [ "IntValueAction", null, [
-      [ "Crowd::TriggerAction", "a10997.html", null ]
+      [ "Crowd::TriggerAction", "class_crowd_1_1_trigger_action.html", null ]
     ] ],
     [ "IOnDropped", null, [
-      [ "Skills::DropEffect", "a10541.html", null ],
-      [ "WorldScript::DropPod", "a12057.html", null ],
-      [ "WorldScript::SpawnDropUnit", "a12277.html", null ],
-      [ "WorldScript::SurvivalEnemyDropSpawn", "a12341.html", null ]
+      [ "Skills::DropEffect", "class_skills_1_1_drop_effect.html", null ],
+      [ "WorldScript::DropPod", "class_world_script_1_1_drop_pod.html", null ],
+      [ "WorldScript::SpawnDropUnit", "class_world_script_1_1_spawn_drop_unit.html", null ],
+      [ "WorldScript::SurvivalEnemyDropSpawn", "class_world_script_1_1_survival_enemy_drop_spawn.html", null ]
     ] ],
     [ "IOwnedUnit", null, [
-      [ "BoltShooter", "a10693.html", null ],
-      [ "BombBehavior", "a10697.html", null ],
-      [ "DangerAreaBehavior", "a10705.html", [
-        [ "ProximityTrap", "a10965.html", null ]
+      [ "BoltShooter", "class_bolt_shooter.html", null ],
+      [ "BombBehavior", "class_bomb_behavior.html", null ],
+      [ "DangerAreaBehavior", "class_danger_area_behavior.html", [
+        [ "ProximityTrap", "class_proximity_trap.html", null ]
       ] ],
-      [ "GargoyleSpawner", "a10829.html", null ],
-      [ "PriestGroundCircle", "a10593.html", null ]
+      [ "GargoyleSpawner", "class_gargoyle_spawner.html", null ],
+      [ "PriestGroundCircle", "class_priest_ground_circle.html", null ]
     ] ],
     [ "IPreRenderable", null, [
-      [ "AttachedUnit", "a10689.html", null ],
-      [ "BossEyeWisp", "a10117.html", null ],
-      [ "Player", "a10489.html", null ],
-      [ "PlayerHusk", "a10501.html", null ]
+      [ "AttachedUnit", "class_attached_unit.html", null ],
+      [ "BossEyeWisp", "class_boss_eye_wisp.html", null ],
+      [ "Player", "class_player.html", null ],
+      [ "PlayerHusk", "class_player_husk.html", null ]
     ] ],
     [ "IProjectile", null, [
-      [ "ProjectileBase", "a10929.html", [
-        [ "CannonBall", "a10925.html", null ],
-        [ "Projectile", "a10941.html", [
-          [ "TossProjectile", "a10961.html", null ]
+      [ "ProjectileBase", "class_projectile_base.html", [
+        [ "CannonBall", "class_cannon_ball.html", null ],
+        [ "Projectile", "class_projectile.html", [
+          [ "TossProjectile", "class_toss_projectile.html", null ]
         ] ],
-        [ "RayProjectile", "a10949.html", [
-          [ "LurkerProjectile", "a10933.html", null ],
-          [ "PowershotProjectile", "a10937.html", null ],
-          [ "RangerProjectile", "a10945.html", null ],
-          [ "SorcererOrbProjectile", "a10953.html", null ],
-          [ "SorcererProjectile", "a10957.html", null ]
+        [ "RayProjectile", "class_ray_projectile.html", [
+          [ "LurkerProjectile", "class_lurker_projectile.html", null ],
+          [ "PowershotProjectile", "class_powershot_projectile.html", null ],
+          [ "RangerProjectile", "class_ranger_projectile.html", null ],
+          [ "SorcererOrbProjectile", "class_sorcerer_orb_projectile.html", null ],
+          [ "SorcererProjectile", "class_sorcerer_projectile.html", null ]
         ] ]
       ] ]
     ] ],
     [ "ISkillConditional", null, [
-      [ "SkillConditionalHealth", "a10237.html", [
-        [ "CondHealthLess", "a10241.html", null ],
-        [ "CondHealthLessEqual", "a10245.html", null ]
+      [ "SkillConditionalHealth", "class_skill_conditional_health.html", [
+        [ "CondHealthLess", "class_cond_health_less.html", null ],
+        [ "CondHealthLessEqual", "class_cond_health_less_equal.html", null ]
       ] ],
-      [ "SkillConditionalNGP", "a10261.html", [
-        [ "CondNGPLess", "a10265.html", null ],
-        [ "CondNGPLessEqual", "a10269.html", null ],
-        [ "CondNGPNotEqual", "a10273.html", null ]
+      [ "SkillConditionalNGP", "class_skill_conditional_n_g_p.html", [
+        [ "CondNGPLess", "class_cond_n_g_p_less.html", null ],
+        [ "CondNGPLessEqual", "class_cond_n_g_p_less_equal.html", null ],
+        [ "CondNGPNotEqual", "class_cond_n_g_p_not_equal.html", null ]
       ] ]
     ] ],
     [ "IStackSkill", null, [
-      [ "Skills::StackSkill", "a10649.html", null ]
+      [ "Skills::StackSkill", "class_skills_1_1_stack_skill.html", null ]
     ] ],
-    [ "WorldScript::IsWIPBuild", "a12105.html", null ],
+    [ "WorldScript::IsWIPBuild", "class_world_script_1_1_is_w_i_p_build.html", null ],
     [ "IUsable", null, [
-      [ "Chest", "a10865.html", [
-        [ "Door", "a10873.html", null ]
+      [ "Chest", "class_chest.html", [
+        [ "Door", "class_door.html", null ]
       ] ],
-      [ "DyeBucket", "a10877.html", null ],
-      [ "ForgeBlueprint", "a10881.html", null ],
-      [ "Item", "a10885.html", null ],
-      [ "PlayerCorpse", "a10497.html", null ],
-      [ "TavernBarrel", "a10897.html", null ],
-      [ "WorldScript::Door", "a12053.html", null ],
-      [ "WorldScript::RandomBuff", "a12185.html", null ],
-      [ "WorldScript::StoreOre", "a12333.html", null ],
-      [ "WorldScript::UseTrigger", "a12413.html", null ],
-      [ "WorldScript::Well", "a12433.html", null ]
+      [ "DyeBucket", "class_dye_bucket.html", null ],
+      [ "ForgeBlueprint", "class_forge_blueprint.html", null ],
+      [ "Item", "class_item.html", null ],
+      [ "PlayerCorpse", "class_player_corpse.html", null ],
+      [ "TavernBarrel", "class_tavern_barrel.html", null ],
+      [ "WorldScript::Door", "class_world_script_1_1_door.html", null ],
+      [ "WorldScript::RandomBuff", "class_world_script_1_1_random_buff.html", null ],
+      [ "WorldScript::StoreOre", "class_world_script_1_1_store_ore.html", null ],
+      [ "WorldScript::UseTrigger", "class_world_script_1_1_use_trigger.html", null ],
+      [ "WorldScript::Well", "class_world_script_1_1_well.html", null ]
     ] ],
     [ "IWidgetHoster", null, [
-      [ "DialogWindow", "a11169.html", null ],
-      [ "HUD", "a11241.html", null ],
-      [ "HUDCoop", "a11249.html", null ],
-      [ "HUDLevelCredits", "a11253.html", null ],
-      [ "HUDSpectate", "a11257.html", null ],
-      [ "HUDSurvival", "a11265.html", null ],
-      [ "Menu::InGameChat", "a11389.html", null ],
-      [ "Menu::InGameNotifier", "a11393.html", null ],
-      [ "Menu::Menu", "a11409.html", [
-        [ "Menu::ControlMapMenu", "a11345.html", null ],
-        [ "Menu::ControlsMenu", "a11349.html", null ],
-        [ "Menu::CreditsMenu", "a11353.html", null ],
-        [ "Menu::GameLanguagesMenu", "a11369.html", null ],
-        [ "Menu::HostMenu", "a11381.html", null ],
-        [ "Menu::HwrMenu", "a11385.html", [
-          [ "Menu::CharacterCreationMenu", "a11333.html", null ],
-          [ "Menu::CharacterCustomizationMenu", "a11337.html", null ],
-          [ "Menu::CharacterSelectionMenu", "a11341.html", null ],
-          [ "Menu::EditSlotMenu", "a11357.html", null ],
-          [ "Menu::FrontMenu", "a11361.html", null ],
-          [ "Menu::SlotsMenu", "a11441.html", null ]
+      [ "DialogWindow", "class_dialog_window.html", null ],
+      [ "HUD", "class_h_u_d.html", null ],
+      [ "HUDCoop", "class_h_u_d_coop.html", null ],
+      [ "HUDLevelCredits", "class_h_u_d_level_credits.html", null ],
+      [ "HUDSpectate", "class_h_u_d_spectate.html", null ],
+      [ "HUDSurvival", "class_h_u_d_survival.html", null ],
+      [ "Menu::InGameChat", "class_menu_1_1_in_game_chat.html", null ],
+      [ "Menu::InGameNotifier", "class_menu_1_1_in_game_notifier.html", null ],
+      [ "Menu::Menu", "class_menu_1_1_menu.html", [
+        [ "Menu::ControlMapMenu", "class_menu_1_1_control_map_menu.html", null ],
+        [ "Menu::ControlsMenu", "class_menu_1_1_controls_menu.html", null ],
+        [ "Menu::CreditsMenu", "class_menu_1_1_credits_menu.html", null ],
+        [ "Menu::GameLanguagesMenu", "class_menu_1_1_game_languages_menu.html", null ],
+        [ "Menu::HostMenu", "class_menu_1_1_host_menu.html", null ],
+        [ "Menu::HwrMenu", "class_menu_1_1_hwr_menu.html", [
+          [ "Menu::CharacterCreationMenu", "class_menu_1_1_character_creation_menu.html", null ],
+          [ "Menu::CharacterCustomizationMenu", "class_menu_1_1_character_customization_menu.html", null ],
+          [ "Menu::CharacterSelectionMenu", "class_menu_1_1_character_selection_menu.html", null ],
+          [ "Menu::EditSlotMenu", "class_menu_1_1_edit_slot_menu.html", null ],
+          [ "Menu::FrontMenu", "class_menu_1_1_front_menu.html", null ],
+          [ "Menu::SlotsMenu", "class_menu_1_1_slots_menu.html", null ]
         ] ],
-        [ "Menu::IntroMenu", "a11397.html", null ],
-        [ "Menu::JoiningLobbyMenu", "a11401.html", null ],
-        [ "Menu::LobbyPlayersMenu", "a11405.html", null ],
-        [ "Menu::MultiplayerMenu", "a11421.html", null ],
-        [ "Menu::OptionsMenu", "a11425.html", null ],
-        [ "Menu::ResolutionsMenu", "a11429.html", null ],
-        [ "Menu::SimpleMenu", "a11433.html", null ],
-        [ "Menu::SingleplayerMenu", "a11437.html", null ],
-        [ "Menu::SplitscreenMenu", "a11449.html", null ],
-        [ "Menu::SplitscreenOptionsMenu", "a11453.html", null ],
-        [ "Menu::SubOptionsMenu", "a11461.html", [
-          [ "Menu::GameOptionsMenu", "a11373.html", null ],
-          [ "Menu::GraphicsMenu", "a11377.html", null ],
-          [ "Menu::SoundMenu", "a11445.html", null ]
+        [ "Menu::IntroMenu", "class_menu_1_1_intro_menu.html", null ],
+        [ "Menu::JoiningLobbyMenu", "class_menu_1_1_joining_lobby_menu.html", null ],
+        [ "Menu::LobbyPlayersMenu", "class_menu_1_1_lobby_players_menu.html", null ],
+        [ "Menu::MultiplayerMenu", "class_menu_1_1_multiplayer_menu.html", null ],
+        [ "Menu::OptionsMenu", "class_menu_1_1_options_menu.html", null ],
+        [ "Menu::ResolutionsMenu", "class_menu_1_1_resolutions_menu.html", null ],
+        [ "Menu::SimpleMenu", "class_menu_1_1_simple_menu.html", null ],
+        [ "Menu::SingleplayerMenu", "class_menu_1_1_singleplayer_menu.html", null ],
+        [ "Menu::SplitscreenMenu", "class_menu_1_1_splitscreen_menu.html", null ],
+        [ "Menu::SplitscreenOptionsMenu", "class_menu_1_1_splitscreen_options_menu.html", null ],
+        [ "Menu::SubOptionsMenu", "class_menu_1_1_sub_options_menu.html", [
+          [ "Menu::GameOptionsMenu", "class_menu_1_1_game_options_menu.html", null ],
+          [ "Menu::GraphicsMenu", "class_menu_1_1_graphics_menu.html", null ],
+          [ "Menu::SoundMenu", "class_menu_1_1_sound_menu.html", null ]
         ] ],
-        [ "Menu::TestMenu", "a11465.html", null ]
+        [ "Menu::TestMenu", "class_menu_1_1_test_menu.html", null ]
       ] ],
-      [ "NotificationManager", "a11273.html", null ],
-      [ "ScriptWidgetHost", "a11525.html", [
-        [ "CharacterCustomizationNPC", "a11633.html", null ],
-        [ "DungeonSettingsMenu", "a11637.html", null ],
-        [ "EndOfBeta", "a11177.html", null ],
-        [ "EndOfGame", "a11181.html", null ],
-        [ "LootBox", "a11645.html", null ],
-        [ "StatisticsInterface", "a11649.html", null ]
+      [ "NotificationManager", "class_notification_manager.html", null ],
+      [ "ScriptWidgetHost", "class_script_widget_host.html", [
+        [ "CharacterCustomizationNPC", "class_character_customization_n_p_c.html", null ],
+        [ "DungeonSettingsMenu", "class_dungeon_settings_menu.html", null ],
+        [ "EndOfBeta", "class_end_of_beta.html", null ],
+        [ "EndOfGame", "class_end_of_game.html", null ],
+        [ "LootBox", "class_loot_box.html", null ],
+        [ "StatisticsInterface", "class_statistics_interface.html", null ]
       ] ],
-      [ "UserWindow", "a11661.html", [
-        [ "GameOver", "a11193.html", [
-          [ "HWRGameOver", "a11033.html", null ]
+      [ "UserWindow", "class_user_window.html", [
+        [ "GameOver", "class_game_over.html", [
+          [ "HWRGameOver", "class_h_w_r_game_over.html", null ]
         ] ],
-        [ "GuildHallMenu", "a11221.html", null ],
-        [ "PlayerMenu", "a11505.html", null ],
-        [ "ScoreDialog", "a11521.html", null ],
-        [ "ShopMenu", "a11593.html", null ],
-        [ "StatueSelectMenu", "a11577.html", null ]
+        [ "GuildHallMenu", "class_guild_hall_menu.html", null ],
+        [ "PlayerMenu", "class_player_menu.html", null ],
+        [ "ScoreDialog", "class_score_dialog.html", null ],
+        [ "ShopMenu", "class_shop_menu.html", null ],
+        [ "StatueSelectMenu", "class_statue_select_menu.html", null ]
       ] ],
-      [ "WorldScript::RandomBuff", "a12185.html", null ],
-      [ "WorldScript::StoreOre", "a12333.html", null ]
+      [ "WorldScript::RandomBuff", "class_world_script_1_1_random_buff.html", null ],
+      [ "WorldScript::StoreOre", "class_world_script_1_1_store_ore.html", null ]
     ] ],
-    [ "WorldScript::LevelExitNext", "a12109.html", null ],
-    [ "WorldScript::LevelExitNextAct", "a12113.html", null ],
-    [ "WorldScript::LevelStart", "a12117.html", [
-      [ "WorldScript::TeamLevelStart", "a12353.html", null ]
+    [ "WorldScript::LevelExitNext", "class_world_script_1_1_level_exit_next.html", null ],
+    [ "WorldScript::LevelExitNextAct", "class_world_script_1_1_level_exit_next_act.html", null ],
+    [ "WorldScript::LevelStart", "class_world_script_1_1_level_start.html", [
+      [ "WorldScript::TeamLevelStart", "class_world_script_1_1_team_level_start.html", null ]
     ] ],
-    [ "WorldScript::LogText", "a12121.html", null ],
-    [ "LootBoxItemAnimator", "a11641.html", null ],
-    [ "LootUnit", "a10909.html", null ],
-    [ "MagicTile", "a10913.html", null ],
-    [ "MapRotation", "a11717.html", null ],
-    [ "MarkovPair", "a11885.html", null ],
-    [ "MazeCell", "a11069.html", null ],
-    [ "WorldScript::MenuAnchorPoint", "a12125.html", null ],
-    [ "MenuInput", "a12453.html", null ],
-    [ "MenuProvider", "a11417.html", null ],
-    [ "MenuTab", "a11477.html", [
-      [ "GuildHallMenuTab", "a11225.html", [
-        [ "GuildHallAccomplishmentsTab", "a11205.html", null ],
-        [ "GuildHallBeastiaryTab", "a11209.html", null ],
-        [ "GuildHallStatsTab", "a11217.html", null ]
+    [ "WorldScript::LogText", "class_world_script_1_1_log_text.html", null ],
+    [ "LootBoxItemAnimator", "class_loot_box_item_animator.html", null ],
+    [ "LootUnit", "class_loot_unit.html", null ],
+    [ "MagicTile", "class_magic_tile.html", null ],
+    [ "MapRotation", "class_map_rotation.html", null ],
+    [ "MarkovPair", "class_markov_pair.html", null ],
+    [ "MazeCell", "class_maze_cell.html", null ],
+    [ "WorldScript::MenuAnchorPoint", "class_world_script_1_1_menu_anchor_point.html", null ],
+    [ "MenuInput", "class_menu_input.html", null ],
+    [ "MenuProvider", "class_menu_provider.html", null ],
+    [ "MenuTab", "class_menu_tab.html", [
+      [ "GuildHallMenuTab", "class_guild_hall_menu_tab.html", [
+        [ "GuildHallAccomplishmentsTab", "class_guild_hall_accomplishments_tab.html", null ],
+        [ "GuildHallBeastiaryTab", "class_guild_hall_beastiary_tab.html", null ],
+        [ "GuildHallStatsTab", "class_guild_hall_stats_tab.html", null ]
       ] ],
-      [ "PlayerMenuTab", "a11509.html", [
-        [ "MultiplePlayersTab", "a11497.html", [
-          [ "PlayerMenuCharacterTab", "a11489.html", null ],
-          [ "PlayerMenuStatsTab", "a11501.html", null ]
+      [ "PlayerMenuTab", "class_player_menu_tab.html", [
+        [ "MultiplePlayersTab", "class_multiple_players_tab.html", [
+          [ "PlayerMenuCharacterTab", "class_player_menu_character_tab.html", null ],
+          [ "PlayerMenuStatsTab", "class_player_menu_stats_tab.html", null ]
         ] ],
-        [ "PlayerMenuMapTab", "a11493.html", null ]
+        [ "PlayerMenuMapTab", "class_player_menu_map_tab.html", null ]
       ] ]
     ] ],
-    [ "MenuTabSystem", "a11481.html", null ],
+    [ "MenuTabSystem", "class_menu_tab_system.html", null ],
     [ "Modifier", null, [
-      [ "Modifiers::ArmorPierce", "a10313.html", null ],
-      [ "Modifiers::Buff", "a10333.html", null ],
-      [ "Modifiers::FlameShield", "a10381.html", null ],
-      [ "Modifiers::Lifestealing", "a10401.html", null ],
-      [ "Modifiers::OreGain", "a10421.html", null ],
-      [ "Modifiers::RandomBuff", "a10433.html", null ],
-      [ "Modifiers::SpellCost", "a10453.html", null ],
-      [ "Modifiers::Stats", "a10457.html", null ]
+      [ "Modifiers::ArmorPierce", "class_modifiers_1_1_armor_pierce.html", null ],
+      [ "Modifiers::Buff", "class_modifiers_1_1_buff.html", null ],
+      [ "Modifiers::FlameShield", "class_modifiers_1_1_flame_shield.html", null ],
+      [ "Modifiers::Lifestealing", "class_modifiers_1_1_lifestealing.html", null ],
+      [ "Modifiers::OreGain", "class_modifiers_1_1_ore_gain.html", null ],
+      [ "Modifiers::RandomBuff", "class_modifiers_1_1_random_buff.html", null ],
+      [ "Modifiers::SpellCost", "class_modifiers_1_1_spell_cost.html", null ],
+      [ "Modifiers::Stats", "class_modifiers_1_1_stats.html", null ]
     ] ],
     [ "Modifier", null, [
-      [ "Modifiers::Armor", "a10309.html", null ],
-      [ "Modifiers::Aura", "a10317.html", [
-        [ "Modifiers::AuraCone", "a10321.html", null ]
+      [ "Modifiers::Armor", "class_modifiers_1_1_armor.html", null ],
+      [ "Modifiers::Aura", "class_modifiers_1_1_aura.html", [
+        [ "Modifiers::AuraCone", "class_modifiers_1_1_aura_cone.html", null ]
       ] ],
-      [ "Modifiers::Block", "a10325.html", null ],
-      [ "Modifiers::BlockProjectile", "a10329.html", null ],
-      [ "Modifiers::BuffImmune", "a10337.html", null ],
-      [ "Modifiers::BuffScaling", "a10341.html", null ],
-      [ "Modifiers::CleaveRange", "a10345.html", null ],
-      [ "Modifiers::CriticalHit", "a10353.html", null ],
-      [ "Modifiers::CriticalMul", "a10361.html", null ],
-      [ "Modifiers::Damage", "a10365.html", null ],
-      [ "Modifiers::Evade", "a10373.html", null ],
-      [ "Modifiers::Experience", "a10377.html", null ],
-      [ "Modifiers::GoldGain", "a10385.html", null ],
-      [ "Modifiers::HealthGain", "a10393.html", null ],
-      [ "Modifiers::KeyGain", "a10397.html", null ],
-      [ "Modifiers::ManaFromDamageTaken", "a10405.html", null ],
-      [ "Modifiers::ManaGain", "a10409.html", null ],
-      [ "Modifiers::Markham", "a10413.html", null ],
-      [ "Modifiers::PlayerBarrier", "a10425.html", null ],
-      [ "Modifiers::Potion", "a10429.html", null ],
-      [ "Modifiers::Regen", "a10437.html", null ],
-      [ "Modifiers::SealOfMana", "a10441.html", null ],
-      [ "Modifiers::SealOfMartyr", "a10445.html", null ],
-      [ "Modifiers::Speed", "a10449.html", null ],
-      [ "Modifiers::StatsBase", "a10461.html", null ],
-      [ "Modifiers::Tax", "a10465.html", null ],
-      [ "Modifiers::Thorns", "a10469.html", null ],
-      [ "Modifiers::TriggerEffect", "a10473.html", [
-        [ "Modifiers::CriticalHitTrigger", "a10357.html", null ]
+      [ "Modifiers::Block", "class_modifiers_1_1_block.html", null ],
+      [ "Modifiers::BlockProjectile", "class_modifiers_1_1_block_projectile.html", null ],
+      [ "Modifiers::BuffImmune", "class_modifiers_1_1_buff_immune.html", null ],
+      [ "Modifiers::BuffScaling", "class_modifiers_1_1_buff_scaling.html", null ],
+      [ "Modifiers::CleaveRange", "class_modifiers_1_1_cleave_range.html", null ],
+      [ "Modifiers::CriticalHit", "class_modifiers_1_1_critical_hit.html", null ],
+      [ "Modifiers::CriticalMul", "class_modifiers_1_1_critical_mul.html", null ],
+      [ "Modifiers::Damage", "class_modifiers_1_1_damage.html", null ],
+      [ "Modifiers::Evade", "class_modifiers_1_1_evade.html", null ],
+      [ "Modifiers::Experience", "class_modifiers_1_1_experience.html", null ],
+      [ "Modifiers::GoldGain", "class_modifiers_1_1_gold_gain.html", null ],
+      [ "Modifiers::HealthGain", "class_modifiers_1_1_health_gain.html", null ],
+      [ "Modifiers::KeyGain", "class_modifiers_1_1_key_gain.html", null ],
+      [ "Modifiers::ManaFromDamageTaken", "class_modifiers_1_1_mana_from_damage_taken.html", null ],
+      [ "Modifiers::ManaGain", "class_modifiers_1_1_mana_gain.html", null ],
+      [ "Modifiers::Markham", "class_modifiers_1_1_markham.html", null ],
+      [ "Modifiers::PlayerBarrier", "class_modifiers_1_1_player_barrier.html", null ],
+      [ "Modifiers::Potion", "class_modifiers_1_1_potion.html", null ],
+      [ "Modifiers::Regen", "class_modifiers_1_1_regen.html", null ],
+      [ "Modifiers::SealOfMana", "class_modifiers_1_1_seal_of_mana.html", null ],
+      [ "Modifiers::SealOfMartyr", "class_modifiers_1_1_seal_of_martyr.html", null ],
+      [ "Modifiers::Speed", "class_modifiers_1_1_speed.html", null ],
+      [ "Modifiers::StatsBase", "class_modifiers_1_1_stats_base.html", null ],
+      [ "Modifiers::Tax", "class_modifiers_1_1_tax.html", null ],
+      [ "Modifiers::Thorns", "class_modifiers_1_1_thorns.html", null ],
+      [ "Modifiers::TriggerEffect", "class_modifiers_1_1_trigger_effect.html", [
+        [ "Modifiers::CriticalHitTrigger", "class_modifiers_1_1_critical_hit_trigger.html", null ]
       ] ],
-      [ "Modifiers::UnlethalDamage", "a10477.html", null ],
-      [ "Modifiers::WarlockCleaverModifier", "a10481.html", null ],
-      [ "Modifiers::Windscale", "a10485.html", null ],
-      [ "Skills::CooldownStackMeleeSwingModifier", "a10537.html", null ],
-      [ "Skills::FervorTrigger", "a10561.html", null ],
-      [ "Skills::GoldFeverMod", "a10565.html", null ],
-      [ "Skills::GrappleEvasionMod", "a10569.html", null ],
-      [ "Skills::ManaShieldMod", "a10577.html", null ],
-      [ "Skills::PlannedAttackModifier", "a10589.html", null ],
-      [ "Skills::RiposteTrigger", "a10597.html", null ],
-      [ "Skills::StackDamageTrigger", "a10637.html", null ],
-      [ "Skills::StackEvasionTrigger", "a10641.html", null ],
-      [ "Skills::StackProtectionTrigger", "a10645.html", null ]
+      [ "Modifiers::UnlethalDamage", "class_modifiers_1_1_unlethal_damage.html", null ],
+      [ "Modifiers::WarlockCleaverModifier", "class_modifiers_1_1_warlock_cleaver_modifier.html", null ],
+      [ "Modifiers::Windscale", "class_modifiers_1_1_windscale.html", null ],
+      [ "Skills::CooldownStackMeleeSwingModifier", "class_skills_1_1_cooldown_stack_melee_swing_modifier.html", null ],
+      [ "Skills::FervorTrigger", "class_skills_1_1_fervor_trigger.html", null ],
+      [ "Skills::GoldFeverMod", "class_skills_1_1_gold_fever_mod.html", null ],
+      [ "Skills::GrappleEvasionMod", "class_skills_1_1_grapple_evasion_mod.html", null ],
+      [ "Skills::ManaShieldMod", "class_skills_1_1_mana_shield_mod.html", null ],
+      [ "Skills::PlannedAttackModifier", "class_skills_1_1_planned_attack_modifier.html", null ],
+      [ "Skills::RiposteTrigger", "class_skills_1_1_riposte_trigger.html", null ],
+      [ "Skills::StackDamageTrigger", "class_skills_1_1_stack_damage_trigger.html", null ],
+      [ "Skills::StackEvasionTrigger", "class_skills_1_1_stack_evasion_trigger.html", null ],
+      [ "Skills::StackProtectionTrigger", "class_skills_1_1_stack_protection_trigger.html", null ]
     ] ],
-    [ "ModLevelEntry", "a11485.html", null ],
-    [ "MouseBase", "a11317.html", [
-      [ "IngameMouse", "a11309.html", null ],
-      [ "MenuMouse", "a11313.html", null ]
+    [ "ModLevelEntry", "class_mod_level_entry.html", null ],
+    [ "MouseBase", "class_mouse_base.html", [
+      [ "IngameMouse", "class_ingame_mouse.html", null ],
+      [ "MenuMouse", "class_menu_mouse.html", null ]
     ] ],
-    [ "Notification", "a11269.html", null ],
-    [ "WorldScript::OpenInterface", "a12129.html", null ],
-    [ "OverheadBossBar", "a11277.html", null ],
-    [ "OwnedItemSet", "a10509.html", null ],
-    [ "PathFollower", "a10181.html", null ],
-    [ "WorldScript::PathNode", "a12133.html", null ],
-    [ "WorldScript::PathPause", "a12137.html", null ],
-    [ "WorldScript::PathSpeed", "a12141.html", null ],
-    [ "WorldScript::PickedPrefab", "a12145.html", null ],
-    [ "WorldScript::PickedRandom", "a12149.html", null ],
-    [ "Pickup", "a10889.html", null ],
-    [ "PingBehavior", "a10917.html", null ],
-    [ "PlatformCursor", "a12461.html", null ],
-    [ "WorldScript::PlayAttachedEffect", "a12153.html", null ],
-    [ "PlayerLoadState", "a12465.html", null ],
-    [ "PlayerUsable", "a10901.html", null ],
-    [ "WorldScript::PlayMusic", "a12157.html", null ],
-    [ "WorldScript::PlaySound", "a12161.html", null ],
-    [ "WorldScript::PotionRefill", "a12165.html", null ],
-    [ "PrefabPatternPair", "a11113.html", null ],
-    [ "WorldScript::PrefabPicker", "a12169.html", null ],
-    [ "PrefabToSpawn", "a11029.html", null ],
-    [ "WorldScript::PrepareCamera", "a12173.html", null ],
-    [ "WorldScript::ProjectileShooter", "a12177.html", null ],
-    [ "WorldScript::ProjectileSpewer", "a12181.html", null ],
-    [ "QueuedTasks::QueuedTask", "a11729.html", [
-      [ "SpawnPrefabBaseTask", "a11741.html", null ],
-      [ "SpawnUnitBaseTask", "a11749.html", null ]
+    [ "Notification", "class_notification.html", null ],
+    [ "WorldScript::OpenInterface", "class_world_script_1_1_open_interface.html", null ],
+    [ "OverheadBossBar", "class_overhead_boss_bar.html", null ],
+    [ "OwnedItemSet", "class_owned_item_set.html", null ],
+    [ "PathFollower", "class_path_follower.html", null ],
+    [ "WorldScript::PathNode", "class_world_script_1_1_path_node.html", null ],
+    [ "WorldScript::PathPause", "class_world_script_1_1_path_pause.html", null ],
+    [ "WorldScript::PathSpeed", "class_world_script_1_1_path_speed.html", null ],
+    [ "WorldScript::PickedPrefab", "class_world_script_1_1_picked_prefab.html", null ],
+    [ "WorldScript::PickedRandom", "class_world_script_1_1_picked_random.html", null ],
+    [ "Pickup", "class_pickup.html", null ],
+    [ "PingBehavior", "class_ping_behavior.html", null ],
+    [ "PlatformCursor", "class_platform_cursor.html", null ],
+    [ "WorldScript::PlayAttachedEffect", "class_world_script_1_1_play_attached_effect.html", null ],
+    [ "PlayerLoadState", "class_player_load_state.html", null ],
+    [ "PlayerUsable", "class_player_usable.html", null ],
+    [ "WorldScript::PlayMusic", "class_world_script_1_1_play_music.html", null ],
+    [ "WorldScript::PlaySound", "class_world_script_1_1_play_sound.html", null ],
+    [ "WorldScript::PotionRefill", "class_world_script_1_1_potion_refill.html", null ],
+    [ "PrefabPatternPair", "class_prefab_pattern_pair.html", null ],
+    [ "WorldScript::PrefabPicker", "class_world_script_1_1_prefab_picker.html", null ],
+    [ "PrefabToSpawn", "class_prefab_to_spawn.html", null ],
+    [ "WorldScript::PrepareCamera", "class_world_script_1_1_prepare_camera.html", null ],
+    [ "WorldScript::ProjectileShooter", "class_world_script_1_1_projectile_shooter.html", null ],
+    [ "WorldScript::ProjectileSpewer", "class_world_script_1_1_projectile_spewer.html", null ],
+    [ "QueuedTasks::QueuedTask", "class_queued_tasks_1_1_queued_task.html", [
+      [ "SpawnPrefabBaseTask", "class_spawn_prefab_base_task.html", null ],
+      [ "SpawnUnitBaseTask", "class_spawn_unit_base_task.html", null ]
     ] ],
-    [ "WorldScript::RandomChance", "a12189.html", null ],
-    [ "WorldScript::RandomCount", "a12193.html", null ],
-    [ "WorldScript::RandomLoot", "a12197.html", null ],
-    [ "WorldScript::RandomPicker", "a12201.html", null ],
-    [ "WorldScript::RandomPossibleBuff", "a12205.html", null ],
-    [ "Rect", "a11889.html", null ],
-    [ "WorldScript::RefreshSpawnPickup", "a12209.html", null ],
-    [ "ScenarioInfo", "a12445.html", null ],
-    [ "WorldScript::ScratchTest", "a12213.html", null ],
-    [ "ScreenShake", "a11893.html", null ],
-    [ "WorldScript::ScriptLink", "a12217.html", null ],
-    [ "ScriptSpriteFrame", "a11733.html", null ],
-    [ "WorldScript::SecretFound", "a12221.html", null ],
-    [ "WorldScript::SetBossKilled", "a12225.html", null ],
-    [ "WorldScript::SetCollider", "a12229.html", null ],
-    [ "WorldScript::SetDamageTransfer", "a12233.html", null ],
-    [ "WorldScript::SetEnvironment", "a12237.html", null ],
-    [ "WorldScript::SetFlag", "a12241.html", null ],
-    [ "WorldScript::SetLight", "a12245.html", null ],
-    [ "WorldScript::SetTopNumber", "a12249.html", null ],
-    [ "WorldScript::SetTriggerTimes", "a12253.html", null ],
-    [ "WorldScript::SetUnitLayer", "a12257.html", null ],
-    [ "WorldScript::SetUnitScene", "a12261.html", null ],
-    [ "Upgrades::Shop", "a11801.html", [
-      [ "Upgrades::UpgradeShop", "a11817.html", [
-        [ "Upgrades::ChapelShop", "a11805.html", null ],
-        [ "Upgrades::ItemShop", "a11813.html", [
-          [ "Upgrades::DungeonShop", "a11809.html", null ]
+    [ "WorldScript::RandomChance", "class_world_script_1_1_random_chance.html", null ],
+    [ "WorldScript::RandomCount", "class_world_script_1_1_random_count.html", null ],
+    [ "WorldScript::RandomLoot", "class_world_script_1_1_random_loot.html", null ],
+    [ "WorldScript::RandomPicker", "class_world_script_1_1_random_picker.html", null ],
+    [ "WorldScript::RandomPossibleBuff", "class_world_script_1_1_random_possible_buff.html", null ],
+    [ "Rect", "class_rect.html", null ],
+    [ "WorldScript::RefreshSpawnPickup", "class_world_script_1_1_refresh_spawn_pickup.html", null ],
+    [ "ScenarioInfo", "class_scenario_info.html", null ],
+    [ "WorldScript::ScratchTest", "class_world_script_1_1_scratch_test.html", null ],
+    [ "ScreenShake", "class_screen_shake.html", null ],
+    [ "WorldScript::ScriptLink", "class_world_script_1_1_script_link.html", null ],
+    [ "ScriptSpriteFrame", "class_script_sprite_frame.html", null ],
+    [ "WorldScript::SecretFound", "class_world_script_1_1_secret_found.html", null ],
+    [ "WorldScript::SetBossKilled", "class_world_script_1_1_set_boss_killed.html", null ],
+    [ "WorldScript::SetCollider", "class_world_script_1_1_set_collider.html", null ],
+    [ "WorldScript::SetDamageTransfer", "class_world_script_1_1_set_damage_transfer.html", null ],
+    [ "WorldScript::SetEnvironment", "class_world_script_1_1_set_environment.html", null ],
+    [ "WorldScript::SetFlag", "class_world_script_1_1_set_flag.html", null ],
+    [ "WorldScript::SetLight", "class_world_script_1_1_set_light.html", null ],
+    [ "WorldScript::SetTopNumber", "class_world_script_1_1_set_top_number.html", null ],
+    [ "WorldScript::SetTriggerTimes", "class_world_script_1_1_set_trigger_times.html", null ],
+    [ "WorldScript::SetUnitLayer", "class_world_script_1_1_set_unit_layer.html", null ],
+    [ "WorldScript::SetUnitScene", "class_world_script_1_1_set_unit_scene.html", null ],
+    [ "Upgrades::Shop", "class_upgrades_1_1_shop.html", [
+      [ "Upgrades::UpgradeShop", "class_upgrades_1_1_upgrade_shop.html", [
+        [ "Upgrades::ChapelShop", "class_upgrades_1_1_chapel_shop.html", null ],
+        [ "Upgrades::ItemShop", "class_upgrades_1_1_item_shop.html", [
+          [ "Upgrades::DungeonShop", "class_upgrades_1_1_dungeon_shop.html", null ]
         ] ]
       ] ]
     ] ],
-    [ "ShopMenuContent", "a11569.html", [
-      [ "ChapelShopMenuContent", "a11541.html", null ],
-      [ "DrinksMenuContent", "a11545.html", null ],
-      [ "FountainShopMenuContent", "a11553.html", null ],
-      [ "OreTraderMenuContent", "a11565.html", null ],
-      [ "SkillsShopMenuContent", "a11573.html", null ],
-      [ "StatuesShopMenuContent", "a11581.html", null ],
-      [ "TownhallMenuContent", "a11585.html", null ],
-      [ "UpgradeShopMenuContent", "a11589.html", [
-        [ "DungeonStoreMenuContent", "a11549.html", null ],
-        [ "GeneralStoreMenuContent", "a11557.html", null ]
+    [ "ShopMenuContent", "class_shop_menu_content.html", [
+      [ "ChapelShopMenuContent", "class_chapel_shop_menu_content.html", null ],
+      [ "DrinksMenuContent", "class_drinks_menu_content.html", null ],
+      [ "FountainShopMenuContent", "class_fountain_shop_menu_content.html", null ],
+      [ "OreTraderMenuContent", "class_ore_trader_menu_content.html", null ],
+      [ "SkillsShopMenuContent", "class_skills_shop_menu_content.html", null ],
+      [ "StatuesShopMenuContent", "class_statues_shop_menu_content.html", null ],
+      [ "TownhallMenuContent", "class_townhall_menu_content.html", null ],
+      [ "UpgradeShopMenuContent", "class_upgrade_shop_menu_content.html", [
+        [ "DungeonStoreMenuContent", "class_dungeon_store_menu_content.html", null ],
+        [ "GeneralStoreMenuContent", "class_general_store_menu_content.html", null ]
       ] ]
     ] ],
-    [ "WorldScript::ShowFloatingText", "a12265.html", null ],
-    [ "WorldScript::ShowSpeechBubble", "a12269.html", null ],
+    [ "WorldScript::ShowFloatingText", "class_world_script_1_1_show_floating_text.html", null ],
+    [ "WorldScript::ShowSpeechBubble", "class_world_script_1_1_show_speech_bubble.html", null ],
     [ "Skill", null, [
-      [ "Skills::ActiveSkill", "a10513.html", [
-        [ "Skills::BuffAoe", "a10521.html", null ],
-        [ "Skills::Charge", "a10529.html", null ],
-        [ "Skills::ChargeUnit", "a10533.html", null ],
-        [ "Skills::DropEffect", "a10541.html", null ],
-        [ "Skills::DropUnit", "a10545.html", [
-          [ "Skills::DropUnitWarlock", "a10549.html", null ]
+      [ "Skills::ActiveSkill", "class_skills_1_1_active_skill.html", [
+        [ "Skills::BuffAoe", "class_skills_1_1_buff_aoe.html", null ],
+        [ "Skills::Charge", "class_skills_1_1_charge.html", null ],
+        [ "Skills::ChargeUnit", "class_skills_1_1_charge_unit.html", null ],
+        [ "Skills::DropEffect", "class_skills_1_1_drop_effect.html", null ],
+        [ "Skills::DropUnit", "class_skills_1_1_drop_unit.html", [
+          [ "Skills::DropUnitWarlock", "class_skills_1_1_drop_unit_warlock.html", null ]
         ] ],
-        [ "Skills::Explode", "a10553.html", null ],
-        [ "Skills::MeleeSwing", "a10581.html", null ],
-        [ "Skills::ShootProjectile", "a10613.html", [
-          [ "Skills::ShootProjectileFan", "a10617.html", null ]
+        [ "Skills::Explode", "class_skills_1_1_explode.html", null ],
+        [ "Skills::MeleeSwing", "class_skills_1_1_melee_swing.html", null ],
+        [ "Skills::ShootProjectile", "class_skills_1_1_shoot_projectile.html", [
+          [ "Skills::ShootProjectileFan", "class_skills_1_1_shoot_projectile_fan.html", null ]
         ] ],
-        [ "Skills::ShootRay", "a10621.html", null ],
-        [ "Skills::SpawnUnit", "a10629.html", null ],
-        [ "Skills::SpewProjectiles", "a10633.html", null ],
-        [ "Skills::StaggeredSpawnUnits", "a10653.html", null ],
-        [ "Skills::TempBuffAoe", "a10661.html", null ],
-        [ "Skills::Whirlnova", "a10669.html", [
-          [ "Skills::ArrowFlurry", "a10517.html", null ]
+        [ "Skills::ShootRay", "class_skills_1_1_shoot_ray.html", null ],
+        [ "Skills::SpawnUnit", "class_skills_1_1_spawn_unit.html", null ],
+        [ "Skills::SpewProjectiles", "class_skills_1_1_spew_projectiles.html", null ],
+        [ "Skills::StaggeredSpawnUnits", "class_skills_1_1_staggered_spawn_units.html", null ],
+        [ "Skills::TempBuffAoe", "class_skills_1_1_temp_buff_aoe.html", null ],
+        [ "Skills::Whirlnova", "class_skills_1_1_whirlnova.html", [
+          [ "Skills::ArrowFlurry", "class_skills_1_1_arrow_flurry.html", null ]
         ] ],
-        [ "Skills::Whirlwind", "a10673.html", null ]
+        [ "Skills::Whirlwind", "class_skills_1_1_whirlwind.html", null ]
       ] ],
-      [ "Skills::ExtendedDomain", "a10557.html", null ],
-      [ "Skills::Juggernaut", "a10573.html", null ],
-      [ "Skills::NullSkill", "a10625.html", null ],
-      [ "Skills::PassiveSkill", "a10585.html", null ],
-      [ "Skills::ScorchedEarth", "a10601.html", null ],
-      [ "Skills::Shatter", "a10605.html", null ],
-      [ "Skills::StackSkill", "a10649.html", null ],
-      [ "Skills::Stormlash", "a10657.html", null ],
-      [ "Skills::TwinnedArrow", "a10665.html", null ]
+      [ "Skills::ExtendedDomain", "class_skills_1_1_extended_domain.html", null ],
+      [ "Skills::Juggernaut", "class_skills_1_1_juggernaut.html", null ],
+      [ "Skills::NullSkill", "class_skills_1_1_null_skill.html", null ],
+      [ "Skills::PassiveSkill", "class_skills_1_1_passive_skill.html", null ],
+      [ "Skills::ScorchedEarth", "class_skills_1_1_scorched_earth.html", null ],
+      [ "Skills::Shatter", "class_skills_1_1_shatter.html", null ],
+      [ "Skills::StackSkill", "class_skills_1_1_stack_skill.html", null ],
+      [ "Skills::Stormlash", "class_skills_1_1_stormlash.html", null ],
+      [ "Skills::TwinnedArrow", "class_skills_1_1_twinned_arrow.html", null ]
     ] ],
     [ "SkillConditionalPlayers", null, [
-      [ "CondPlayersEqual", "a10257.html", null ],
-      [ "CondPlayersGreater", "a10249.html", null ],
-      [ "CondPlayersGreaterEqual", "a10253.html", null ]
+      [ "CondPlayersEqual", "class_cond_players_equal.html", null ],
+      [ "CondPlayersGreater", "class_cond_players_greater.html", null ],
+      [ "CondPlayersGreaterEqual", "class_cond_players_greater_equal.html", null ]
     ] ],
-    [ "SortableItem", "a11561.html", null ],
-    [ "SortableItemiaryEntry", "a11213.html", null ],
-    [ "WorldScript::SoundEnvironmentArea", "a12273.html", null ],
-    [ "WorldScript::SpawnEffect", "a12281.html", null ],
-    [ "WorldScript::SpawnEnemyGroup", "a12285.html", null ],
-    [ "WorldScript::SpawnGore", "a12289.html", null ],
-    [ "WorldScript::SpawnItem", "a12293.html", null ],
-    [ "SpawnPrefabBase", "a11737.html", [
-      [ "SpawnPrefab", "a10069.html", null ],
-      [ "WorldScript::SpawnPrefab", "a12297.html", null ]
+    [ "SortableItem", "class_sortable_item.html", null ],
+    [ "SortableItemiaryEntry", "class_sortable_itemiary_entry.html", null ],
+    [ "WorldScript::SoundEnvironmentArea", "class_world_script_1_1_sound_environment_area.html", null ],
+    [ "WorldScript::SpawnEffect", "class_world_script_1_1_spawn_effect.html", null ],
+    [ "WorldScript::SpawnEnemyGroup", "class_world_script_1_1_spawn_enemy_group.html", null ],
+    [ "WorldScript::SpawnGore", "class_world_script_1_1_spawn_gore.html", null ],
+    [ "WorldScript::SpawnItem", "class_world_script_1_1_spawn_item.html", null ],
+    [ "SpawnPrefabBase", "class_spawn_prefab_base.html", [
+      [ "SpawnPrefab", "class_spawn_prefab.html", null ],
+      [ "WorldScript::SpawnPrefab", "class_world_script_1_1_spawn_prefab.html", null ]
     ] ],
-    [ "WorldScript::SpawnTownBuilding", "a12301.html", null ],
-    [ "WorldScript::SpawnTownStatue", "a12305.html", null ],
-    [ "SpawnUnitBase", "a11745.html", [
-      [ "WorldScript::SpawnUnit", "a12309.html", null ],
-      [ "WorldScript::SpawnUnitAsLoot", "a12313.html", null ]
+    [ "WorldScript::SpawnTownBuilding", "class_world_script_1_1_spawn_town_building.html", null ],
+    [ "WorldScript::SpawnTownStatue", "class_world_script_1_1_spawn_town_statue.html", null ],
+    [ "SpawnUnitBase", "class_spawn_unit_base.html", [
+      [ "WorldScript::SpawnUnit", "class_world_script_1_1_spawn_unit.html", null ],
+      [ "WorldScript::SpawnUnitAsLoot", "class_world_script_1_1_spawn_unit_as_loot.html", null ]
     ] ],
-    [ "SpawnUnitEntry", "a10073.html", null ],
-    [ "WorldScript::SpawnUnitWithEffect", "a12317.html", null ],
-    [ "SpeechBubble", "a11597.html", null ],
-    [ "SpeechBubbleManager", "a11601.html", null ],
-    [ "SpeedrunSplit", "a11261.html", null ],
-    [ "Menu::SplitscreenPlayer", "a11457.html", null ],
-    [ "WorldScript::StartDungeon", "a12321.html", null ],
+    [ "SpawnUnitEntry", "class_spawn_unit_entry.html", null ],
+    [ "WorldScript::SpawnUnitWithEffect", "class_world_script_1_1_spawn_unit_with_effect.html", null ],
+    [ "SpeechBubble", "class_speech_bubble.html", null ],
+    [ "SpeechBubbleManager", "class_speech_bubble_manager.html", null ],
+    [ "SpeedrunSplit", "class_speedrun_split.html", null ],
+    [ "Menu::SplitscreenPlayer", "class_menu_1_1_splitscreen_player.html", null ],
+    [ "WorldScript::StartDungeon", "class_world_script_1_1_start_dungeon.html", null ],
     [ "StateAnimations", null, [
-      [ "JammableBehavior", "a10905.html", null ]
+      [ "JammableBehavior", "class_jammable_behavior.html", null ]
     ] ],
-    [ "Stats::StatList", "a11757.html", null ],
-    [ "StatueBehavior", "a10977.html", null ],
-    [ "Statues::StatueDef", "a11781.html", null ],
-    [ "Discord::Status", "a12469.html", null ],
-    [ "ServicePresence::StatusKey", "a11725.html", null ],
-    [ "WorldScript::StopAnnounceText", "a12325.html", null ],
-    [ "WorldScript::StopSound", "a12329.html", null ],
-    [ "WorldScript::SurvivalEnemySpawn", "a12345.html", null ],
-    [ "SurvivalEnemySpawnPoint", "a12349.html", null ],
-    [ "WorldScript::SurvivalWave", "a12337.html", null ],
-    [ "SurvivalWaveProgress", "a11761.html", null ],
-    [ "TavernDrink", "a10677.html", null ],
-    [ "WorldScript::Teleport", "a12357.html", null ],
-    [ "WorldScript::TimedScriptLinkItem", "a12361.html", null ],
-    [ "WorldScript::TimerTrigger", "a12365.html", null ],
-    [ "Titles::Title", "a11769.html", null ],
-    [ "Titles::TitleList", "a11773.html", null ],
-    [ "WorldScript::ToggleImmortality", "a12369.html", null ],
-    [ "WorldScript::ToggleJammable", "a12373.html", null ],
-    [ "TooltipSubText", "a11621.html", null ],
-    [ "TowerFlowerSpike", "a10285.html", null ],
-    [ "TownBuilding", "a11785.html", null ],
-    [ "WorldScript::TownBuildingLevel", "a12377.html", null ],
-    [ "TownRecord", "a11793.html", null ],
-    [ "TownStatue", "a11797.html", null ],
-    [ "TransitionDef", "a10973.html", null ],
-    [ "Tree", "a10981.html", null ],
-    [ "WorldScript::UnitCallbackList", "a12381.html", null ],
-    [ "WorldScript::UnitDamagedTrigger", "a12385.html", null ],
-    [ "WorldScript::UnitDestroyedTrigger", "a12389.html", null ],
-    [ "WorldScript::UnitEventTrigger", "a12393.html", null ],
-    [ "WorldScript::UnitPickedUpTrigger", "a12397.html", null ],
-    [ "UnitWidgetScene", "a11657.html", null ],
-    [ "WorldScript::UnknownScriptLink", "a12401.html", null ],
-    [ "WorldScript::UnlinkSouls", "a12405.html", null ],
-    [ "WorldScript::UnlockShortcut", "a12409.html", null ],
-    [ "Upgrades::Upgrade", "a11845.html", [
-      [ "Upgrades::BuildingUpgrade", "a11849.html", null ],
-      [ "Upgrades::KeyUpgrade", "a11857.html", null ],
-      [ "Upgrades::ModifierUpgrade", "a11861.html", null ],
-      [ "Upgrades::OreTraderUpgrade", "a11865.html", null ],
-      [ "Upgrades::RecordUpgrade", "a11869.html", null ],
-      [ "Upgrades::SingleStepUpgrade", "a11873.html", [
-        [ "Upgrades::ItemUpgrade", "a11853.html", null ]
+    [ "Stats::StatList", "class_stats_1_1_stat_list.html", null ],
+    [ "StatueBehavior", "class_statue_behavior.html", null ],
+    [ "Statues::StatueDef", "class_statues_1_1_statue_def.html", null ],
+    [ "Discord::Status", "class_discord_1_1_status.html", null ],
+    [ "ServicePresence::StatusKey", "class_service_presence_1_1_status_key.html", null ],
+    [ "WorldScript::StopAnnounceText", "class_world_script_1_1_stop_announce_text.html", null ],
+    [ "WorldScript::StopSound", "class_world_script_1_1_stop_sound.html", null ],
+    [ "WorldScript::SurvivalEnemySpawn", "class_world_script_1_1_survival_enemy_spawn.html", null ],
+    [ "SurvivalEnemySpawnPoint", "class_survival_enemy_spawn_point.html", null ],
+    [ "WorldScript::SurvivalWave", "class_world_script_1_1_survival_wave.html", null ],
+    [ "SurvivalWaveProgress", "class_survival_wave_progress.html", null ],
+    [ "TavernDrink", "class_tavern_drink.html", null ],
+    [ "WorldScript::Teleport", "class_world_script_1_1_teleport.html", null ],
+    [ "WorldScript::TimedScriptLinkItem", "class_world_script_1_1_timed_script_link_item.html", null ],
+    [ "WorldScript::TimerTrigger", "class_world_script_1_1_timer_trigger.html", null ],
+    [ "Titles::Title", "class_titles_1_1_title.html", null ],
+    [ "Titles::TitleList", "class_titles_1_1_title_list.html", null ],
+    [ "WorldScript::ToggleImmortality", "class_world_script_1_1_toggle_immortality.html", null ],
+    [ "WorldScript::ToggleJammable", "class_world_script_1_1_toggle_jammable.html", null ],
+    [ "TooltipSubText", "class_tooltip_sub_text.html", null ],
+    [ "TowerFlowerSpike", "class_tower_flower_spike.html", null ],
+    [ "TownBuilding", "class_town_building.html", null ],
+    [ "WorldScript::TownBuildingLevel", "class_world_script_1_1_town_building_level.html", null ],
+    [ "TownRecord", "class_town_record.html", null ],
+    [ "TownStatue", "class_town_statue.html", null ],
+    [ "TransitionDef", "class_transition_def.html", null ],
+    [ "Tree", "class_tree.html", null ],
+    [ "WorldScript::UnitCallbackList", "class_world_script_1_1_unit_callback_list.html", null ],
+    [ "WorldScript::UnitDamagedTrigger", "class_world_script_1_1_unit_damaged_trigger.html", null ],
+    [ "WorldScript::UnitDestroyedTrigger", "class_world_script_1_1_unit_destroyed_trigger.html", null ],
+    [ "WorldScript::UnitEventTrigger", "class_world_script_1_1_unit_event_trigger.html", null ],
+    [ "WorldScript::UnitPickedUpTrigger", "class_world_script_1_1_unit_picked_up_trigger.html", null ],
+    [ "UnitWidgetScene", "class_unit_widget_scene.html", null ],
+    [ "WorldScript::UnknownScriptLink", "class_world_script_1_1_unknown_script_link.html", null ],
+    [ "WorldScript::UnlinkSouls", "class_world_script_1_1_unlink_souls.html", null ],
+    [ "WorldScript::UnlockShortcut", "class_world_script_1_1_unlock_shortcut.html", null ],
+    [ "Upgrades::Upgrade", "class_upgrades_1_1_upgrade.html", [
+      [ "Upgrades::BuildingUpgrade", "class_upgrades_1_1_building_upgrade.html", null ],
+      [ "Upgrades::KeyUpgrade", "class_upgrades_1_1_key_upgrade.html", null ],
+      [ "Upgrades::ModifierUpgrade", "class_upgrades_1_1_modifier_upgrade.html", null ],
+      [ "Upgrades::OreTraderUpgrade", "class_upgrades_1_1_ore_trader_upgrade.html", null ],
+      [ "Upgrades::RecordUpgrade", "class_upgrades_1_1_record_upgrade.html", null ],
+      [ "Upgrades::SingleStepUpgrade", "class_upgrades_1_1_single_step_upgrade.html", [
+        [ "Upgrades::ItemUpgrade", "class_upgrades_1_1_item_upgrade.html", null ]
       ] ]
     ] ],
-    [ "Upgrades::UpgradeStep", "a11877.html", [
-      [ "Upgrades::BuildingUpgradeStep", "a11821.html", null ],
-      [ "Upgrades::ItemUpgradeStep", "a11825.html", null ],
-      [ "Upgrades::KeyUpgradeStep", "a11829.html", null ],
-      [ "Upgrades::ModifierUpgradeStep", "a11833.html", null ],
-      [ "Upgrades::OreTraderUpgradeStep", "a11837.html", null ],
-      [ "Upgrades::RecordUpgradeStep", "a11841.html", null ]
+    [ "Upgrades::UpgradeStep", "class_upgrades_1_1_upgrade_step.html", [
+      [ "Upgrades::BuildingUpgradeStep", "class_upgrades_1_1_building_upgrade_step.html", null ],
+      [ "Upgrades::ItemUpgradeStep", "class_upgrades_1_1_item_upgrade_step.html", null ],
+      [ "Upgrades::KeyUpgradeStep", "class_upgrades_1_1_key_upgrade_step.html", null ],
+      [ "Upgrades::ModifierUpgradeStep", "class_upgrades_1_1_modifier_upgrade_step.html", null ],
+      [ "Upgrades::OreTraderUpgradeStep", "class_upgrades_1_1_ore_trader_upgrade_step.html", null ],
+      [ "Upgrades::RecordUpgradeStep", "class_upgrades_1_1_record_upgrade_step.html", null ]
     ] ],
-    [ "WorldScript::Variable", "a12421.html", [
-      [ "WorldScript::GlobalVariable", "a12081.html", null ]
+    [ "WorldScript::Variable", "class_world_script_1_1_variable.html", [
+      [ "WorldScript::GlobalVariable", "class_world_script_1_1_global_variable.html", null ]
     ] ],
-    [ "Waypoint", "a11305.html", [
-      [ "PlayerWaypoint", "a11297.html", null ],
-      [ "ScriptWaypoint", "a11301.html", null ]
+    [ "Waypoint", "class_waypoint.html", [
+      [ "PlayerWaypoint", "class_player_waypoint.html", null ],
+      [ "ScriptWaypoint", "class_script_waypoint.html", null ]
     ] ],
-    [ "WorldScript::WaypointAdd", "a12425.html", null ],
-    [ "WorldScript::WaypointRemove", "a12429.html", null ],
-    [ "Widget", "a11669.html", [
-      [ "BuffWidget", "a11237.html", null ],
-      [ "CheckBoxWidget", "a11145.html", null ],
-      [ "ClipWidget", "a11153.html", [
-        [ "ScrollableWidget", "a11533.html", [
-          [ "CheckBoxGroupWidget", "a11149.html", null ],
-          [ "FilteredListWidget", "a11185.html", null ],
-          [ "ScrollableRectWidget", "a11529.html", [
-            [ "InventoryWidget", "a11697.html", null ]
+    [ "WorldScript::WaypointAdd", "class_world_script_1_1_waypoint_add.html", null ],
+    [ "WorldScript::WaypointRemove", "class_world_script_1_1_waypoint_remove.html", null ],
+    [ "Widget", "class_widget.html", [
+      [ "BuffWidget", "class_buff_widget.html", null ],
+      [ "CheckBoxWidget", "class_check_box_widget.html", null ],
+      [ "ClipWidget", "class_clip_widget.html", [
+        [ "ScrollableWidget", "class_scrollable_widget.html", [
+          [ "CheckBoxGroupWidget", "class_check_box_group_widget.html", null ],
+          [ "FilteredListWidget", "class_filtered_list_widget.html", null ],
+          [ "ScrollableRectWidget", "class_scrollable_rect_widget.html", [
+            [ "InventoryWidget", "class_inventory_widget.html", null ]
           ] ]
         ] ]
       ] ],
-      [ "DetailsWidget", "a11165.html", null ],
-      [ "DotbarWidget", "a11173.html", null ],
-      [ "FlagWidget", "a11189.html", null ],
-      [ "GroupWidget", "a11201.html", null ],
-      [ "InventoryItemWidget", "a11693.html", null ],
-      [ "RectWidget", "a11513.html", [
-        [ "ButtonWidget", "a11141.html", [
-          [ "MenuControlInputWidget", "a11325.html", null ]
+      [ "DetailsWidget", "class_details_widget.html", null ],
+      [ "DotbarWidget", "class_dotbar_widget.html", null ],
+      [ "FlagWidget", "class_flag_widget.html", null ],
+      [ "GroupWidget", "class_group_widget.html", null ],
+      [ "InventoryItemWidget", "class_inventory_item_widget.html", null ],
+      [ "RectWidget", "class_rect_widget.html", [
+        [ "ButtonWidget", "class_button_widget.html", [
+          [ "MenuControlInputWidget", "class_menu_control_input_widget.html", null ]
         ] ],
-        [ "CoopPlayerWidget", "a11245.html", null ],
-        [ "GameChatWidget", "a11365.html", null ],
-        [ "GroupRectWidget", "a11197.html", null ],
-        [ "MenuLobbyPlayerWidget", "a11469.html", null ]
+        [ "CoopPlayerWidget", "class_coop_player_widget.html", null ],
+        [ "GameChatWidget", "class_game_chat_widget.html", null ],
+        [ "GroupRectWidget", "class_group_rect_widget.html", null ],
+        [ "MenuLobbyPlayerWidget", "class_menu_lobby_player_widget.html", null ]
       ] ],
-      [ "ScalableSpriteButtonWidget", "a11517.html", null ],
-      [ "ScrollbarWidget", "a11537.html", null ],
-      [ "SkillWidget", "a11281.html", null ],
-      [ "SpriteBarWidget", "a11285.html", null ],
-      [ "SpriteButtonWidget", "a11605.html", [
-        [ "ColorButtonWidget", "a11157.html", null ]
+      [ "ScalableSpriteButtonWidget", "class_scalable_sprite_button_widget.html", null ],
+      [ "ScrollbarWidget", "class_scrollbar_widget.html", null ],
+      [ "SkillWidget", "class_skill_widget.html", null ],
+      [ "SpriteBarWidget", "class_sprite_bar_widget.html", null ],
+      [ "SpriteButtonWidget", "class_sprite_button_widget.html", [
+        [ "ColorButtonWidget", "class_color_button_widget.html", null ]
       ] ],
-      [ "SpriteWidget", "a11609.html", null ],
-      [ "TextInputWidget", "a11613.html", null ],
-      [ "TextWidget", "a11617.html", null ],
-      [ "TopNumberIconWidget", "a11289.html", null ],
-      [ "TransformWidget", "a11653.html", null ],
-      [ "WaypointMarkersWidget", "a11293.html", null ]
+      [ "SpriteWidget", "class_sprite_widget.html", null ],
+      [ "TextInputWidget", "class_text_input_widget.html", null ],
+      [ "TextWidget", "class_text_widget.html", null ],
+      [ "TopNumberIconWidget", "class_top_number_icon_widget.html", null ],
+      [ "TransformWidget", "class_transform_widget.html", null ],
+      [ "WaypointMarkersWidget", "class_waypoint_markers_widget.html", null ]
     ] ],
-    [ "WidgetAnimation", "a11673.html", [
-      [ "WidgetBoolAnimation", "a11681.html", null ],
-      [ "WidgetVec2Animation", "a11677.html", null ]
+    [ "WidgetAnimation", "class_widget_animation.html", [
+      [ "WidgetBoolAnimation", "class_widget_bool_animation.html", null ],
+      [ "WidgetVec2Animation", "class_widget_vec2_animation.html", null ]
     ] ],
-    [ "WidgetInspector", "a11321.html", null ],
-    [ "WidgetMouseEvt", "a11685.html", null ],
-    [ "WidgetSubText", "a11665.html", null ],
-    [ "WorldScript::Wind", "a12437.html", null ]
+    [ "WidgetInspector", "class_widget_inspector.html", null ],
+    [ "WidgetMouseEvt", "class_widget_mouse_evt.html", null ],
+    [ "WidgetSubText", "class_widget_sub_text.html", null ],
+    [ "WorldScript::Wind", "class_world_script_1_1_wind.html", null ]
 ];

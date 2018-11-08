@@ -1,17 +1,17 @@
 var dir_c5392cd973557de4d764b36b067a31c2 =
 [
-    [ "CardGame.as", "a09221.html", "a09221" ],
-    [ "CharacterCustomizationBase.as", "a09224.html", [
-      [ "CharacterCustomizationBase", "a11629.html", "a11629" ]
+    [ "CardGame.as", "_card_game_8as.html", "_card_game_8as" ],
+    [ "CharacterCustomizationBase.as", "_character_customization_base_8as.html", [
+      [ "CharacterCustomizationBase", "class_character_customization_base.html", "class_character_customization_base" ]
     ] ],
-    [ "CharacterCustomizationNPC.as", "a09227.html", [
-      [ "CharacterCustomizationNPC", "a11633.html", "a11633" ]
+    [ "CharacterCustomizationNPC.as", "_character_customization_n_p_c_8as.html", [
+      [ "CharacterCustomizationNPC", "class_character_customization_n_p_c.html", "class_character_customization_n_p_c" ]
     ] ],
-    [ "DungeonSettingsMenu.as", "a09230.html", [
-      [ "DungeonSettingsMenu", "a11637.html", "a11637" ]
+    [ "DungeonSettingsMenu.as", "_dungeon_settings_menu_8as.html", [
+      [ "DungeonSettingsMenu", "class_dungeon_settings_menu.html", "class_dungeon_settings_menu" ]
     ] ],
-    [ "LootBox.as", "a09233.html", "a09233" ],
-    [ "StatisticsInterface.as", "a09236.html", [
-      [ "StatisticsInterface", "a11649.html", "a11649" ]
+    [ "LootBox.as", "_loot_box_8as.html", "_loot_box_8as" ],
+    [ "StatisticsInterface.as", "_statistics_interface_8as.html", [
+      [ "StatisticsInterface", "class_statistics_interface.html", "class_statistics_interface" ]
     ] ]
 ];

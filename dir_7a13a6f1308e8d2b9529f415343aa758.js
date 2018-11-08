@@ -1,8 +1,8 @@
 var dir_7a13a6f1308e8d2b9529f415343aa758 =
 [
-    [ "backdrop.gui", "a14051.html", null ],
-    [ "chat.gui", "a04916.html", null ],
-    [ "lobbyplayers.gui", "a04919.html", null ],
-    [ "main.gui", "a14057.html", null ],
-    [ "notifier.gui", "a04925.html", null ]
+    [ "backdrop.gui", "ingame__menu_2backdrop_8gui.html", null ],
+    [ "chat.gui", "chat_8gui.html", null ],
+    [ "lobbyplayers.gui", "lobbyplayers_8gui.html", null ],
+    [ "main.gui", "ingame__menu_2main_8gui.html", null ],
+    [ "notifier.gui", "notifier_8gui.html", null ]
 ];

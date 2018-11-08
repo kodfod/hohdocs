@@ -1,0 +1,25 @@
+var class_hitscan =
+[
+    [ "Hitscan", "class_hitscan.html#a326a2f387963150adfdc801e282ead30", null ],
+    [ "DoAction", "class_hitscan.html#aabac040c849e9d7790fcccb211783e2e", null ],
+    [ "NeedNetParams", "class_hitscan.html#a15f6b75cd163d141cc7618d8b0440508", null ],
+    [ "NetDoAction", "class_hitscan.html#a524c786a8facd0fda39a2beb4097a424", null ],
+    [ "SetWeaponInformation", "class_hitscan.html#aa6702508f4f6ea24698cd19eed5fce1b", null ],
+    [ "Update", "class_hitscan.html#ad809abf79a2c7f0faa07d5cc57dfaae7", null ],
+    [ "m_penetrating", "class_hitscan.html#ad002ab247bf5c43cc8872183d86a3404", null ],
+    [ "m_penetratingMul", "class_hitscan.html#af0667aa64304e29027108ed6a0eb625e", null ],
+    [ "m_rangeMax", "class_hitscan.html#afbbc93dc803e3abbefc1509d9675c77b", null ],
+    [ "m_rangeMin", "class_hitscan.html#a1ea453a301327404d807b6b37060922f", null ],
+    [ "m_rays", "class_hitscan.html#abab90640edf3be7870ba47c7d694f383", null ],
+    [ "m_ricochet", "class_hitscan.html#a4a457587cc4492a4d42c79ee502acbf0", null ],
+    [ "m_ricochetDamageExtra", "class_hitscan.html#a68b99a39e2a2b765c6b0271aa35321ca", null ],
+    [ "m_ricochetExtra", "class_hitscan.html#a53c8dd8240e6497a97b78c87c0fcc38e", null ],
+    [ "m_shooter", "class_hitscan.html#a6b7fae4970abf0a2c8fb633ffe17ffbf", null ],
+    [ "m_spread", "class_hitscan.html#a4c25eff3d66f7a13e66dba49998bfb33", null ],
+    [ "m_spreadCooldown", "class_hitscan.html#adf342ca5f00d2619073f8b5f63c5dfcc", null ],
+    [ "m_spreadMax", "class_hitscan.html#a20870da7ddb875fbc7e9280e165f62a5", null ],
+    [ "m_spreadMin", "class_hitscan.html#a9aedf107eeb8fdf2ceb2abcfa70c62bb", null ],
+    [ "m_spreadTime", "class_hitscan.html#a2ef2fb9e4e74d2c955d6e3f0d5ba0693", null ],
+    [ "m_spreadTimeC", "class_hitscan.html#a148b2ef582f7e8d050c6bce0414aeb32", null ],
+    [ "m_teamDmg", "class_hitscan.html#a7157f9ae3ba9c7033659cee74e0b5047", null ]
+];

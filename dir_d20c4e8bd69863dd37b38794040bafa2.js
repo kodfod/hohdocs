@@ -1,12 +1,12 @@
 var dir_d20c4e8bd69863dd37b38794040bafa2 =
 [
-    [ "IngameMouse.as", "a08975.html", [
-      [ "IngameMouse", "a11309.html", "a11309" ]
+    [ "IngameMouse.as", "_ingame_mouse_8as.html", [
+      [ "IngameMouse", "class_ingame_mouse.html", "class_ingame_mouse" ]
     ] ],
-    [ "MenuMouse.as", "a08978.html", [
-      [ "MenuMouse", "a11313.html", "a11313" ]
+    [ "MenuMouse.as", "_menu_mouse_8as.html", [
+      [ "MenuMouse", "class_menu_mouse.html", "class_menu_mouse" ]
     ] ],
-    [ "MouseBase.as", "a08981.html", [
-      [ "MouseBase", "a11317.html", "a11317" ]
+    [ "MouseBase.as", "_mouse_base_8as.html", [
+      [ "MouseBase", "class_mouse_base.html", "class_mouse_base" ]
     ] ]
 ];

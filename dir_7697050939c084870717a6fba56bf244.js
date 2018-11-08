@@ -1,21 +1,21 @@
 var dir_7697050939c084870717a6fba56bf244 =
 [
-    [ "BuildingUpgradeStep.as", "a09377.html", [
-      [ "BuildingUpgradeStep", "a11821.html", "a11821" ]
+    [ "BuildingUpgradeStep.as", "_building_upgrade_step_8as.html", [
+      [ "BuildingUpgradeStep", "class_upgrades_1_1_building_upgrade_step.html", "class_upgrades_1_1_building_upgrade_step" ]
     ] ],
-    [ "ItemUpgradeStep.as", "a09380.html", [
-      [ "ItemUpgradeStep", "a11825.html", "a11825" ]
+    [ "ItemUpgradeStep.as", "_item_upgrade_step_8as.html", [
+      [ "ItemUpgradeStep", "class_upgrades_1_1_item_upgrade_step.html", "class_upgrades_1_1_item_upgrade_step" ]
     ] ],
-    [ "KeyUpgradeStep.as", "a09383.html", [
-      [ "KeyUpgradeStep", "a11829.html", "a11829" ]
+    [ "KeyUpgradeStep.as", "_key_upgrade_step_8as.html", [
+      [ "KeyUpgradeStep", "class_upgrades_1_1_key_upgrade_step.html", "class_upgrades_1_1_key_upgrade_step" ]
     ] ],
-    [ "ModifierUpgradeStep.as", "a09386.html", [
-      [ "ModifierUpgradeStep", "a11833.html", "a11833" ]
+    [ "ModifierUpgradeStep.as", "_modifier_upgrade_step_8as.html", [
+      [ "ModifierUpgradeStep", "class_upgrades_1_1_modifier_upgrade_step.html", "class_upgrades_1_1_modifier_upgrade_step" ]
     ] ],
-    [ "OreTraderUpgradeStep.as", "a09389.html", [
-      [ "OreTraderUpgradeStep", "a11837.html", "a11837" ]
+    [ "OreTraderUpgradeStep.as", "_ore_trader_upgrade_step_8as.html", [
+      [ "OreTraderUpgradeStep", "class_upgrades_1_1_ore_trader_upgrade_step.html", "class_upgrades_1_1_ore_trader_upgrade_step" ]
     ] ],
-    [ "RecordUpgradeStep.as", "a09392.html", [
-      [ "RecordUpgradeStep", "a11841.html", "a11841" ]
+    [ "RecordUpgradeStep.as", "_record_upgrade_step_8as.html", [
+      [ "RecordUpgradeStep", "class_upgrades_1_1_record_upgrade_step.html", "class_upgrades_1_1_record_upgrade_step" ]
     ] ]
 ];

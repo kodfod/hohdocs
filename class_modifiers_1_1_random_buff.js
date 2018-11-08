@@ -1,0 +1,25 @@
+var class_modifiers_1_1_random_buff =
+[
+    [ "RandomBuff", "class_modifiers_1_1_random_buff.html#a7ec62281dc16367966357b35f3c7673d", null ],
+    [ "ArmorAdd", "class_modifiers_1_1_random_buff.html#abdd43ef5372d86a50c6f7130b4c61470", null ],
+    [ "DamageMul", "class_modifiers_1_1_random_buff.html#a4719cfee2706678f3de85326ca500521", null ],
+    [ "ExpMul", "class_modifiers_1_1_random_buff.html#a1dcdecd120d1b2cf3014fcf826af62c9", null ],
+    [ "GoldGainScale", "class_modifiers_1_1_random_buff.html#a856dd91697857f1da4d3c5b81b06d1f2", null ],
+    [ "HasArmorAdd", "class_modifiers_1_1_random_buff.html#a2470b6703c1842e4a4bb9a7b50752c35", null ],
+    [ "HasDamageMul", "class_modifiers_1_1_random_buff.html#a571ab95f94a6b9fbe3e8cad6005c210a", null ],
+    [ "HasExpMul", "class_modifiers_1_1_random_buff.html#a55887f564ba3d478bf6e7d995fc4423a", null ],
+    [ "HasGoldGainScale", "class_modifiers_1_1_random_buff.html#ad9bc380cf06c05583bb8e3506eeadbe3", null ],
+    [ "HasOreGainScale", "class_modifiers_1_1_random_buff.html#ae3cb4cacb4aae76df4881ae010accfb6", null ],
+    [ "HasRegenAdd", "class_modifiers_1_1_random_buff.html#a0addc8806dbeed5eb268dd28481b6b64", null ],
+    [ "HasStatsAdd", "class_modifiers_1_1_random_buff.html#a59df71e10591da04635e13bcf2dd4dc4", null ],
+    [ "OreGainScale", "class_modifiers_1_1_random_buff.html#ad7cfe2b66f56fb5a4450f8858cdc9d3e", null ],
+    [ "RegenAdd", "class_modifiers_1_1_random_buff.html#af08fd05fc6689a11281f4eaa340ecd28", null ],
+    [ "StatsAdd", "class_modifiers_1_1_random_buff.html#a50927af33f4be31de7fca4c2cf340cd6", null ],
+    [ "m_armorAdd", "class_modifiers_1_1_random_buff.html#ac97e3b20d69edfa9f34b3372c64cd795", null ],
+    [ "m_dmgScale", "class_modifiers_1_1_random_buff.html#a080ae4f3c1e1cd2b7d89a62c971e14af", null ],
+    [ "m_expScale", "class_modifiers_1_1_random_buff.html#a938b1d8077a9e498435d739a422cb433", null ],
+    [ "m_goldScale", "class_modifiers_1_1_random_buff.html#a7dfa80ce6fbed6f6ef986c2f34ad2c68", null ],
+    [ "m_hpAdd", "class_modifiers_1_1_random_buff.html#ac2416c814df4078aa59f5d77befef552", null ],
+    [ "m_oreScale", "class_modifiers_1_1_random_buff.html#aaeed418144f55b3adad9288fa2f472dc", null ],
+    [ "m_regenAdd", "class_modifiers_1_1_random_buff.html#a380a894a1dea4f3810faf064efaeebc8", null ]
+];

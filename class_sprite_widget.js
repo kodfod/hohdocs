@@ -1,0 +1,25 @@
+var class_sprite_widget =
+[
+    [ "SpriteWidget", "class_sprite_widget.html#a8e4a9d856a87fdc89788fd5bff6a1a4a", null ],
+    [ "AnimateSet", "class_sprite_widget.html#ad9ebe219a8520ebbc56afc4af2a4a239", null ],
+    [ "AnimateSet", "class_sprite_widget.html#ae0c2ab68a19b6678a39a7a7359962bc7", null ],
+    [ "Clone", "class_sprite_widget.html#a55bd68788f11ed186c226236194bd7e8", null ],
+    [ "DoDraw", "class_sprite_widget.html#a453d33e50d9575483ace0b607940ffb1", null ],
+    [ "Load", "class_sprite_widget.html#a9a1b9ebcdea14afb4b932209b547fbbf", null ],
+    [ "SetSprite", "class_sprite_widget.html#ad15dfe9cd7fbadb8b08d2a78fad9badd", null ],
+    [ "SetSprite", "class_sprite_widget.html#a346e4e6e77b9763cb5f851f804610820", null ],
+    [ "SetSprite", "class_sprite_widget.html#acd48c5f0fd975ff181a37ccd8d9d51e9", null ],
+    [ "SetTexture", "class_sprite_widget.html#aa4fc83acb7e0c5364412d4d61079ac1e", null ],
+    [ "m_autoSize", "class_sprite_widget.html#acbb06e51441103a4f45f37978e8c9e0b", null ],
+    [ "m_color", "class_sprite_widget.html#a3502970e7fc1e9ffe1f82fb51ac4aa08", null ],
+    [ "m_colorize", "class_sprite_widget.html#a391ba701e0f0fa06957466876bcf47d9", null ],
+    [ "m_colorizeColors", "class_sprite_widget.html#ac4ffc68dfd30f4e504e99d80926f7d54", null ],
+    [ "m_def", "class_sprite_widget.html#a801cf7ab9fc104b0381017b6b41321c1", null ],
+    [ "m_multiColors", "class_sprite_widget.html#af312ac16786ed883abc69c767bba751f", null ],
+    [ "m_sprite", "class_sprite_widget.html#acda53ceb8d6ae8721416879844a408bd", null ],
+    [ "m_spriteOrig", "class_sprite_widget.html#a0923645a3abc230fe51aedef0d055b6c", null ],
+    [ "m_spriteSrc", "class_sprite_widget.html#a00640305793c2eb4832e72224cb2213f", null ],
+    [ "m_spriteTexture", "class_sprite_widget.html#a26177c1008d0727e156cfaff0bbe45d1", null ],
+    [ "m_ssprite", "class_sprite_widget.html#ae61d5e45fa868111553f29c76cebcecd", null ],
+    [ "m_timeOffset", "class_sprite_widget.html#a3cb6d19c89ff19fe6d2c401a0999cd9e", null ]
+];
